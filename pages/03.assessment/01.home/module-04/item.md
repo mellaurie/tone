@@ -10,9 +10,9 @@ header_image_alt_text: 'Paper-based prototype'
 ---
 
 ## How to explore and communicate possible design solutions?
-[Forms and Methods](../../presentations/module-04?target=_blank#/module-04-4)  
-[Design Scenarios](../../presentations/module-04?target=_blank#/module-04-5)  
-[Sketching and Storyboarding](../../presentations/module-04?target=_blank#/module-04-6)  
+[Forms and Methods](../../presentations/module-04#/module-04-4?target=_blank)  
+[Design Scenarios](../../presentations/module-04#/module-04-5?target=_blank)  
+[Sketching and Storyboarding](../../presentations/module-04#/module-04-6?target=_blank)  
 
 ===
 
@@ -22,7 +22,7 @@ header_image_alt_text: 'Paper-based prototype'
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519523)
 
 ### Presented Slides  
-[presentation="cpt363-intermediate/presentations/module-04"]
+[presentation="cpt363-advanced/presentations/module-04"]
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  

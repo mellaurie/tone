@@ -7,7 +7,7 @@ cache_enable: false
 
 ## Course Facilitator
 Some Name  
-<somename@somewhere.edu>   
+[safe-email autolink="true"]somename@somewhere.edu[/safe-email]  
 
 In-person office hours:  
 Wednesdays 2:30-4:00pm  
@@ -23,6 +23,12 @@ Fridays 12:00-1:00pm
 [Quizzes](https://sso.canvaslms.com/courses/1413912/quizzes)  
 [Class Discussions](https://sso.canvaslms.com/courses/1413912/discussion_topics)  
 [Grades](https://sso.canvaslms.com/courses/1413912/grades)  
+[Syllabus](https://sso.canvaslms.com/courses/1413912/assignments/syllabus)
+
+## Paul's Web Pick of the Week
+[plugin:page-inject](../all-web-picks-of-the-week/latest)
+
+[View all Web Picks of the Week](../all-web-picks-of-the-week)
 
 ## Twitter Feed
 [twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]

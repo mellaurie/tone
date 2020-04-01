@@ -10,9 +10,9 @@ header_image_alt_text: 'Bullseye'
 ---
 
 ## How to make more strategic design decisions?  
-[User Experience Strategy](../../presentations/module-03?target=_blank#/module-03-4)  
-[Current State and Future State](../../presentations/module-03?target=_blank#/module-03-5)  
-[Journey Mapping](../../presentations/module-03?target=_blank#/module-03-6)  
+[User Experience Strategy](../../presentations/module-03#/module-03-4?target=_blank)  
+[Current State and Future State](../../presentations/module-03#/module-03-5?target=_blank)  
+[Journey Mapping](../../presentations/module-03#/module-03-6?target=_blank)  
 
 ===
 
@@ -22,7 +22,7 @@ header_image_alt_text: 'Bullseye'
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519524)
 
 ### Presented Slides  
-[presentation="planning/presentations/module-03"]
+[presentation="cpt363-advanced/presentations/module-03"]
 
 ### Supplemental Materials  
 [Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
@@ -30,6 +30,9 @@ header_image_alt_text: 'Bullseye'
 
 ### Assignments
 [Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531)  
+
+### Quick Quiz
+[h5p id="213958"]
 
 ### Required Reading  
 [embedly url="https://www.aytech.ca/blog/user-journey-map/"]

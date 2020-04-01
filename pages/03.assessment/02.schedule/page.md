@@ -38,7 +38,7 @@ published: true
 [fa icon="pencil"][Usability Inspection](https://sso.canvaslms.com/courses/1413912/assignments/9519532) assignment due Jun 30th  
 [fa icon="file"][Usability Inspection Report Template](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Usability%20Inspection%20Report%20Template)  
 [fa icon="desktop"][plugin:page-inject](../presentations/module-06?template=partials/presentation_iframelinkonly)
-[fa icon="book"][An Overview of Expert Heuristic Evaluations](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php)      
+[fa icon="book"][An Overview of Expert Heuristic Evaluations](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php)  
 
 ## [fa icon="calendar-o"]Week 7 (Jun 20 - 26)
 **How to design for mobile and multi-device usage?**  

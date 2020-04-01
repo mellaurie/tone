@@ -1,8 +1,8 @@
 ---
-title: Planning your Pivot
+title: Digital
 published: true
 visible: false
-subsite_list_description: 'You have limited time to prepare to teach a course in a digital format. Here is how to plan.'
+subsite_list_description: 'This is an advanced example course, using a large number of page types and features.'
 hide_from_course_list: false
 subsite_home: home
 page-inject:
