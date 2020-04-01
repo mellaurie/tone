@@ -16,17 +16,18 @@ Another key focus of our time together is to build a COMMUNITIY OF INQUIRY - a f
 
 ### Course Topics
 This mini-course is organized into 6 units...
+
 *Week 1: April 6-10 - Course Planning*
   1. Online Course Design Principles
-  1. Course Design Process & Elements
+  2. Course Design Process & Elements
 
 *Week 2: April 13-17 - Learning Activities & Assessment*
-  1. Engaging Learning Activities & Assessment Strategies
-  1. Teaching Online
+  3. Engaging Learning Activities & Assessment Strategies
+  4. Teaching Online & Building Community
 
 *Week 3: April 20-24 - Digitally Mediated Teaching and Learning*
- 1. Technology and Learning / Learning Technology
- 1. Digital Tools and Resources
+ 5. Technology and Learning / Learning Technology
+ 6. Digital Tools and Resources (e.g. Zoom, pwpt recordings, Moodle)
 
 
 ### Synchronous Zoom Sessions
