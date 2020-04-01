@@ -29,9 +29,25 @@ This mini-course is organized into 6 units...
  1. Digital Tools and Resources
 
 
-### Schedule
-...choice of topics - learner directed, etc.
-Synchronous sessions...
+### Synchronous Zoom Sessions
+Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
+
+| Date              | Time   | Description                                   |
+|---------------------|-----------|-----------------------------------------------|
+| Monday April 6             | 11am PT      | Introduction to Course; Navigation; Moodle set-up; Design Principles                                 |
+| Wednesday April 8               | 11am PT     |   Course Design Process                       |
+| Friday April 10 | 11am PT      | Open Session - Q & A                 |
+| Monday April 13      | 11am PT      |  Learning Activities               |
+| Wednesday April 15  | 11am PT      | Assessments           |
+| Friday April 17                 | 11am PT      | Open Session - Q & A                               |
+| Monday April 20                  | 11am PT      | Technology                               |
+| Wednesday April 22              | 11am PT      | Tech Tools                  |
+| Friday April 24         | 11am PT      | Wrap Up and Sharing Session                         |
+
+**Zoom link:**
+
+Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.
+
 
 **Navigation**
 For information on how to navigate through this course on Moodle, see [here](http://create.twu.ca/help/moodle).
