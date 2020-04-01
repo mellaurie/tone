@@ -1,8 +1,8 @@
 ---
-title: Digital
+title: Planning your Pivot
 published: true
 visible: false
-subsite_list_description: 'This is an advanced example course, using a large number of page types and features.'
+subsite_list_description: 'What to do with limited time to pivot your course to remote delivery.'
 hide_from_course_list: false
 subsite_home: home
 page-inject:
