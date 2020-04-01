@@ -1,7 +1,7 @@
 ---
-title: 'Week 1 (May 9 - 15)'
+title: 'Week 1 (April 6 - 10)'
 published: true
-date: '09-05-2018 00:00'
+date: '01-04-2020 00:00'
 header_image_alt_text: 'SFU Academic Quadrangle'
 header_image_credit: 'Julian Schüngel, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
@@ -10,27 +10,46 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-## What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](../../presentations/module-01#/module-01-4?target=_blank)  
-[Design Thinking](../../presentations/module-01#/module-01-5?target=_blank)  
-[Usability and UCD](../../presentations/module-01#/module-01-6?target=_blank)  
+# Unit 1: Online Course Design Principles
+## Overview
+In this unit we will explore what online learning is, as well as various principles in online course design. Consider...
+Philosophy of Online Learning...
 
-===
 
-## **What is usability and user experience design?**
+## Topics
+1. What is Online Learning?
+ - Online vs. f2f
+ - Modes of delivery (blended, flipped, etc.)
+ - Multi-access
+1. Key Principles of Online Course Design
+ - experiential learning, active learning,
+ - inquiry/problem based learning,
+ - collaborative learning,
+ - inclusive learning
+ - transformational learning,
+1. Philosophy of Online Learning
 
-### Summaries and Questions  
-[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-01"]
+## Learning Outcomes
+After completing this unit, you will be able to:
+ - compare various modalities of online learning
+ - examine the problems with trying to use classroom models of teaching in online environments
+ - examine the characteristics of and differences between online collaborative learning, competency-based learning, and communities of practice
+ - develop a philosophy of online learning.
 
-### Supplemental Materials  
-[Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)  
-[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
 
-### Handouts
-[Course Overview](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Course%20Overview)  
+## Activity Checklist
 
-### Recommended Reading  
-[embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
+Here is a checklist of learning activities you will benefit from in
+completing this unit. Note the synchronous sessions...
+
+[plugin:content-inject](../_1-1)
+[plugin:content-inject](../_1-2)
+[plugin:content-inject](../_1-3)
+[plugin:content-inject](../_1-4)
+[plugin:content-inject](../_1-5)
+
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.
