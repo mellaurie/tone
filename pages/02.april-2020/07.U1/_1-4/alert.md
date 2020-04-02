@@ -7,7 +7,37 @@ visible: false
 
 #### Activity 1.4: Key Resources in Online learning
 
-Although we will get more into learning activity and assessment ideas in future topics, these resources give you a sneak peak into some of the design questions to ask when blending a course, or making it multi-acess.  Feel free to browse and we'll go deeper into these topics in Week 2.
+!! Kelly to select from resources below:
+
+If you are interested in learning more about online models of learning, feel free browse throug the following resources;
+
+-   [Three generations of distance education pedagogy](http://www.irrodl.org/index.php/irrodl/article/view/890)
+
+-   [The Flipped Classroom: An Opportunity to Engage
+    Millennials…](https://pdfs.semanticscholar.org/daa3/b94cdc7b52b3381a7c7e21022a7a8c005f84.pdf)
+
+-   [Millennial Students and the Flipped
+    Classroom](http://asbbs.org/files/ASBBS2014/PDF/P/Phillips_Trainor(P519-530).pdf)
+
+-   [Directions for m-learning research to enhance active
+    learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2859&rep=rep1&type=pdf)
+
+-   [Blended learning & flipped
+    classroom](https://www.youtube.com/watch?v=paQCE58334M)
+
+-   [Flipping the
+    Classroom](https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/)
+
+-   [Blended Learning and Flipped
+    Classrooms](https://www.unb.ca/fredericton/cetl/tls/resources/teaching_tips/tt_instructional_methods/blended_flipped_classrooms.html)
+
+- Oxford’s [Personalized
+Learning](http://www.ox.ac.uk/admissions/undergraduate/student-life/exceptional-education/personalised-learning)
+tutoring model.
+
+
+### BONUS ACTIVITY RESOURCES
+Although we will get more into learning activity and assessment ideas in future topics, these resources give you a sneak peak into some of the design questions to ask when blending a course, or making it multi-access.  Feel free to browse and we'll go deeper into these topics in Week 2.
 <ul>
  	<li><a href="https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/developing-assignments/blended-learning/developing-online-learning-activities" target="_blank" rel="noopener">Developing Online Learning Activities for Blended Courses</a>&nbsp;from the University of Waterloo.
 <ul>
