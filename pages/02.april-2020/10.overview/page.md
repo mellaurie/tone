@@ -6,6 +6,8 @@ show_sidebar: false
 hide_git_sync_repo_link: false
 ---
 
+[plugin:content-inject](_important-reminders)
+
 ## Welcome to Online Teaching and Learning!
 
 ### Course Description
@@ -33,19 +35,19 @@ This mini-course is organized into 6 units...
 ### Synchronous Zoom Sessions
 Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
 
-| Date              | Time   | Description                                   |
-|---------------------|-----------|-----------------------------------------------|
-| Monday April 6             | 11am PT      | Introduction to Course; Navigation; Moodle set-up; Design Principles                                 |
-| Wednesday April 8               | 11am PT     |   Course Design Process                       |
-| Friday April 10 | 11am PT      | Open Session - Q & A                 |
-| Monday April 13      | 11am PT      |  Learning Activities               |
-| Wednesday April 15  | 11am PT      | Assessments           |
-| Friday April 17                 | 11am PT      | Open Session - Q & A                               |
-| Monday April 20                  | 11am PT      | Technology                               |
-| Wednesday April 22              | 11am PT      | Tech Tools                  |
-| Friday April 24         | 11am PT      | Wrap Up and Sharing Session                         |
+| Date| Time   | Description | Facilitators |
+|---|----|---|---|
+| Monday April 6| 11am PT| Introduction to Course; Navigation; Moodle set-up; Design Principles | Colin & Scott |
+| Wednesday April 8  | 11am PT     |   Course Design Process    | Kelly |
+| Friday April 10 | 11am PT| Open Session - Q & A    | Colin, Scott, & Kelly |
+| Monday April 13| 11am PT|  Learning Activities  | Kelly |
+| Wednesday April 15  | 11am PT| Assessments     | Kelly|
+| Friday April 17    | 11am PT| Open Session - Q & A     | Colin & Scott |
+| Monday April 20     | 11am PT| Technology     | Colin, Scott & Kelly |
+| Wednesday April 22 | 11am PT| Tech Tools     | Colin & Scott |
+| Friday April 24   | 11am PT| Wrap Up and Sharing Session| Colin, Scott, & Kelly |
 
-**Zoom link:**
+The link to each Zoom session will be posted in Moodle.
 
 Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.
 
@@ -69,5 +71,5 @@ After successfully completing the course, you will be able to:
 
 
 ### **Required** Texts and Materials
-- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.
 - All resources will be provided online.
