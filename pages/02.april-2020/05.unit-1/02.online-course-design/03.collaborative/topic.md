@@ -1,5 +1,5 @@
 ---
-title: 'Lean UX'
+title: 'Collaborative and Cooperative Learning'
 ---
 
 Lean UX  

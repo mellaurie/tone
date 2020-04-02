@@ -1,5 +1,5 @@
 ---
-title: 'Scenario-based Design (also known as Task-Centered Design)'
+title: 'Inclusive Learning'
 ---
 
 Scenario-based Design (also known as Task-Centered Design)  

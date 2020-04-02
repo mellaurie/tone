@@ -1,5 +1,5 @@
 ---
-title: 'Design Ethics'
+title: 'Inquiry-Based Learning'
 ---
 
 Design Ethics  

@@ -1,5 +1,5 @@
 ---
-title: 'Agile UX'
+title: 'Experiential and Agile Learning'
 ---
 
 Agile UX  
