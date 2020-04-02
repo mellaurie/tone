@@ -2,7 +2,7 @@
 title: 'Inquiry-Based Learning'
 ---
 
-Design Ethics  
+Inquiry-Based Learning  
 _Design ethics are values or aspects considered by designers during the creation of a service or product._
 
 *   [A Guide to Everyday Design Ethics](https://www.invisionapp.com/blog/guide-everyday-design-ethics/)

@@ -2,7 +2,7 @@
 title: 'Inclusive Learning'
 ---
 
-Scenario-based Design (also known as Task-Centered Design)  
+Inclusive Learning  
 _Another form of user-centered design that relies on stories of user interaction as the source of guidance for design requirements._
 
 *   [Five Reasons for Scenario-Based Design (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5310&amp;amp;amp;amp;rep=rep1&amp;amp;amp;amp;type=pdf)  

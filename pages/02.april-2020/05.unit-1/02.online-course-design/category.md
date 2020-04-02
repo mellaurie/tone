@@ -1,4 +1,4 @@
 ---
-title: 'What Does a Holistic User Experience Design Process Look Like?'
+title: 'Online Course Design'
 visible: false
 ---

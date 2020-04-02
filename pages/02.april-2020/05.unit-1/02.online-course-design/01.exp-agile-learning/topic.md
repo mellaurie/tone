@@ -2,7 +2,7 @@
 title: 'Experiential and Agile Learning'
 ---
 
-Agile UX  
+Experiential and Agile Learning
 _A variation of the Agile methodology, which supports a more collaborative approach to various user experience design methods._
 
 *   [Agile User Experience Design](http://www.uxmatters.com/mt/archives/2012/04/agile-user-experience-design.php)  

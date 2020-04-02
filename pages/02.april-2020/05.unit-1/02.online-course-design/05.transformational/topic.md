@@ -2,7 +2,7 @@
 title: 'Transformational Learning'
 ---
 
-User-centered design (UCD)  
+Transformational Learning  
 _A methodology and philosophy where users and their goals are the focal point._
 
 *   [Being User-Centered When Implementing a UCD Process](http://www.wqusability.com/articles/ucd-on-ucd.html)  
