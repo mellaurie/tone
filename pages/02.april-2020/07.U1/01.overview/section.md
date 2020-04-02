@@ -11,15 +11,9 @@ In this unit we will explore what online learning is, as well as various princip
 asdf
 ## Topics
 1. What is Multi-Access Learning?
- - Online vs. f2f
- - Modes of delivery (blended, flipped, etc.)
- - Multi-access
+
 1. Key Principles of Online Course Design
- - experiential learning, active learning,
- - inquiry/problem based learning,
- - collaborative learning,
- - inclusive learning
- - transformational learning,
+
 1. Philosophy of Online Learning
 
 
@@ -32,8 +26,10 @@ After completing this unit, you will be able to:
 
 
 ## Activity Checklist
+Here is a checklist of learning activities you will benefit from in
+completing this unit. You may find it useful for planning your week.
 
-TBD
+[plugin:content-inject](_schedule)
 
 ## Resources:
 - CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  

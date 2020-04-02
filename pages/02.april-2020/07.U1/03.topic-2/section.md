@@ -5,3 +5,12 @@ show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
 ## Topic 2
+
+
+
+1. Key Principles of Online Course Design
+ - experiential learning, active learning,
+ - inquiry/problem based learning,
+ - collaborative learning,
+ - inclusive learning
+ - transformational learning,
