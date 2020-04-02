@@ -1,5 +1,5 @@
 ---
-title: 'Week 4 (May 30 - Jun 5)'
+title: 'Unit 4: Teaching Online'
 published: true
 date: '30-05-2018 00:00'
 hide_from_post_list: false
@@ -9,28 +9,31 @@ header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/
 header_image_alt_text: 'Paper-based prototype'
 ---
 
-## How to explore and communicate possible design solutions?
-[Forms and Methods](../../presentations/module-04#/module-04-4?target=_blank)  
-[Design Scenarios](../../presentations/module-04#/module-04-5?target=_blank)  
-[Sketching and Storyboarding](../../presentations/module-04#/module-04-6?target=_blank)  
+# Unit 4: Teaching Online
+## Overview
+...
 
-===
 
-## **How to explore and communicate possible design solutions?**
+## Topics
+1. Teaching Presence
+1. Building Community
+1. Inclusive Teaching: What is it and Why does it Matter?
+1. Feedback & Assessment
+1. Online Challenges & Opportunities
 
-### Summaries and Questions  
-[May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519523)
+## Learning Outcomes
+After completing this unit, you will be able to:
+ - consider how to build rapport and a teaching presence in your online course;
+ - discuss the use of forums, synchronous sessions, group assignments, and icebreakers to build community.
+ -
+ - Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-04"]
 
-### Supplemental Materials  
-[UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-[plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
+## Activity Checklist
 
-### Handouts
-[4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-browsers)  
-[4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-mobiles)  
+TBD
 
-### Required Reading  
-[embedly url="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/"]
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.

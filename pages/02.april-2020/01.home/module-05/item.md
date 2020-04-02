@@ -1,5 +1,5 @@
 ---
-title: 'Week 5 (Jun 6 - 12)'
+title: 'Unit 5: Technology & Learning'
 published: true
 date: '06-06-2018 00:00'
 hide_from_post_list: true
@@ -9,24 +9,28 @@ header_image_creditlink: 'https://www.flickr.com/photos/lucamascaro/4642289926/i
 header_image_alt_text: 'Usability testing'
 ---
 
-## How to plan, conduct, and summarize usability tests?  
-[Testing Methods](../../presentations/module-05#/module-05-4?target=_blank)
-[Conducting Tests](../../presentations/module-05#/module-05-5?target=_blank)  
-[Analysis and Reporting](../../presentations/module-05#/module-05-6?target=_blank)  
+# Unit 5: Technology and Learning
+## Overview
+...
 
-===
 
-## **How to plan, conduct, and summarize usability tests?**
+## Topics
+1.
 
-### Summaries and Questions  
-[Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519522)
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-05"]
 
-### Supplemental Materials  
-[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
-[plugin:youtube](https://www.youtube.com/watch?v=QckIzHC99Xc)
+## Learning Outcomes
+After completing this unit, you will be able to:
+ -
 
-### Required Reading  
-[embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
+
+
+
+## Activity Checklist
+
+TBD
+
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.

@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 (Jun 13 - 19)'
+title: 'Unit 6: Digital Tools & Resources'
 published: false
 date: '13-06-2018 00:00'
 hide_from_post_list: false
@@ -9,28 +9,35 @@ header_image_creditlink: 'https://www.flickr.com/photos/rdolishny/2760207306/'
 header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clinic'
 ---
 
-## How to conduct a usability inspection?   
-[Cognitive Walkthroughs](../../presentations/module-06#/module-06-4?target=_blank)  
-[Conducting Heuristic Evaluations](../../presentations/module-06#/module-02-5?target=_blank))  
-[Nielsen’s Heuristics](../../presentations/module-06#/module-06-6?target=_blank) 
+# Unit 6: Digital Tools and Resources
+## Overview
+...
 
-===
 
-## **How to conduct a usability inspection?**
+## Topics
+1.
 
-### Summaries and Questions  
-[Jun 13th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519520)
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-06"]
 
-### Supplemental Materials  
-[Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-[iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"]
+## Learning Outcomes
+After completing this unit, you will be able to:
+ -
 
-### Assignments
-[Usability Inspection](https://sso.canvaslms.com/courses/1413912/assignments/9519532)   
-[Usability Inspection Report Template](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Usability%20Inspection%20Report%20Template)
 
-### Required Reading  
-[embedly url="https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php"]
+
+
+## Activity Checklist
+
+Here is a checklist of learning activities you will benefit from in
+completing this unit. Note the synchronous sessions...
+
+[plugin:content-inject](../_1-1)
+[plugin:content-inject](../_1-2)
+[plugin:content-inject](../_1-3)
+[plugin:content-inject](../_1-4)
+[plugin:content-inject](../_1-5)
+
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.
