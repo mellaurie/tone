@@ -1,5 +1,5 @@
 ---
-title: 'Design Thinking'
+title: 'Online'
 ---
 
 Design Thinking  

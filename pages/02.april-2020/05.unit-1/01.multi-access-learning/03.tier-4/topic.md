@@ -1,5 +1,5 @@
 ---
-title: 'Usability'
+title: 'Open'
 ---
 
 Usability  
