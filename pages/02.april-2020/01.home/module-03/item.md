@@ -1,5 +1,5 @@
 ---
-title: 'Week 3 (May 23 - 29)'
+title: 'Unit 3: Learning Activities & Assessment'
 published: true
 date: '23-05-2018 00:00'
 hide_from_post_list: false
@@ -9,30 +9,41 @@ header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/
 header_image_alt_text: 'Bullseye'
 ---
 
-## How to make more strategic design decisions?  
-[User Experience Strategy](../../presentations/module-03#/module-03-4?target=_blank)  
-[Current State and Future State](../../presentations/module-03#/module-03-5?target=_blank)  
-[Journey Mapping](../../presentations/module-03#/module-03-6?target=_blank)  
+# Unit 3: Engaging Learning Activities & Assessment Strategies
+## Overview
+...
 
-===
 
-## **How to make more strategic design decisions?**
+## Topics
+1. The Community of Inquiry Model
+1. Formative vs summative assessment
+1. Learning Activities
+1. Feedback and grading rubrics
 
-### Summaries and Questions  
-[May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519524)
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-03"]
+## Learning Outcomes
+After completing this unit, you will be able to:
+ - describe the three presences in the Community of Inquiry (CoI) model
+ - design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
+ - align assessments to learning outcomes and learning activities.
+ - explain the difference between formative and summative assessment
+ - explore practical assessment strategies that you can implement in your classes.
+ - create a grading rubric
+ - evaluate the effectiveness of activities, resources and technology to support learning;
 
-### Supplemental Materials  
-[Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
-[plugin:youtube](https://www.youtube.com/watch?v=a40QYgO-_aM)
 
-### Assignments
-[Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531)  
+## Activity Checklist
 
-### Quick Quiz
-[h5p id="213958"]
+Here is a checklist of learning activities you will benefit from in
+completing this unit. Note the synchronous sessions...
 
-### Required Reading  
-[embedly url="https://www.aytech.ca/blog/user-journey-map/"]
+[plugin:content-inject](../_1-1)
+[plugin:content-inject](../_1-2)
+[plugin:content-inject](../_1-3)
+[plugin:content-inject](../_1-4)
+[plugin:content-inject](../_1-5)
+
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.

@@ -1,5 +1,5 @@
 ---
-title: 'Week 1 (April 6 - 10)'
+title: 'Unit 1: Course Design Principles'
 published: true
 date: '01-04-2020 00:00'
 header_image_alt_text: 'SFU Academic Quadrangle'
@@ -42,6 +42,6 @@ After completing this unit, you will be able to:
 TBD
 
 ## Resources:
-- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  Also available in the BOOK section of this course.
+- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  
 
 - All other resources will be provided online.

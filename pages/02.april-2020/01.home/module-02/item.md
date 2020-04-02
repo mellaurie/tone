@@ -1,5 +1,5 @@
 ---
-title: 'Week 2 (May 16 - 22)'
+title: 'Unit 2: Design Process & Elements'
 published: true
 date: '16-05-2018 00:00'
 hide_from_post_list: false
@@ -9,32 +9,37 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 header_image_alt_text: 'Information architecture'
 ---
 
-## What does a holistic user experience design process look like?
-[Software Development Processes](../../presentations/module-02#/module-02-4?target=_blank)    
-[User Experience Design Processes](../../presentations/module-02#/module-02-5?target=_blank)    
-[Our Design Process (aka Toolkit)](../../presentations/module-02#/module-02-6?target=_blank)    
+# Unit 2: Course Design Process & Elements
+## Overview
+...
 
-===
 
-## **What does a holistic user experience design process look like?**
+## Topics
+1. Course Design Process
+1. Anatomy of an Online Course
+ - Overview
+ - Learning Outcomes
+ - Content
+ - Learning Activities
+ - Assessment
+1. Ensuring Quality in Online Learning Design
 
-### Summaries and Questions  
-[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519525)
 
-### Presented Slides  
-[presentation="cpt363-advanced/presentations/module-02"]
 
-### CPT-363 UX Design Process/Toolkit
-![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
+## Learning Outcomes
+After completing this unit, you will be able to:
+ - describe the ADDIE model of instructional design
+ - analyze the strengths and weaknesses of agile learning designs
+ - discuss the elements required in a unit, and the variety of approaches to present content
+ - define quality in terms of teaching in a digital age;
 
-### Handouts
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Product%20Reaction%20Cards)  
 
-### Quick Quiz
-[h5p id="213956"]
 
-### Assignments
-[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
+## Activity Checklist
 
-### Recommended Reading  
-[embedly url="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b"]
+TBD
+
+## Resources:
+- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+
+- All other resources will be provided online.
