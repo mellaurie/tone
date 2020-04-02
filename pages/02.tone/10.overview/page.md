@@ -71,3 +71,5 @@ After successfully completing the course, you will be able to:
 ### **Required** Texts and Materials
 - CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
 - All resources will be provided online.
+
+<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/edci572/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
