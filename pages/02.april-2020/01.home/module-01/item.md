@@ -12,12 +12,11 @@ hide_git_sync_repo_link: true
 
 # Unit 1: Online Course Design Principles
 ## Overview
-In this unit we will explore what online learning is, as well as various principles in online course design. Consider...
-Philosophy of Online Learning...
+In this unit we will explore what online learning is, as well as various principles in online course design.
 
 asdf
 ## Topics
-1. What is Online Learning?
+1. What is Multi-modal Learning?
  - Online vs. f2f
  - Modes of delivery (blended, flipped, etc.)
  - Multi-access
@@ -40,16 +39,9 @@ After completing this unit, you will be able to:
 
 ## Activity Checklist
 
-Here is a checklist of learning activities you will benefit from in
-completing this unit. Note the synchronous sessions...
-
-[plugin:content-inject](../_1-1)
-[plugin:content-inject](../_1-2)
-[plugin:content-inject](../_1-3)
-[plugin:content-inject](../_1-4)
-[plugin:content-inject](../_1-5)
+TBD
 
 ## Resources:
-- CORE TEXT: Bates, T. (2015). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project, 2019.  Also available in the BOOK section of this course.
+- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  Also available in the BOOK section of this course.
 
 - All other resources will be provided online.
