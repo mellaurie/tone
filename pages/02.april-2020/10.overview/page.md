@@ -47,14 +47,15 @@ Here is an overview of the synchronous sessions we'll be facilitating during thi
 | Wednesday April 22 | 11am PT| Tech Tools     | Colin & Scott |
 | Friday April 24   | 11am PT| Wrap Up and Sharing Session| Colin, Scott, & Kelly |
 
-The link to each Zoom session will be posted in Moodle.
+**Zoom link:**
+Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
+ Meeting ID: 385 049 508
 
 Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.
 
 
 **Navigation**
 For information on how to navigate through this course on Moodle, see [here](http://create.twu.ca/help/moodle).
-
 
 
 ### Learning Outcomes

@@ -5,10 +5,4 @@ show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
 
-## What is Multi-modal Learning?
-
-
-  - Online vs. f2f
- - Modes of delivery (blended, flipped, etc.)
- - Multi-access
 [plugin:content-inject](../_1-1)

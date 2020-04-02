@@ -1,14 +1,9 @@
 ---
-title: 'Unit 3: Learning Activities & Assessment'
-published: true
-date: '23-05-2018 00:00'
-hide_from_post_list: false
-hide_git_sync_repo_link: true
-header_image_credit: 'Emilio Küffer, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
-header_image_alt_text: 'Bullseye'
+title: 'Overview'
+hide_page_title: false
+show_sidebar: '0'
+hide_git_sync_repo_link: false
 ---
-
 # Unit 3: Engaging Learning Activities & Assessment Strategies
 ## Overview
 ...
