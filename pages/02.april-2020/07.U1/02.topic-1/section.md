@@ -31,3 +31,6 @@ View the following images on various online modalities.
 !! insert presentation plugin of images.
 
 As we move on to the next topic, consider the strategies used in these different models of online learning, and what that looks like in a multi-access course.
+
+### Learning Activities
+[plugin:content-inject](../_1-4)
