@@ -1,4 +1,4 @@
 ---
-title: 'What is Online Learning?'
+title: 'What is Multi-Access Learning?'
 visible: false
 ---
