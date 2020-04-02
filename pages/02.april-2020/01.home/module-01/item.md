@@ -16,7 +16,7 @@ In this unit we will explore what online learning is, as well as various princip
 
 asdf
 ## Topics
-1. What is Multi-modal Learning?
+1. What is Multi-access Learning?
  - Online vs. f2f
  - Modes of delivery (blended, flipped, etc.)
  - Multi-access

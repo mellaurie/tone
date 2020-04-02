@@ -6,11 +6,11 @@ hide_git_sync_repo_link: false
 ---
 # Unit 1: Online Course Design Principles
 ## Overview
-In this unit we will explore what online learning is, as well as various principles in online course design.
+In this unit we will explore what online learning is, as well as various principles in online course design. For those of you who have been asked to put your campus course online, or to have a blended course - don't stress!  We hope to give you all the tools you need throughout these three weeks.  'll start off this course with a brief overview of online learning, with a focus on Multi-Access Learning. We'll then dive into some course design principles, 
 
 asdf
 ## Topics
-1. What is Multi-modal Learning?
+1. What is Multi-Access Learning?
  - Online vs. f2f
  - Modes of delivery (blended, flipped, etc.)
  - Multi-access
