@@ -15,7 +15,7 @@ hide_git_sync_repo_link: true
 In this unit we will explore what online learning is, as well as various principles in online course design. Consider...
 Philosophy of Online Learning...
 
-
+asdf
 ## Topics
 1. What is Online Learning?
  - Online vs. f2f
