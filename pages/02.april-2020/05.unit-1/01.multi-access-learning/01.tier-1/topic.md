@@ -2,7 +2,7 @@
 title: 'Online'
 ---
 
-Design Thinking  
+In-Person, Classroom-based Learning  
 _An iterative methodology for producing practical and creative resolutions to problems or issues._
 
 *   [A Brief History of Design Thinking: How Design Thinking Came to 'Be' ](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
