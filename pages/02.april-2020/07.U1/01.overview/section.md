@@ -8,7 +8,6 @@ hide_git_sync_repo_link: false
 ## Overview
 In this unit we will explore what online learning is, as well as various principles in online course design. For those of you who have been asked to put your campus course online, or to have a blended course - don't stress!  We hope to give you all the tools you need throughout these three weeks.  Please see below for the topics we'll cover in this first unit/week, and be sure to join our synchronous sessions (see Schedule on the Introduction page).  Let's begin!
 
-asdf
 ## Topics
 1. What is Multi-Access Learning?
 
