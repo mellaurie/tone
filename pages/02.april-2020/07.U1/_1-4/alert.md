@@ -3,6 +3,8 @@ title: 'Activity 1-4'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 1.4: Resources in Online Models of learning

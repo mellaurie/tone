@@ -3,6 +3,8 @@ title: 'Activity 1-3'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 1.3: Key Terms and Modalities in Online Learning

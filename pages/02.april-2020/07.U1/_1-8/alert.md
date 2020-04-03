@@ -3,6 +3,8 @@ title: 'Activity 1-8'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 1.8: My Philosophy of Online Learning
