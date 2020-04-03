@@ -9,17 +9,20 @@ visible: false
 
 :fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/)
 
-Create a T-chart, comparing the campus class to the online class.  Is there overlap?  Grey areas?
+Create a T-chart, comparing the campus class to the online class.  
 
 | *Campus Class* | *Online Class* |
 |----------------|----------------|
 |                |                |
 |                |                |
 
+*Questions to Consider*
+:fa-question: Is there overlap between the modalities?  
+:fa-question: Could you anticipate any problems with trying to use classroom models of teaching in online environments?
 
-!! Kelly to select from:
 
-Optional Resources:
+#### Additional Resources
+Here are other optional resources to browse on design principles.
 
 -   [Video 8 things to know about the experiential learning
     cycle](https://learningfromexperience.com/themes/experiential-learning-theory-videos/)

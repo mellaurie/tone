@@ -21,7 +21,7 @@ asdf
 After completing this unit, you will be able to:
  - compare various modalities of online learning
  - examine the problems with trying to use classroom models of teaching in online environments
- - examine the characteristics of and differences between online collaborative learning, competency-based learning, and communities of practice
+ - examine the characteristics of and differences between various principles of online learning (e.g. experiential learning, collaborative learning, etc.)
  - develop a philosophy of online learning.
 
 
