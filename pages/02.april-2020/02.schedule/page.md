@@ -19,7 +19,7 @@ This mini-course is organized into 6 units:
  6. Digital Tools and Resources (e.g. Zoom, pwpt recordings, Moodle)
 
 
-[content-inject](_calendar)
+[plugin:content-inject](_calendar)
 
 **Zoom link:**
 Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
