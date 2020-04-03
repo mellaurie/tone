@@ -1,5 +1,5 @@
 ---
-title: 'Class Preparations'
+title: 'Schedule'
 published: true
 ---
 
