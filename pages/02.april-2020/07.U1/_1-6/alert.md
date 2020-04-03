@@ -7,26 +7,18 @@ visible: false
 
 #### Activity 1.6: Inclusive Design Principles
 
-!! Kelly to select from:
+:fa-book: Read [Universal Design for Learning Overview](https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/)
 
--   https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/
+For more on ULD, select from the following:
 
--   [Universal Design – Accessibility Toolkit – 2nd
-    Edition](https://opentextbc.ca/accessibilitytoolkit/chapter/universal-design/)
+-   [Universal Design – Accessibility Toolkit](https://opentextbc.ca/accessibilitytoolkit/chapter/universal-design/)
 
--   [Universal Design - Best Practices for Online
-    Learning](https://opened.uoguelph.ca/instructor-resources/UD---Best-Practices-for-Online-Learning)
+-   [Universal Design - Best Practices for Online Learning](https://opened.uoguelph.ca/instructor-resources/UD---Best-Practices-for-Online-Learning)
 
 -   [Inclusive Design Institute](https://inclusivedesign.ca/)
 
--   Irish, & Scrubb (2012). [Five competencies for culturally competent teaching
-    and
-    learning](https://www.facultyfocus.com/articles/teaching-and-learning/five-competencies-for-culturally-competent-teaching-and-learning/).
+-   [Five competencies for culturally competent teaching and learning](https://www.facultyfocus.com/articles/teaching-and-learning/five-competencies-for-culturally-competent-teaching-and-learning/) from Irish, & Scrubb (2012). 
 
--    [Pulling Together: A Guide for Front-Line Staff, Student Services, and
-    Advisors](https://opentextbc.ca/indigenizationfrontlineworkers/)
+-    [Pulling Together: A Guide for Front-Line Staff, Student Services, and    Advisors](https://opentextbc.ca/indigenizationfrontlineworkers/)
 
--   [Best Practices for Teaching & Learning
-    Online](https://teachonline.asu.edu/wp-content/uploads/2018/09/Best-Practices-for-Teaching-Online_083118.pdf)
-    - Graphic created by Ron Carranza, Andrew Salcido, and Jessica Cole. Updated
-    August 22, 2019.
+-   [Best Practices for Teaching & Learning Online](https://teachonline.asu.edu/wp-content/uploads/2018/09/Best-Practices-for-Teaching-Online_083118.pdf)

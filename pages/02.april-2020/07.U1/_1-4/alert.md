@@ -5,11 +5,9 @@ published: true
 visible: false
 ---
 
-#### Activity 1.4: Key Resources in Online learning
+#### Activity 1.4: Resources in Online learning
 
-!! Kelly to select from resources below:
-
-If you are interested in learning more about online models of learning, feel free browse throug the following resources;
+If you are interested in learning more about online models of learning, feel free browse through the following resources;
 
 -   [Three generations of distance education pedagogy](http://www.irrodl.org/index.php/irrodl/article/view/890)
 
