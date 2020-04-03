@@ -7,7 +7,19 @@ visible: false
 
 #### Activity 1.5: Resources on Design Principles
 
+:fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/)
+
+Create a T-chart, comparing the campus class to the online class.  Is there overlap?  Grey areas?
+
+| *Campus Class* | *Online Class* |
+|----------------|----------------|
+|                |                |
+|                |                |
+
+
 !! Kelly to select from:
+
+Optional Resources:
 
 -   [Video 8 things to know about the experiential learning
     cycle](https://learningfromexperience.com/themes/experiential-learning-theory-videos/)
