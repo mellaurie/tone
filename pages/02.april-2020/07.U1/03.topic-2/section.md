@@ -41,6 +41,8 @@ As we design our courses, we want to incorporate inclusive learning, or principl
 ! provides flexibility in the ways information is presented, in the ways students respond or demonstrate knowledge and skills, and in the ways students are engaged; and
 ! reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient” (110th Congress, 2008).
 
+![](udl-thinking-getting-started-001.jpg)
+
 ### Learning Activities
 [plugin:content-inject](../_1-6)
 
