@@ -1,6 +1,9 @@
 ---
 title: Schedule
 published: true
+visible: false
+markdown:
+  extra: false
 ---
 
 ### Course Topics
