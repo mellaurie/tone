@@ -9,7 +9,7 @@ markdown:
 
 #### Activity 1.5: Resources on Design Principles
 
-:fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/)
+:fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/)  
 
 Create a T-chart, comparing the campus class to the online class.  
 

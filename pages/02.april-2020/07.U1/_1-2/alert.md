@@ -13,6 +13,6 @@ markdown:
 
 
 *Questions to Consider:*
-:fa-question: What changes have you seen in Online Learning?
+:fa-question: What changes have you seen in Online Learning?  
 :fa-question: What does "online" look like at TWU?  
-:fa-question: What changes to you foresee in the next few years and how does this affect you, your course, and your students?
+:fa-question: What changes to you foresee in the next few years and how does this affect you, your course, and your students?  
