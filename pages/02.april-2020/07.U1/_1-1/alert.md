@@ -18,6 +18,6 @@ visible: false
 
 *Questions to Consider*  
 
-:fa-question: What ideas surround multi-access learning, according to the image?
-:fa-question: What is your definition of multi-access learning?
-:fa-question: If you were asked to provide multi-access learning for your course, what initial questions would you have?
+What ideas surround multi-access learning, according to the image?
+What is your definition of multi-access learning?
+If you were asked to provide multi-access learning for your course, what initial questions would you have?
