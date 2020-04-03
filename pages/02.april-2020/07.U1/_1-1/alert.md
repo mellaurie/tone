@@ -3,6 +3,8 @@ title: 'Activity 1-1'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 1.1: What do you know about Multi-Access Learning?
