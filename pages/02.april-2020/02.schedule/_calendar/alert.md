@@ -8,6 +8,8 @@ visible: false
 ### Synchronous Zoom Sessions
 Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
 
+! Zoom sessions are scheduled for 60 minutes.
+
 | Date| Time   | Description | Facilitators |
 |---|----|---|---|
 | Mon Apr 6| 11:00 am PDT| Introduction to Course; Navigation; Moodle set-up; Design Principles | Colin & Scott |
