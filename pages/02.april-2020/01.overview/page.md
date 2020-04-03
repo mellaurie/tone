@@ -13,7 +13,7 @@ hide_git_sync_repo_link: false
 ### Course Description
 For the next three weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
 
-Another key focus of our time together is to build a COMMUNITIY OF INQUIRY - a forum where we can share resources, experiences, and ideas about course design.
+Another key focus of our time together is to build a *Community of Inquiry* - a forum where we can share resources, experiences, and ideas about course design.
 
 
 ### Course Topics
