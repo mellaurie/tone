@@ -2,7 +2,7 @@
 title: 'Unit 3 Logistics'
 alert_style: alert-primary
 published: true
-visible: false
+visible: true
 last_modified: true
 ---
 

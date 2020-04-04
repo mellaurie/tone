@@ -3,6 +3,7 @@ title: Home
 published: true
 visible: false
 hide_page_title: true
+last_modified: true
 modular_content:
     items: '@self.modular'
     order:
