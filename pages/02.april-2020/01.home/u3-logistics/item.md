@@ -13,7 +13,7 @@ hide_from_post_list: true
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
-    limit: 10
+    skip: true
 ---
 
 ### Welcome to Unit 3!
