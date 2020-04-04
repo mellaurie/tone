@@ -1,8 +1,7 @@
 ---
 title: Home
 published: true
-visible: true
-hide_from_menu: true
+visible: false
 hide_page_title: true
 modular_content:
     items: '@self.modular'
