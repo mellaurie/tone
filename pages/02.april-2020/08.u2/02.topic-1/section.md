@@ -11,7 +11,7 @@ Imagine you win the lottery and have a couple million dollars to design your dre
 
 If you had to actually do the work to map out the blueprint of your house, what are the components?  What is the layout and design?  What motivates you to make those design choices?
 
-![](rm22-268-business-sasi-22.jpg)
+![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
 
 Designing a course is like planning, building, and moving into a house.  You start with asking some key questions:
 - What is the course?  What are the ‘big picture‘ ideas or the main take-aways?
@@ -22,7 +22,7 @@ Designing a course is like planning, building, and moving into a house.  You sta
 
 Another strategy to use before getting into the details of a course is identifying the Big Ideas (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
-![](big-ideas-los.png)
+![alt-text](big-ideas-los.png "Big ideas template")
 
 ### Learning Activities
 [plugin:content-inject](../_2-1)
@@ -31,7 +31,7 @@ Another strategy to use before getting into the details of a course is identifyi
 There are several key models that influence the way we design online courses. Two that we'll focus on are the ADDIE model and Backwards Design.  
 
 The **ADDIE Process** illustrates 5 phases of course development:
-![](Skema_ADDIE.jpg)
+![alt-text](Skema_ADDIE.jpg "ADDIE model")
 *Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Skema_ADDIE.jpg)*
 
 **Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the target: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they demonstrate this?  Finally, what learning experiences will help students achieve this?
@@ -46,11 +46,11 @@ Every course is different, and every course design experience is different.  In 
 *Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
 
 Our Instructional Design team at TWU generally follows the following development process:
-![](Course-Design-Process-at-TWU-1.jpg)
-![](Course-Design-Process-at-TWU-2.jpg)
-![](Course-Design-Process-at-TWU-3.jpg)
-![](Course-Design-Process-at-TWU-4.jpg)
-![](Course-Design-Process-at-TWU-5.jpg)
+![alt-text](Course-Design-Process-at-TWU-1.jpg "Pre-planning")
+![alt-text](Course-Design-Process-at-TWU-2.jpg "Planning")
+![alt-text](Course-Design-Process-at-TWU-3.jpg "Writing")
+![alt-text](Course-Design-Process-at-TWU-4.jpg "Revisions")
+![alt-text](Course-Design-Process-at-TWU-5.jpg "Production")
 
 
 #### Creating a Course Blueprint
@@ -60,9 +60,9 @@ In developing this document we focus on the development of learning outcomes tha
 
 Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [Word version](TWU-Course-Blueprint-Template.docx)
 
-![](ldrs-627-blueprint.png)
+![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
-![](phil-210-blueprint.png)
+![alt-text](phil-210-blueprint.png "PHIL 210 Blueprint")
 
 !!! Note in the blueprint that there is a table for 10 units.  This does not apply to all courses!!  If you happen to work with an Instructional Designer in planning out your course, a key question will be how to organize the learning/content.  This may work out to be 10 key units for a 12 week course, but each course is different.
 
