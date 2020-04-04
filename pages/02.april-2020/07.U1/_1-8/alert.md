@@ -17,10 +17,10 @@ What is your "Philosophy of Online Learning?"  Do you design your courses with *
 
 :fa-pencil: Although we've just started discussing a few online design principles, consider drafting your own Philosophy of Online Learning.
 Here are a couple of statements from university instructors that might pique your interest.
-- [My Online Teaching Philosophy](https://krasun.ca/my-online-philosophy/) - Dr. Sasha Kondrashov)  
+- [My Online Teaching Philosophy](https://krasun.ca/my-online-philosophy/) - Dr. Sasha Kondrashov  
 - [My Teaching Philosophy](https://bwatwood.edublogs.org/2011/06/15/my-teaching-philosophy/) - Britt Watwood.  
 - [Philosophy of E-Learning](https://blogs.ubc.ca/shonaellis/philosophy-of-e-learning/) - Professor Shona Ellis, UBC.  
-- [The Philosophy of Effective Online Teaching](https://cla.purdue.edu/academic/communication/graduate/online/philosophy-of-effective-online-teaching.html) - Debra Davenport, Faculty  
+- [The Philosophy of Effective Online Teaching](https://cla.purdue.edu/academic/communication/graduate/online/philosophy-of-effective-online-teaching.html) - Dr. Debra Davenport  
 - [Philosophy of Online Teaching](https://briancookeducator.wordpress.com/about-me/philosophy-of-online-teaching/) - Brian Cook, Ed.D.  
 
 

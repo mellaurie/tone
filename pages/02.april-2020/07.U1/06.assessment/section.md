@@ -23,6 +23,9 @@ Feel free to answer one or all of the following:
 
 Before you move on to the next unit, check that you are able to:  
 [fa=check /] compare various modalities of online learning
+
 [fa=check /] examine the problems with trying to use classroom models of teaching in online environments
+
 [fa=check /] examine the characteristics of and differences between various principles of online learning (e.g. experiential learning, collaborative learning, etc.)
+
 [fa=check /] develop a philosophy of online learning.   
