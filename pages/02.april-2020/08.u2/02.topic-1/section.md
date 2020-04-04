@@ -22,7 +22,7 @@ Designing a course is like planning, building, and moving into a house.  You sta
 
 Another strategy to use before getting into the details of a course is identifying the Big Ideas (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
-![](big-ideas-los)
+![](big-ideas-los.png)
 
 ### Learning Activities
 [plugin:content-inject](../_2-1)
@@ -32,7 +32,7 @@ There are several key models that influence the way we design online courses. Tw
 
 The **ADDIE Process** illustrates 5 phases of course development:
 ![](Skema_ADDIE.jpg)
-Source: [Wikimedia] (https://commons.wikimedia.org/wiki/File:Skema_ADDIE.jpg)
+*Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Skema_ADDIE.jpg)*
 
 **Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the target: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they demonstrate this?  Finally, what learning experiences will help students achieve this?
 
@@ -56,9 +56,9 @@ In developing this document we focus on the development of learning outcomes tha
 
 Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following link: [TWU Course Blueprint Template](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing)
 
-![](ldrs-627-blueprint.jpg)
+![](ldrs-627-blueprint.png)
 
-![](phil-210-blueprint.jpg)
+![](phil-210-blueprint.png)
 
 !!! Note in the blueprint that there is a table for 10 units.  This does not apply to all courses!!  If you happen to work with an Instructional Designer in planning out your course, a key question will be how to organize the learning/content.  This may work out to be 10 key units for a 12 week course, but each course is different.
 
