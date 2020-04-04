@@ -8,7 +8,7 @@ markdown:
   extra: false
 ---
 
-![](black-pen-near-iphone-and-apple-magic-keyboard-934062.jpg)
+![](TOne.jpg)
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Online Teaching and Learning!
