@@ -21,3 +21,9 @@ Here is an overview of the synchronous sessions we'll be facilitating during thi
 | Mon Apr 20     | 11:00 am PDT| Technology     | Colin, Scott & Kelly |
 | Wed Apr 22 | 11:00 am PDT| Tech Tools     | Colin & Scott |
 | Fri Apr 24   | 11:00 am PDT| Wrap Up and Sharing Session| Colin, Scott, & Kelly |
+
+**Zoom link:**
+Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
+ Meeting ID: 385 049 508
+
+Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.

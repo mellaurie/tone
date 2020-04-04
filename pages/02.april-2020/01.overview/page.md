@@ -8,6 +8,7 @@ markdown:
   extra: false
 ---
 
+![](TOne.jpg)
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Online Teaching and Learning!
@@ -19,7 +20,7 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 
 
 ### Course Topics
-This mini-course is organized into 6 units...
+This mini-course is organized into 6 units:
 
 ##### :fa-calendar: *Week 1: April 6-10 - Course Planning*
   1. Online Course Design Principles
@@ -36,11 +37,6 @@ This mini-course is organized into 6 units...
 
 [plugin:content-inject](../schedule/_calendar)
 
-**Zoom link:**
-Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
- Meeting ID: 385 049 508
-
-Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.
 
 
 **Navigation**
