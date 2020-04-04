@@ -22,7 +22,7 @@ Designing a course is like planning, building, and moving into a house.  You sta
 
 Another strategy to use before getting into the details of a course is identifying the Big Ideas (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
-![alt-text](big-ideas-los.png "Big ideas template")
+![alt-text](big_ideas_los.png "Big ideas template")
 
 ### Learning Activities
 [plugin:content-inject](../_2-1)
