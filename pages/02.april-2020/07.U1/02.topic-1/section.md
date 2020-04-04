@@ -14,7 +14,7 @@ hide_git_sync_repo_link: false
 
 One trend that is gaining traction is **Multi-Access Learning**. Read the following excerpt from *Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning* by Irvine, Code & Richards (2013).
 
-! Multi-access learning is an opportunity to meet both student needs for access to learning experiences and faculty needs for graduate student recruitment (Irvine, 2009; Irvine & Code, 2011, 2012; Irvine & Richards, 2013). Irvine defines multi-access learning as a framework for enabling students in both face-to-face and online contexts to personalize learning experiences while engaging as a part of the same course. Multi-access learning is different than blended learning because it places the student at the center of the learning experience as opposed to the instructor or the institution.
+! "Multi-access learning is an opportunity to meet both student needs for access to learning experiences and faculty needs for graduate student recruitment (Irvine, 2009; Irvine & Code, 2011, 2012; Irvine & Richards, 2013). Irvine defines multi-access learning as a framework for enabling students in both face-to-face and online contexts to personalize learning experiences while engaging as a part of the same course. Multi-access learning is different than blended learning because it places the student at the center of the learning experience as opposed to the instructor or the institution.
 
 ! Further, "blended learning" is a problematic term due to its multiple interpretations in the literature and in daily practice, leaving one to ask, "Who controls the blend?" When and where the face-to-face sessions occur and when and how the online synchronous or asynchronous sessions occur are often controlled in blended learning settings. At the core, the institution or instructor is in control of the blend, no matter the configuration.
 
@@ -22,7 +22,7 @@ One trend that is gaining traction is **Multi-Access Learning**. Read the follow
 
 ![](irvine_fig1.jpg)
 
-Figure 1. Tiers of the multi-access framework (Irvine, Code & Richards, 2013).
+*Source: Tiers of the multi-access framework (Irvine, Code & Richards, 2013).*
 
 With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system.  This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.
 

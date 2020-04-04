@@ -9,9 +9,9 @@ markdown:
 
 #### Activity 1.6: Inclusive Design Principles
 
-:fa-book: Read [Universal Design for Learning Overview](https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/)  
+:fa-book: Read [Universal Design for Learning Overview](https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/) from Iowa State University.  
 
-For more on ULD, select from the following:
+For more on UDL, select from the following:
 
 - [Universal Design – Accessibility Toolkit](https://opentextbc.ca/accessibilitytoolkit/chapter/universal-design/)  
 - [Universal Design - Best Practices for Online Learning](https://opened.uoguelph.ca/instructor-resources/UD---Best-Practices-for-Online-Learning#)  
