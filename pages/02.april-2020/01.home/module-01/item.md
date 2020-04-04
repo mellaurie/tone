@@ -1,47 +1,19 @@
 ---
-title: 'Unit 3: '
+title: 'Unit 3 Logistics'
 published: true
 date: '01-04-2020 00:00'
-header_image_alt_text: 'SFU Academic Quadrangle'
-header_image_credit: 'Julian Schüngel, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
+header_image_alt_text: 'Person typing on a computer'
+header_image_credit: 'Photo by Kaitlyn Baker on Unsplash'
+header_image_creditlink: 'https://unsplash.com/@kaitlynbaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-# Unit 1: Online Course Design Principles
-## Overview
-In this unit we will explore what online learning is, as well as various principles in online course design.
+### Welcome to Unit 3!
 
-asdf
-## Topics
-1. What is Multi-access Learning?
- - Online vs. f2f
- - Modes of delivery (blended, flipped, etc.)
- - Multi-access
-1. Key Principles of Online Course Design
- - experiential learning, active learning,
- - inquiry/problem based learning,
- - collaborative learning,
- - inclusive learning
- - transformational learning,
-1. Philosophy of Online Learning
+You have likely noticed by now that this unit looks a bit different from the previous two units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
 
+This unit will demonstrate one way to reduce your reliance on web-conferencing (Zoom, BlueJeans, Skype...) when providing direct instruction for learners in your course. As we have all experienced as we finished the Spring 2020 semester, web-conferencing is exhausting! It is not a good replacement for a lecture, it is difficult for instructors, and it is difficult for learners. For some learners (and instructors), it is impossible due to sketchy or limited bandwidth internet connections at home, or to extreme differences in time-zones.
 
-## Learning Outcomes
-After completing this unit, you will be able to:
- - compare various modalities of online learning
- - examine the problems with trying to use classroom models of teaching in online environments
- - examine the characteristics of and differences between online collaborative learning, competency-based learning, and communities of practice
- - develop a philosophy of online learning.
-
-
-## Activity Checklist
-
-TBD
-
-## Resources:
-- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  
-
-- All other resources will be provided online.
+So for this week, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
