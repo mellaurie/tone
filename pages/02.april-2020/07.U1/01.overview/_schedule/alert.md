@@ -7,7 +7,7 @@ visible: false
 
 
 #### Synchronous Sessions
-:fa-person: Join us on this week when you can for our hour long synchronous Zoom sessions.  We will be holding them on Monday's, Wednesday's and Friday's at 11-12pm PT. See the Course Overview page for session descriptions.
+Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Monday, Wednesday and Friday at 11-12pm PT. See the Course Overview page for session descriptions.
 
 ---
 
@@ -41,6 +41,7 @@ visible: false
 ---
 #### Activity 1.8  (60 minutes)
 :fa-book: :fa-pencil: View the listed resources and consider your Philosophy of Online Learning
+
 ---
 
 #### **Unit 1 Discussion**
