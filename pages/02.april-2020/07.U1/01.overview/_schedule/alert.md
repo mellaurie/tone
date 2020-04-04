@@ -8,6 +8,7 @@ visible: false
 
 #### Synchronous Sessions
 :fa-person: Join us on this week when you can for our hour long synchronous Zoom sessions.  We will be holding them on Monday's, Wednesday's and Friday's at 11-12pm PT. See the Course Overview page for session descriptions.
+
 ---
 
 #### Activity 1.1  (10 minutes)
