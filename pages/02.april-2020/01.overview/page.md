@@ -8,7 +8,7 @@ markdown:
   extra: false
 ---
 
-![](rsz_tone.jpg)
+![](rsz_tone.jpg) {.center}
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Online Teaching and Learning!
