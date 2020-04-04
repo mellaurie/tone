@@ -14,11 +14,11 @@ content:
         dir: desc
     pagination: '1'
 hero_scroll: false
-hide_post_summary: true
+hide_post_summary: false
 post_icon: calendar-o
-hide_post_date: true
+hide_post_date: false
 hide_post_taxonomy: true
-continue_link_as_button: false
+continue_link_as_button: true
 feed:
     limit: 10
     description: 'Grav CMS Open Matter Course Hub Description'
@@ -29,4 +29,3 @@ modular_content:
         by: folder
         dir: dsc
 ---
-

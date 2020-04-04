@@ -4,7 +4,9 @@ alert_style: alert-secondary
 published: true
 visible: false
 last_modified: true
+feed:
+    skip: true
 ---
 
 ## Important Reminders
-This si a test.
+Unit 3 begins Monday, April 20, 2020.
