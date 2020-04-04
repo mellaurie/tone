@@ -40,7 +40,7 @@ visible: false
 
 ---
 #### Synchronous Session
-:fa-person: Join us on Wednesday, April 8th at 11am PT. We will introduce the course, help you navigate Moodle, and discuss Multi-Access and other Design Principles.
+:fa-users: Join us on Wednesday, April 8th at 11am PT. We will introduce the course, help you navigate Moodle, and discuss Multi-Access and other Design Principles.
 
 ---
 #### **Unit 1 Discussion**
