@@ -18,7 +18,7 @@ Simon Fraser University (2010) has defined experiential learning as:
 
 The **Experiential Learning** model was developed in the 70's by Kolb (influences by Piaget and Dewey), and explains a process of learning that is active and reflective.
 
-![](1280px-The_Four_Steps_in_Kolb_Cycle.svg.jpg)
+![](1280px-The_Four_Steps_in_Kolb_Cycle.svg.png)
 
 *Source: The four steps in Kolb cycle. From Experiential Learning Theories by David Kolb. [Wikipedia](https://en.wikipedia.org/wiki/File:The_Four_Steps_in_Kolb_Cycle.svg)*
 
