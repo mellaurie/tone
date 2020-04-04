@@ -9,7 +9,7 @@ header_image_credit: 'Photo by Kaitlyn Baker on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@kaitlynbaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'
 summary:
     enabled: '0'
-hide_from_post_list: false
+hide_from_post_list: true
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
@@ -23,3 +23,7 @@ You have likely noticed by now that this unit looks a bit different from the pre
 This unit will demonstrate one way to reduce your reliance on web-conferencing (Zoom, BlueJeans, Skype...) when providing direct instruction for learners in your course. As we have all experienced as we finished the Spring 2020 semester, web-conferencing is exhausting! It is not a good replacement for a lecture, it is difficult for instructors, and it is difficult for learners. For some learners (and instructors), it is impossible due to sketchy or limited bandwidth internet connections at home, or to extreme differences in time-zones.
 
 So for this week, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
+
+Below this post, you will see what is called a 'feed' which is essentially a subscription to a blog. Each time I publish a post (Monday, Wednesday, and Friday mornings), that post will show up at the top of the feed. Each post will outline some new content and resources for that topic.
+
+!!!! If you have your own blog and would like to respond to the reflection prompts for this week on your own blog, send me the URL and I will create another feed of participant posts.
