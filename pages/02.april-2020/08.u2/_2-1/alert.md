@@ -5,11 +5,10 @@ published: true
 visible: false
 ---
 
-<!-- Title of the toggle goes between quotation marks. -->
-[details="Activity 2.1 - 90 min - Click to Open"]
+#### Activity 2.1: What's Your Metaphor?
 
-<!-- Enter content and instructions here. -->
+Before we get into more of the design process and models, what's your metaphor for designing a course?  Does it seem like an impromptu marathon that is sprung on you, or a paced cooking experience where you follow your own recipe? How about following the "easy" directions in assembling a child's toy?
 
-[presentation="anth101/presentations/sample"]
+Whatever your guiding metaphor is, consider your first steps.  What are the big ideas of your course?  What are the needs of your students?
 
-[/details]  
+As we move forward in course planning, select a course you'd like to focus on in these three weeks we have together.  What are your key needs as we map out your course? 

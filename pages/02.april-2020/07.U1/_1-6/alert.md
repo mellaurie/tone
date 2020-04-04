@@ -11,7 +11,9 @@ markdown:
 
 :fa-book: Read [Universal Design for Learning Overview](https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/) from Iowa State University.  
 
-For more on UDL, select from the following:
+:fa-book: Next, see [Cultural Competence Continuum - Characteristics](https://www.eri-wi.org/download/conference/2013-conference/20_h_WhyDoesntEveryone_chart.pdf) from Cross (2001). 
+
+For more best practices in accessibility and inclusive design, select from the following:
 
 - [Universal Design – Accessibility Toolkit](https://opentextbc.ca/accessibilitytoolkit/chapter/universal-design/)  
 - [Universal Design - Best Practices for Online Learning](https://opened.uoguelph.ca/instructor-resources/UD---Best-Practices-for-Online-Learning#)  

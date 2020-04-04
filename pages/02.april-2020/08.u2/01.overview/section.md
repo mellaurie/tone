@@ -6,17 +6,12 @@ hide_git_sync_repo_link: false
 ---
 # Unit 2: Course Design Process & Elements
 ## Overview
-...
+In this second unit we discuss the course design process we use in developing our online courses at TWU.  We also share the common components that are in our courses, such as unit learning outcomes, formative learning activities, and assessment.  Finally we will discuss what a quality course looks like and will provide tools to help you evaluate the design of online and blended courses.
 
 
 ## Topics
 1. Course Design Process
 1. Anatomy of an Online Course
- - Overview
- - Learning Outcomes
- - Content
- - Learning Activities
- - Assessment
 1. Ensuring Quality in Online Learning Design
 
 
@@ -26,7 +21,7 @@ After completing this unit, you will be able to:
  - describe the ADDIE model of instructional design
  - analyze the strengths and weaknesses of agile learning designs
  - discuss the elements required in a unit, and the variety of approaches to present content
- - define quality in terms of teaching in a digital age;
+ - examine the standards used to evaluate the design of online and blended courses.  
 
 
 
@@ -35,6 +30,6 @@ After completing this unit, you will be able to:
 TBD
 
 ## Resources:
-- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.  Also available in the BOOK section of this course.
+- CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project. 
 
 - All other resources will be provided online.
