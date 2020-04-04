@@ -6,6 +6,11 @@ visible: false
 ---
 
 
+#### Synchronous Sessions
+:fa-person: Join us on this week when you can for our hour long synchronous Zoom sessions.  We will be holding them on Monday's, Wednesday's and Friday's at 11-12pm PT. See the Course Overview page for session descriptions.
+---
+
+
 #### Activity 1.1  (10 minutes)
 :fa-book: View the resources on Multi-Access Learning.
 
@@ -36,11 +41,6 @@ visible: false
 ---
 #### Activity 1.8  (60 minutes)
 :fa-book: :fa-pencil: View the listed resources and consider your Philosophy of Online Learning
-
-
----
-#### Synchronous Session
-:fa-person: Join us on Wednesday, April 8th at 11am PT. We will introduce the course, help you navigate Moodle, and discuss Multi-Access and other Design Principles.
 
 ---
 #### **Unit 1 Discussion**
