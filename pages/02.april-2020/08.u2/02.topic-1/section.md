@@ -46,7 +46,11 @@ Every course is different, and every course design experience is different.  In 
 !!! Please Note: This process may not apply to your course! With the time constraints, it certainly may not apply to the many faculty who may need to put their summer courses online asap!
 
 Our Instructional Design team at TWU generally follows the following development process:
-![](Course-Design-Process-at-TWU.jpg)
+![](Course-Design-Process-at-TWU-1.jpg)
+![](Course-Design-Process-at-TWU-2.jpg)
+![](Course-Design-Process-at-TWU-3.jpg)
+![](Course-Design-Process-at-TWU-4.jpg)
+![](Course-Design-Process-at-TWU-5.jpg)
 
 
 #### Planning (Creating a Course Blueprint)
