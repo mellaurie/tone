@@ -13,6 +13,8 @@ Here is where we get into the nitty-gritty of what a course looks like!  Again, 
 We typically start with an overview of what is in the unit - what are the key ideas, how does it connect to the rest of the course, why does this matter to students, etc.  This is the instructor's change to connect to students, to set the stage for learning, and to really bring in your teacher’s voice or presence.  Many instructors use video to share the unit overview, as this can personalize the experience for students.
 
 
+editing...
+
 
 learning outcomes - (& connections to TWU SLOs)
 content (teacher/student generated)
