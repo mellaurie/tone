@@ -43,7 +43,7 @@ The **ADDIE Process** illustrates 5 phases of course development:
 ### Course Design Process at TWU
 Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
 
-!!! Please Note: This process may not apply to your course! With the time constraints, it certainly may not apply to the many faculty who may need to put their summer courses online asap!
+*Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
 
 Our Instructional Design team at TWU generally follows the following development process:
 ![](Course-Design-Process-at-TWU-1.jpg)
@@ -53,12 +53,12 @@ Our Instructional Design team at TWU generally follows the following development
 ![](Course-Design-Process-at-TWU-5.jpg)
 
 
-#### Planning (Creating a Course Blueprint)
+#### Creating a Course Blueprint
 The most important part of course design is the planning. After the initial stages of needs analysis (what do the students/instructors need) and hiring phase (who will write the course), the development teach creates a plan, or a blueprint of the course.
 
 In developing this document we focus on the development of learning outcomes that are measurable, and then ensure that the supporting activities and assessments are mapped directly to these outcomes.
 
-Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following link: [TWU Course Blueprint Template](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing)
+Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [Word version](TWU-Course-Blueprint-Template.docx)
 
 ![](ldrs-627-blueprint.png)
 
