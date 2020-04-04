@@ -2,8 +2,10 @@
 title: Overview
 published: true
 hide_page_title: false
-show_sidebar: false
+show_sidebar: true
 hide_git_sync_repo_link: false
+markdown:
+  extra: false
 ---
 
 [plugin:content-inject](_important-reminders)
@@ -13,39 +15,26 @@ hide_git_sync_repo_link: false
 ### Course Description
 For the next three weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
 
-Another key focus of our time together is to build a COMMUNITIY OF INQUIRY - a forum where we can share resources, experiences, and ideas about course design.
+Another key focus of our time together is to build a *Community of Inquiry* - a forum where we can share resources, experiences, and ideas about course design.
 
 
 ### Course Topics
 This mini-course is organized into 6 units...
 
-*Week 1: April 6-10 - Course Planning*
+##### :fa-calendar: *Week 1: April 6-10 - Course Planning*
   1. Online Course Design Principles
   2. Course Design Process & Elements
 
-*Week 2: April 13-17 - Learning Activities & Assessment*
+##### :fa-calendar: *Week 2: April 13-17 - Learning Activities & Assessment*
   3. Engaging Learning Activities & Assessment Strategies
   4. Teaching Online & Building Community
 
-*Week 3: April 20-24 - Digitally Mediated Teaching and Learning*
+##### :fa-calendar: *Week 3: April 20-24 - Digitally Mediated Teaching and Learning*
  5. Technology and Learning / Learning Technology
- 6. Digital Tools and Resources (e.g. Zoom, pwpt recordings, Moodle)
+ 6. Digital Tools and Resources (e.g. Moodle, WordPress, Zoom)
 
 
-### Synchronous Zoom Sessions
-Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
-
-| Date| Time   | Description | Facilitators |
-|---|----|---|---|
-| Monday April 6| 11am PT| Introduction to Course; Navigation; Moodle set-up; Design Principles | Colin & Scott |
-| Wednesday April 8  | 11am PT     |   Course Design Process    | Kelly |
-| Friday April 10 | 11am PT| Open Session - Q & A    | Colin, Scott, & Kelly |
-| Monday April 13| 11am PT|  Learning Activities  | Kelly |
-| Wednesday April 15  | 11am PT| Assessments     | Kelly|
-| Friday April 17    | 11am PT| Open Session - Q & A     | Colin & Scott |
-| Monday April 20     | 11am PT| Technology     | Colin, Scott & Kelly |
-| Wednesday April 22 | 11am PT| Tech Tools     | Colin & Scott |
-| Friday April 24   | 11am PT| Wrap Up and Sharing Session| Colin, Scott, & Kelly |
+[plugin:content-inject](../schedule/_calendar)
 
 **Zoom link:**
 Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
