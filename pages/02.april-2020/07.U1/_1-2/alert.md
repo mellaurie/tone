@@ -9,7 +9,7 @@ markdown:
 
 #### Activity 1.1: What do you know about Multi-Access Learning?
 
-:fa-camera: Have a close look at the following image  
+:fa-camera: Have a close look at the following image. (*Click to enlarge*)
 
 
 <a title="Beyond Blended - Multi-access learning, great spotlight #tiegrad talk by @_valeriei at #CanEdu14" href="https://flickr.com/photos/gforsythe/13959196560"><img src="https://live.staticflickr.com/5495/13959196560_fae7ffcc02.jpg" alt="Beyond Blende - Multi-access learning, great spotlight #tiegrad talk by @_valeriei at #CanEdu14" /></a><br />
