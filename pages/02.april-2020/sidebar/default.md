@@ -6,11 +6,11 @@ cache_enable: false
 ---
 
 ## Course Facilitators
-Scott Macklin
+#### :fa-user: Scott Macklin  
 [safe-email autolink="true"]ScottMacklin@twu.ca[/safe-email]  
 
-Colin Madland
+#### :fa-user: Colin Madland  
 [safe-email autolink="true"]ColinMadland@twu.ca[/safe-email]  
 
-Kelly Marjanovic
+#### :fa-user: Kelly Marjanovic  
 [safe-email autolink="true"]KellyMarjanovic@twu.ca[/safe-email]  
