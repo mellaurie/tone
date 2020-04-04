@@ -1,6 +1,6 @@
 ---
 title: Home
-published: false
+published: true
 visible: false
 hide_page_title: true
 modular_content:
