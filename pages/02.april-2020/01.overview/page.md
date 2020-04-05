@@ -8,7 +8,7 @@ markdown:
   extra: false
 ---
 
-![](rsz_tone.jpg) 
+![](rsz_tone.jpg)
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Online Teaching and Learning!
@@ -18,6 +18,8 @@ For the next three weeks, we'll dive into some key ideas to help you design your
 
 Another key focus of our time together is to build a *Community of Inquiry* - a forum where we can share resources, experiences, and ideas about course design.
 
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ### Course Topics
 This mini-course is organized into 6 units:
