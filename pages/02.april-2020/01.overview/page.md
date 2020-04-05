@@ -11,7 +11,7 @@ markdown:
 ![](rsz_tone.jpg)
 [plugin:content-inject](_important-reminders)
 
-## Welcome to Online Teaching and Learning!
+## Welcome to Teaching Online Effectively (TOne)!
 
 ### Course Description
 For the next three weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
