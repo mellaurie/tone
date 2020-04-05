@@ -26,6 +26,18 @@ One trend that is gaining traction is **Multi-Access Learning**. Read the follow
 
 With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system.  This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.
 
+---
+
+[details="Read more about the 4 tiers of multi-access learning"]
+
+##### Tier 1
+
+The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small
+
+[/details]
+
+---
+
 ### Learning Activities
 [plugin:content-inject](../_1-2)
 
