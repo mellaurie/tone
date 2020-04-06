@@ -45,7 +45,7 @@ The third tier provides asynchronous access for remote learners who cannot join 
 
 The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.
 
-!!!! This course is designed to take advantage of all four tiers of the multi-access model (except f2f for now...). anyone is welcome to follow along at [multi-access.twu.ca/tone/april-2020](https://multi-access.twu.ca/tone/april-2020).
+!!!! This course is designed to take advantage of all four tiers of the multi-access model (except f2f for now...). Anyone is welcome to follow along at [multi-access.twu.ca/tone/april-2020](https://multi-access.twu.ca/tone/april-2020).
 
 [/details]
 
