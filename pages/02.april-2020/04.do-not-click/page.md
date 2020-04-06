@@ -1,8 +1,9 @@
 ---
 title: You Clicked!!
 published: true
+visible: false
 hide_page_title: false
-show_sidebar: true
+show_sidebar: false
 hide_git_sync_repo_link: false
 markdown:
   extra: false
