@@ -10,6 +10,7 @@ visible: false
 
 :fa-book: Read section 4.3 [The ADDIE model](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/6-5-the-addie-model/) in *Teaching in a Digital Age*.
 
+
 :fa-film: Watch the following videos on the ADDIE model and Backwards Design.  
 
 [plugin:youtube](https://www.youtube.com/watch?v=BCJY_r7NJc0)
