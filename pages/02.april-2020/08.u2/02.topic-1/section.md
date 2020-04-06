@@ -1,5 +1,5 @@
 ---
-title: 'Topic 1: Design Process'
+title: '1. Design Process'
 hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
@@ -9,12 +9,12 @@ hide_git_sync_repo_link: false
 
 Imagine you win the lottery and have a couple million dollars to design your dream house.  What would it look like?  Where would it be?  Who would live in it with you?
 
-If you had to actually do the work to map out the blueprint of your house, what are the components?  What is the layout and design?  What motivates you to make those design choices?
+If you actually had to do the work to map out the blueprint of your house, what are the components?  What is the layout and design?  What motivates you to make those design choices?
 
 ![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
 
 Designing a course is like planning, building, and moving into a house.  You start with asking some key questions:
-- What is the course?  What are the ‘big picture‘ ideas or the main take-aways?
+- What is the course?  What are the ‘big picture‘ ideas, or the main take-aways?
 - How does this course fit in with the program?
 - If a previous course exists, has there been any feedback from students and instructors?
 …and the most important questions:
@@ -34,7 +34,7 @@ The **ADDIE Process** illustrates 5 phases of course development:
 ![alt-text](Skema_ADDIE.jpg "ADDIE model")
 *Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Skema_ADDIE.jpg)*
 
-**Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the target: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they demonstrate this?  Finally, what learning experiences will help students achieve this?
+**Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they *demonstrate* this?  Finally, what learning *experiences* will help students achieve this?
 
 ### Learning Activities
 [plugin:content-inject](../_2-2)

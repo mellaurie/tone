@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 ---
 # Unit 2: Course Design Process & Elements
 ## Overview
-In this second unit we discuss the course design process and share techniques you can use in developing your online or blended courses at TWU.  You'll see various course examples, highlighting some common components that are in our courses, such as unit learning outcomes, formative learning activities, and assessment.  Finally, we will discuss what a quality course looks like and will provide tools to help you evaluate the design of online and blended courses.
+In this second unit we discuss the course design process and share techniques you can use in developing your online or blended courses at TWU.  You'll see various course examples, highlighting some common components that are in our courses, such as unit learning outcomes, formative learning activities, and assessment.  Finally, we will discuss quality in online course design and will provide tools to help you improve your online and blended courses.
 
 
 ## Topics
