@@ -23,5 +23,5 @@ One of the common complaints about remote learning is that both learners and fac
 
 #### Use the link below to find a learning partner and pod.
 
-<a class="embedly-card" data-card-controls="0" href="https://bit.ly/tonecorp">Sandstorm</a>
+<a class="embedly-card" data-card-controls="0" href="http://bit.ly/tonepods">Sandstorm</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
