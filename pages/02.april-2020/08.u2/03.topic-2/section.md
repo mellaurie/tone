@@ -1,5 +1,5 @@
 ---
-title: 'Topic 2: Anatomy of an Online Course'
+title: '2. Anatomy of an Online Course'
 hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
@@ -45,19 +45,24 @@ There should be clear connections between the outcomes, activities, and assessme
 [details="Want to know more about Learning Outcomes? Click to Open!"]
 
 **Bloom’s Taxonomy**
+
 ​Instructional designers often use Bloom’s Taxonomy to help write learning outcomes. The graphic below lists the possible verbs to use in a learning outcome, as well as examples of activities and/or assessments.  Just to give one example, if you are assessing the domain of analysis by asking student to compare, you may ask them to create and administer a survey.
 ![](bloomwheel.png)
+
 For more, see [Revised Bloom’s Taxonomy](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/) from Iowa State University.
 
 
 **Significant Learning**
+
 Fink (2003) described learning as change in the learner.  How can we tell what has changed in our students, or how the course has impacted them?
 In his book, Creating Significant Learning Experiences: An Integrated Approach to Designing Colleges Courses, he asks instructors to consider what students will take away from the course.  What are the long-term goals?  What will they remember?
 The image here shows Fink’s Taxonomy of Significant Learning.  Consider the various categories of learning as you write your outcomes.  Will students apply their learning?  Learn about themselves or others?  Value a new idea or perspective? Become a self-directed learner?
 <a title="Fink Significant Learning" href="https://flickr.com/photos/lauradahl/2897475124"><img src="https://live.staticflickr.com/3172/2897475124_d578e30591.jpg" alt="Fink Significant Learning" /></a><br /><small><a title="Fink Significant Learning" href="https://flickr.com/photos/lauradahl/2897475124">Fink Significant Learning</a> flickr photo by <a href="https://flickr.com/people/lauradahl">Laura B. Dahl</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
 
 **SOLO Taxonomy**
+
 Another great resource that can help guide your course design is the structure of observed learning outcomes (SOLO) created by John Biggs and K. Colis. Below are two images showing the 5 levels of understanding.
+
 ![](512px-Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)
 
 Source: Diagram giving an overview of the SOLO Taxonomy approach. [Wikipedia](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)
