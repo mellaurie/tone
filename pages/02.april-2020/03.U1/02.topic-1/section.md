@@ -64,3 +64,12 @@ So how does this Multi-Access model of learning compare to what you have experie
 [plugin:content-inject](../_1-4)
 
 !!! Before moving on to the next topic, consider what design principles and techniques were used in this first course topic.  Are there any you might consider using in developing your online course?
+
+---
+
+#### References
+
+The following Zotero Group Library is open and will be updated regularly.
+
+<a class="embedly-card" data-card-controls="0" href="https://www.zotero.org/groups/2479174/twu_tone_library">TWU TOnE Library</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
