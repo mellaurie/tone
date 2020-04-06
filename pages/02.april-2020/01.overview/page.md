@@ -21,7 +21,16 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+---
+[details="Can't see the video above? Click here."]
+
+<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp%3Bshowinfo=false">Microsoft Stream</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 [Welcome video](https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp;showinfo=false)
+[/details]
+
+---
 
 ### Course Topics
 This mini-course is organized into 6 units:
