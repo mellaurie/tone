@@ -105,6 +105,20 @@ After successfully completing the course, you will be able to:
 
 ---
 
+##### Scott Macklin, Executive Director GLOBAL Online …a long time ago in a galaxy far, far away…
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/9ef32b4d-9710-4757-a607-e5fc1d290357?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+---
+[details="Can't see the video above? Click here."]
+
+<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/9ef32b4d-9710-4757-a607-e5fc1d290357?autoplay=false&amp;showinfo=false">Microsoft Stream</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+[Scott's Self-introduction Video](https://web.microsoftstream.com/embed/video/9ef32b4d-9710-4757-a607-e5fc1d290357?autoplay=false&amp;showinfo=false)
+[/details]
+
+---
 
 #### References
 
