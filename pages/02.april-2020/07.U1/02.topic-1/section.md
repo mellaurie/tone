@@ -28,11 +28,14 @@ With the uncertainty brought on by COVID-19, multi-access learning has great pot
 
 ---
 
-[details="Read more about the 4 tiers of multi-access learning"]
+[details="Read more about the 4 tiers of multi-access learning."]
 
 ##### Tier 1
 
-The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small
+The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small; large, lecture-based classrooms present significant challenges to building the kind of critical and safe community for engaged interaction.
+
+##### Tier 2
+
 
 [/details]
 
