@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-1'
+title: 'Activity 1-2'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.1: What do you know about Multi-Access Learning?
+#### Activity 1.2: What do you know about Multi-Access Learning?
 
 :fa-camera: Have a close look at the following image. (*Click to enlarge*)
 
