@@ -35,7 +35,7 @@ Videos are a great way to teach in an online course - and there are a variety of
 | HIST 107 Example Video | WRSH 101 Example Video  |
 |----------------|----------------|
 | ![](HIST-107-video.png)               | ![](WRSH-101-video.png)              |
-| ![](TED-talkDD.png) | |
+|  ![](TONE-session1.png)   | ![](TED-talkDD.png) |
 
 
 ### Using Images & Graphic Organizers
