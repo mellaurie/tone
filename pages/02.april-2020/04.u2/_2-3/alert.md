@@ -13,4 +13,4 @@ visible: false
 Consider the question Bates asks:
 :fa-question: Take a course you are teaching in class at the moment. Write down the learning goals. Given the need for developing the skills needed in a digital age, would you want to change the goals of this course? If so, would you have to change your teaching methods and/or use of technology?
 
-In addition to the course learning outcomes listed in your syllabus, what are the unit learning outcomes?  If you are planning out a course currently, consider taking the time to map out the lesson with these details in mind.
+:fa-question: In addition to the course learning outcomes listed in your syllabus, what are the unit learning outcomes?  If you are planning out a course currently, consider taking the time to map out the lesson with these details in mind.
