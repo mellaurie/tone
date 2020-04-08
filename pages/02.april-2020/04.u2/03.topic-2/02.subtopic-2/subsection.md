@@ -39,6 +39,9 @@ Videos are a great way to teach in an online course - and there are a variety of
 |  ![](TONE-session1.png)   | ![](TED-talkDD.png) |
 
 
+! *Note:* We'll go into more detail about how to use video later in the course.  For now, if you're interested in learning more about Zoom, see [Using Video Conferencing]http://create.twu.ca/help/online-learning-on-ramp/running-a-session/conferencing
+
+
 ### Using Images & Graphic Organizers
 ![](girl-2848057_1920.jpg)
 
