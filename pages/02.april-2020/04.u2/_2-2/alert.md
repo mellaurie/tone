@@ -27,3 +27,7 @@ visible: false
 
 ##### Additional Resources
 - [Instructional Design Models](https://www.instructionaldesign.org/models/)
+
+*Questions to Consider*  
+
+:fa-question: Does the ADDIE model or Backwards Design work for you?  Would it be helpful in planning your course?
