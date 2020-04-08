@@ -24,12 +24,15 @@ The most important part of course design is the planning. After the initial stag
 
 In developing this document we focus on the development of learning outcomes that are measurable, and then ensure that the supporting activities and assessments are mapped directly to these outcomes.
 
-Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [Word version](TWU-Course-Blueprint-Template.docx)
+Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU-Course-Blueprint-Template.docx)
 
 ![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
 ![alt-text](phil-210-blueprint.png "PHIL 210 Blueprint")
 
 !!! Note in the blueprint that there is a table for 10 units.  This does not apply to all courses!!  If you happen to work with an Instructional Designer in planning out your course, a key question will be how to organize the learning/content.  This may work out to be 10 key units for a 12 week course, but each course is different.
+
+### Learning Activities
+[plugin:content-inject](../../_2-4)
 
 Let's move on to the next topic, where will address the next steps in the process, including creating content, activities and assessments.

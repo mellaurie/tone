@@ -7,11 +7,9 @@ visible: true
 ---
 
 ## Unit Overview
-![](archery-2721785_640.jpg)
-
 We typically start with an overview of what is in the unit - what are the key ideas, how does it connect to the rest of the course, why does this matter to students, etc.  This is one way the instructor can connect to students, to set the stage for learning, and to really bring in your teacher’s voice or presence.  Many instructors use video to share the unit overview, as this can personalize the experience for students.
 
-![](instructor-video-unit-overview.png)
+![](archery-2721785_640.jpg)
 
 The Unit Overview also includes the unit Topics, Learning Outcomes, Activities, and Resources. We include these details as it allows students to plan their week, make time for activities and assessments, ensure they have the required resources, and to know what the purpose is of the unit (learning outcomes).
 
