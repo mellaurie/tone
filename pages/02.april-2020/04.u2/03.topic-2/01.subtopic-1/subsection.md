@@ -29,6 +29,7 @@ It is crucial to have measurable learning outcomes listed on the course outline,
 The diagram above illustrates the five key principles in designing learning outcomes.  They must be specific and clear, instructors must be able to measure successful completion of an outcome, and learners must be able to achieve them.  Learning outcomes should also be relevant to the course and achievable  within the time period allotted.
 
 For more examples of learning outcomes, see our course text *[Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-2-the-nature-of-knowledge-and-the-implications-for-teaching/)* by Tony Bates.
+
 ---
 
 [details="Want to know more about Learning Outcomes? Click to Open!"]
@@ -74,7 +75,8 @@ Other great resources:
 
 ### Activities and Assessments
 
-![](Activity Checklist.png)
+![](Activity-Checklist.png)
+
 In the Overview section we often have an Activity Checklist - some indication of what is required of students in the units.  This could be a brief list of readings/videos, learning activities, and assessments.
 
 We will dive more the topics of activities and assessments a bit later.

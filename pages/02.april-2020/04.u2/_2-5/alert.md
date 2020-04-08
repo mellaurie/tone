@@ -5,11 +5,9 @@ published: true
 visible: false
 ---
 
-<!-- Title of the toggle goes between quotation marks. -->
-[details="Activity 2.5 - 90 min - Click to Open"]
+#### Activity 2.5: Tell a Story
 
-<!-- Enter content and instructions here. -->
+:fa-pencil: As a practice for writing about a topic in your course, try telling a story about it.  Use your camera phone to record yourself, or simply write down your thoughts on paper.  Explain the key concepts about a course topic - sharing what makes it interesting *for you!*
 
-[presentation="anth101/presentations/sample"]
-
-[/details]  
+:fa-pencil: To help you get started, use a [Liberating Structure](http://www.liberatingstructures.com/ls-menu) exercise (we'll talk more about LS in our activity section).
+!!!! Ask, “Why is this topic important?" Write down your answer. Then ask, “Why is that?” Keep asking, “Why? Why? Why?” up to nine times or you can go no deeper because you have reached the fundamental purpose for this topic.
