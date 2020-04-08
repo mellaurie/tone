@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.5: Resources on Design Principles
+#### Activity 1.5: Methods of Teaching (Online & F2F)
 
 :fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/).  
 

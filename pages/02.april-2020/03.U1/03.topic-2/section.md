@@ -24,9 +24,11 @@ The **Experiential Learning** model was developed in the 70's by Kolb (influence
 
 Other key models related to experiential learning are:
 - active learning,
-- inquiry- based learning,
+- inquiry-based learning,
 - problem-based learning, and
 - collaborative learning.
+
+In our condensed course, we won't examine these models in depth (unfortunately!), but please see the resources listed in the learning activity below.
 
 ### Learning Activities
 [plugin:content-inject](../_1-5)
