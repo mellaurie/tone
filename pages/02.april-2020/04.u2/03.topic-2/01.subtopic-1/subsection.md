@@ -14,8 +14,11 @@ The Unit Overview also includes the unit Topics, Learning Outcomes, Activities, 
 
 ![](archery-2721785_640.jpg)
 
-**Learning Outcomes**
+### Topics
+After giving a preview of the unit in the Overview section, we typically list the topics.  Now, you may think that your unit/lesson is just one main topic, but consider if that can be broken down a bit more.  A bit later we'll discuss why we "chunk" information, but for now as you think about a unit and fill out your course blueprint, try to break down your main topic into subtopics.
 
+
+### Learning Outcomes
 Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  We also encourage instructors to list the learning outcomes for each unit/lesson, as again, this helps students know what to aim for.
@@ -25,14 +28,6 @@ It is crucial to have measurable learning outcomes listed on the course outline,
 ![](SMART-goals.png)
 
 The diagram above illustrates the five key principles in designing learning outcomes.  They must be specific and clear, instructors must be able to measure successful completion of an outcome, and learners must be able to achieve them.  Learning outcomes should also be relevant to the course and achievable  within the time period allotted.
-
-
-**Activities and Assessments - Making Connections**
-![](oaa.png)
-
-Once you have decided the learning outcomes for a lesson/unit, consider how students will demonstrate their learning (assessment).  Sometimes design starts with the assessment in mind, and then you can work backwards to examine what that assessment tells us about students learning.  The other connection we need to make is how to prepare learners for the assessments through learning activities.
-
-There should be clear connections between the outcomes, activities, and assessments in a course.
 
 
 ---
@@ -77,6 +72,21 @@ Other great resources:
 [/details]
 
 ---
+
+### Activities and Assessments
+In the Overview section we often have an Activity Checklist - some indication of what is required of students in the units.  This could be a brief list of readings/videos, learning activities, and assessments.
+
+We will dive more into these key components of a lesson, but for now, we want to emphasize the importance of making connections between these three elements.
+![](oaa.png)
+
+Once you have decided the learning outcomes for a lesson/unit, consider how students will demonstrate their learning (assessment).  Sometimes design starts with the assessment in mind, and then you can work backwards to examine what that assessment tells us about students learning.  The other connection we need to make is how to prepare learners for the assessments through learning activities.
+
+There should be clear connections between the outcomes, activities, and assessments in a course.
+
+
+### Resource List
+A final piece of information in the Unit Overview section is the resource list.  We often list just the main resource (e.g. course text) and then let students know the rest of the resources will be linked within the unit.  This allows students to plan for any texts/articles they must purchase.  Listing the resources throughout the unit allows for scaffolding of learning, as well as a way to provide context and guiding questions for students, rather than a master list of resources.
+
 
 ### Learning Activities
 [plugin:content-inject](../../_2-3)
