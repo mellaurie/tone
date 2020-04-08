@@ -6,6 +6,8 @@ hide_git_sync_repo_link: false
 visible: true
 ---
 
+!! content coming!
+
 ## Unit Learning Activities
 
 We will dive more into these key components of a lesson, but for now, we want to emphasize the importance of making connections between these three elements.
