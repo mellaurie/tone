@@ -107,4 +107,4 @@ As you read the following guidelines, consider how you can incorporate them into
 ---
 
 ### Learning Activities
-[plugin:content-inject](../_2-7)
+[plugin:content-inject](../_2-8)
