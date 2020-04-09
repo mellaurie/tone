@@ -11,12 +11,13 @@ What is a *quality online course*?  Take a moment to jot down some thoughts.
 
 When we assess the quality of an online course, many course designers turn to the **[Quality Matters rubric for Higher Education](https://www.qualitymatters.org/sites/default/files/PDFs/StandardsfromtheQMHigherEducationRubric.pdf)**.  Have a quick look at the link and we'll expand on the elements in a bit.  As you skim the sections, pay attention to the key feature of alignment.
 
-! Unique to the QM Rubric is the concept of Alignment. This occurs when critical course components — Learning Objectives (Competencies) (2.1, 2.2), Assessment and Measurement (3.1), Instructional Materials (4.1), Learning Activities and Learner Interaction (5.1), and Course Technology (6.1) — work together to ensure students achieve desired learning outcomes. - *from [QM Course Design Rubric Standards](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric)*.
+! "Unique to the QM Rubric is the concept of Alignment. This occurs when critical course components — Learning Objectives (Competencies) (2.1, 2.2), Assessment and Measurement (3.1), Instructional Materials (4.1), Learning Activities and Learner Interaction (5.1), and Course Technology (6.1) — work together to ensure students achieve desired learning outcomes." - *From [QM Course Design Rubric Standards](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric)*.
 
 At TWU, we have slightly modified the rubric to align with our own Trinity standards of values for teaching and learning.
 
 As you read the following guidelines, consider how you can incorporate them into your course design.
 
+---
 ### #1: Course Overview and Introduction
 •	Instructions are clear on how to navigate the course and how to get started.
 
@@ -26,6 +27,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	Learners are asked to introduce themselves to the class.
 
+---
 ### #2: Learning Outcomes
 •	The course learning outcomes are measurable and reflect the course description and level of the course.
 
@@ -35,6 +37,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	There is a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 
+---
 ### #3: Assessment
 •	The assessments measure the achievement of the course learning outcomes and are consistent with course activities and resources.
 
@@ -46,6 +49,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The learner workload is appropriate and reasonable for the level and number of credits for the course.
 
+---
 ### #4: Instructional Materials
 •	The instructional materials (written/oral content, videos, graphics, readings, etc.), support learners in achieving the learning outcomes.
 
@@ -55,6 +59,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	A variety of instructional materials are used in the course.
 
+---
 ### #5: Learning Activities and Learner  Interaction
 •	Learning activities support learners in achieving the learning outcomes and completing assessments.
 •	Learning activities provide scaffolding opportunities for building foundational knowledge and skills within the course.
@@ -63,6 +68,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The requirements for learner interaction are clearly stated.
 
+---
 ### #6: Course Technology
 •	The technology used in the course support the learning outcomes, activities and assessments.
 
@@ -74,6 +80,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	A variety of technology is used in the course.
 
+---
 ### #7: Learner Support
 •	Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
 
@@ -81,6 +88,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
 
+---
 ### #8: Accessibility and Usability
 •	The course navigation facilitates ease of use.
 
@@ -90,7 +98,13 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The course provides accessible text, videos and images for diverse learners.
 
+---
 ### #9: TWU Values and Standards
 •	Learner interaction (student-instructor, student-student, student-content) promotes a sense of community aligned with Trinity Western University core values.
 
 •	Course design and instructional materials meet academic standards for Higher Education (online) learning.
+
+---
+
+### Learning Activities
+[plugin:content-inject](../_2-7)
