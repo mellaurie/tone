@@ -14,3 +14,6 @@ visible: false
 - [Best Practices in Designing Online Courses](http://lpc1.clpccd.cc.ca.us/lpc/blackboard/best_practices/)
 
 :fa-pencil: Next, download our TWU Quality Checklist for Online Courses. [pdf](Checklist-for-TWU-Quality-Online-Courses.pdf) [word](Checklist-for-TWU-Quality-Online-Courses.docx)
+
+Consider using these guidelines as you develop your online course.
+!!! Note too that this is a process!  For the quick development of your summer sessions, it may not be possible to work on all elements.  Let our design team know if we can help!
