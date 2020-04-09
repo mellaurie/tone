@@ -17,7 +17,7 @@ At TWU, we have slightly modified the rubric to align with our own Trinity stand
 
 As you read the following guidelines, consider how you can incorporate them into your course design.
 
-### Course Overview and Introduction
+### #1: Course Overview and Introduction
 •	Instructions are clear on how to navigate the course and how to get started.
 
 •	The Course Overview provides a course description, learning outcomes, and list of assessments.
@@ -26,7 +26,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	Learners are asked to introduce themselves to the class.
 
-### Learning Outcomes
+### #2: Learning Outcomes
 •	The course learning outcomes are measurable and reflect the course description and level of the course.
 
 •	The module/unit learning outcomes are measurable and consistent with the course-level outcomes.
@@ -35,7 +35,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	There is a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 
-### Assessment
+### #3: Assessment
 •	The assessments measure the achievement of the course learning outcomes and are consistent with course activities and resources.
 
 •	Specific and descriptive criteria (rubrics, marking schemes) are provided for the evaluation of students’ work and participation.
@@ -46,7 +46,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The learner workload is appropriate and reasonable for the level and number of credits for the course.
 
-### Instructional Materials
+### #4: Instructional Materials
 •	The instructional materials (written/oral content, videos, graphics, readings, etc.), support learners in achieving the learning outcomes.
 
 •	Course materials and resources are up-to-date, relevant, and appropriate for the level of the course.
@@ -55,7 +55,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	A variety of instructional materials are used in the course.
 
-### Learning Activities and Learner  Interaction
+### #5: Learning Activities and Learner  Interaction
 •	Learning activities support learners in achieving the learning outcomes and completing assessments.
 •	Learning activities provide scaffolding opportunities for building foundational knowledge and skills within the course.
 
@@ -63,7 +63,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The requirements for learner interaction are clearly stated.
 
-### Course Technology
+### #6: Course Technology
 •	The technology used in the course support the learning outcomes, activities and assessments.
 
 •	Tools promote student engagement and active learning.
@@ -74,14 +74,14 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	A variety of technology is used in the course.
 
-### Learner Support
+### #7: Learner Support
 •	Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
 
 •	Instructors provide support for students throughout the course (e.g. though emails, assessment feedback, welcome videos, weekly debriefing, and other updates).
 
 •	Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
 
-### Accessibility and Usability
+### #8: Accessibility and Usability
 •	The course navigation facilitates ease of use.
 
 •	The overall course is structured in a logical, consistent, sequenced, and efficient manner.
@@ -90,7 +90,7 @@ As you read the following guidelines, consider how you can incorporate them into
 
 •	The course provides accessible text, videos and images for diverse learners.
 
-### TWU Values and Standards
+### #9: TWU Values and Standards
 •	Learner interaction (student-instructor, student-student, student-content) promotes a sense of community aligned with Trinity Western University core values.
 
 •	Course design and instructional materials meet academic standards for Higher Education (online) learning.
