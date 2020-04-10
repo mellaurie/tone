@@ -33,3 +33,4 @@ Here are other optional resources to browse on design principles.
 -  [Examples of Experiential Education at Carleton - Experiential Education](https://carleton.ca/experientialeducation/137-2/)
 - [Inquiry-Based Learning \| Centre for Teaching and Learning](https://www.queensu.ca/ctl/teaching-support/instructional-strategies/inquiry-based-learning)
 - [Inquiry-based learning in higher education: Principal forms, educational objectives, and disciplinary variations](https://www.researchgate.net/publication/239800379_Inquiry-based_learning_in_higher_education_Principal_forms_educational_objectives_and_disciplinary_variations)
+- [An Overview Of Cooperative Learning](http://www.co-operation.org/what-is-cooperative-learning)
