@@ -1,12 +1,12 @@
 ---
-title: '1. Formative & Summative'
+title: '1. Purpose of Assessment'
 hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
 
 
-## Topic 1: Formative and Summative Assessment
+## Topic 1: Purpose of Assessment
 
 Assessment demonstrates whether, and to what degree, the learner has met the learning outcomes for the course. This traditionally comes in the form of a test or essay, but there are a number of other ways we can measure students’ understanding. First, let’s focus on what assessment is.
 
