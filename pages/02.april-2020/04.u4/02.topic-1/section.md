@@ -39,7 +39,7 @@ In our courses, we often think first of the **summative assessments** – the fi
 In our online courses, we often include learning activities. These are typically ungraded so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
 
 Watch the following video about Trinity's Inquiry-Based Learning approach.
-[plugin-youtube](https://www.youtube.com/watch?time_continue=61&v=SCa9Nt3X1vU&feature=emb_logo)
+[plugin:youtube](https://www.youtube.com/watch?time_continue=61&v=SCa9Nt3X1vU&feature=emb_logo)
 
 
 *Questions to Consider:*
