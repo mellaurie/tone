@@ -15,7 +15,7 @@ In this unit, we hope to give you a hearty menu of ideas for learning activities
 
 
 ## Topics
-1. Formative vs Summative Assessment
+1. Formative and Summative Assessment
 1. Learning Activities
 1. Feedback and grading rubrics
 

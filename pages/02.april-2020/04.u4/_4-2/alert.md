@@ -5,11 +5,9 @@ published: true
 visible: false
 ---
 
-<!-- Title of the toggle goes between quotation marks. -->
-[details="Activity 3.2 - 90 min - Click to Open"]
+#### Activity 4.1: Activities and Assessment
 
-<!-- Enter content and instructions here. -->
+:fa-book: Select from the following resources
 
-[presentation="anth101/presentations/sample"]
 
-[/details]  
+- [Best Practices: Alternative Assessments](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/alternative-assessments.pdf)
