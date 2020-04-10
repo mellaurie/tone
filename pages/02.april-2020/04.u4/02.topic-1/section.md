@@ -7,10 +7,10 @@ hide_git_sync_repo_link: false
 
 
 ## Topic 1: Purpose of Assessment
+Think about why assessment is a part of your course.  How does it benefit you and your learners?
+Assessment demonstrates whether, and to what degree, the learner has met the learning outcomes for the course. It often lets the instructor know what concepts students struggle with which informs their teaching.  Assessments traditionally come in the form of tests or essays, but there are a number of other ways we can measure students’ understanding. First, let’s focus on what assessment is.
 
-Assessment demonstrates whether, and to what degree, the learner has met the learning outcomes for the course. This traditionally comes in the form of a test or essay, but there are a number of other ways we can measure students’ understanding. First, let’s focus on what assessment is.
-
-### Understanding Assessment
+### Understanding Assessment: Formative & Summative
 Assessment can be *for, of,* and *as* learning.
 
 ![](of-for-as-learning.png)
@@ -35,7 +35,15 @@ In our courses, we often think first of the **summative assessments** – the fi
 | Frame of Reference | Sometimes normative (comparing each student against all others); sometimes criterion | Always criterion (evaluating students according to the same criteria) |
 
 
-### Learning Activities - Formative, ungraded, MESSY Learning!
+### Alignment in Course design
+An important part of course design is checking that there is alignment between assessments and learning outcomes.  If your learning outcome asks students to compare two theories, for example, how do they show you they can do that?  Often instructors will have their assessments in mind before they write their learning outcomes.  Whatever process you have, make sure that your course learning outcomes are assessed in your assignments.  Try to include these connections in your syllabus, as in the example below:
+![](course-assessment.png)
+
+
+### Learning Activities: Preparing for Assessments
+One other alignment check that needs to be made in your course design is the connection between the assessments and the learning activities.  We mentioned in [Unit 2](https://learn.twu.ca/course/view.php?id=13628&section=2) that learning activities are designed to help students engage with the course topics, and that most are ungraded and optional. In order to motivate students to complete them, be explicit about the connections to the assignments and how the activities will help students succeed in their assessments.
+If for example, they have to analyze a case study in a major assignment, then they should be able to practice the skills needed to do this. If students are giving a presentation, ask students to record themselves practicing their presentation (better yet, to practice in front of peers).
+
 In our online courses, we often include learning activities. These are typically ungraded so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
 
 Watch the following video about Trinity's Inquiry-Based Learning approach.
