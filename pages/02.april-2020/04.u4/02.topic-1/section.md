@@ -42,9 +42,8 @@ An important part of course design is checking that there is alignment between a
 
 ### Learning Activities: Preparing for Assessments
 One other alignment check that needs to be made in your course design is the connection between the assessments and the learning activities.  We mentioned in [Unit 2](https://learn.twu.ca/course/view.php?id=13628&section=2) that learning activities are designed to help students engage with the course topics, and that most are ungraded and optional. In order to motivate students to complete them, be explicit about the connections to the assignments and how the activities will help students succeed in their assessments.
-If for example, they have to analyze a case study in a major assignment, then they should be able to practice the skills needed to do this. If students are giving a presentation, ask students to record themselves practicing their presentation (better yet, to practice in front of peers).
 
-In our online courses, we often include learning activities. These are typically ungraded so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
+Another reason to include learning activities in your online course is so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
 
 Watch the following video about Trinity's Inquiry-Based Learning approach.
 [plugin:youtube](https://www.youtube.com/watch?time_continue=61&v=SCa9Nt3X1vU&feature=emb_logo)
