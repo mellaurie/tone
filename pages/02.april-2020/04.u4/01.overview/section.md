@@ -6,7 +6,11 @@ hide_git_sync_repo_link: false
 ---
 # Unit 4: Engaging Learning Activities & Assessment Strategies
 ## Overview
-...
+Congratulations!  You're halfway done the course!  So far, *(if you'll follow me on this metaphor)*, we've set the table (foundational ideas of design), you've looked at your menu (process & planning), had the appetizer (building community), and now for the smorgasbord of ideas!  *(Okay, not the best metaphor...but this course writer is currently pregnant, so food is on the brain!)*
+
+![](buffet-2283843_1280.jpg)
+
+In this unit, we hope to give you a hearty menu of ideas for learning activities and assessments to use in your course.  Some activity types may not work for your particular course, but consider the underlying principles of engagement, "messy" learning, and formative feedback.
 
 
 ## Topics
@@ -15,17 +19,14 @@ hide_git_sync_repo_link: false
 1. Feedback and grading rubrics
 
 
-
-
 ## Learning Outcomes
 After completing this unit, you will be able to:
-- design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
-- align assessments to learning outcomes and learning activities.
 - explain the difference between formative and summative assessment
+- align assessments to learning outcomes and learning activities.
+- design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
 - explore practical assessment strategies that you can implement in your classes.
 - create a grading rubric
 - evaluate the effectiveness of activities, resources and technology to support learning;
-
 
 
 ## Activity Checklist
