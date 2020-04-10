@@ -17,17 +17,17 @@ In this unit, we hope to give you a hearty menu of ideas for learning activities
 ## Topics
 1. Purpose of Assessment
 1. Activity & Assessment Ideas
-1. Feedback and Grading Rubrics
+1. Feedback & Grading Rubrics
 
 
 ## Learning Outcomes
 After completing this unit, you will be able to:
-- explain the difference between formative and summative assessment
-- align assessments to learning outcomes and learning activities.
-- design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
-- explore practical assessment strategies that you can implement in your classes.
-- create a grading rubric
+- explain the difference between formative and summative assessment;
+- align assessments to learning outcomes and learning activities;
+- design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy;
+- explore practical assessment strategies that you can implement in your classes;
 - evaluate the effectiveness of activities, resources and technology to support learning;
+- create a grading rubric and/or detailed assignment guidelines. 
 
 
 ## Activity Checklist

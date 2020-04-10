@@ -10,7 +10,7 @@ visible: false
 
 :fa-book: Read section 6.8 [Assessment of learning](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/5-8-assessment-of-learning/) from our course text.  
 
-Next, select from the following resources:
+:fa-book: Next, select from the following resources:
 - [Learner Assessment in Online Courses: Best Practices & More](https://www.learnworlds.com/learner-assessment-best-practices-course-design/)
 - [The Messy and Unpredictable Classroom](https://www.facultyfocus.com/articles/teaching-and-learning/the-messy-and-unpredictable-classroom/)
 - [Assessing Student Learning Online](https://ep.jhu.edu/faculty/learning-roadmap-for-new-online-instructors/assessing-student-learning-online)
