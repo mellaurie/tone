@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-6'
+title: 'Activity 1-7'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.6: Inclusive Design Principles
+#### Activity 1.7: Inclusive Design Principles
 
 :fa-book: Read [Universal Design for Learning Overview](https://www.celt.iastate.edu/teaching/effective-teaching-practices/universal-design-for-learning-overview/) from Iowa State University.  
 

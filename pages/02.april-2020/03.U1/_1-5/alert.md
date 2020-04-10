@@ -7,22 +7,9 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.5: Methods of Teaching (Online & F2F)
+### Activity 1.5: Philosophy, Principles and Practices of Teaching
 
-:fa-book: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/).  
-
-Create a T-chart, comparing the campus class to the online class.  
-
-| *Campus Class* | *Online Class* |
-|----------------|----------------|
-| -               | -               |
-| -               | -               |
-
-*Questions to Consider*
-
-:fa-question: Is there overlap between the modalities?  
-:fa-question: Could you anticipate any problems with trying to use classroom models of teaching in online environments?
-
+:fa-book: Skim [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf) by Jim Bryson
 
 #### Additional Resources
 Here are other optional resources to browse on design principles.
@@ -34,3 +21,8 @@ Here are other optional resources to browse on design principles.
 - [Inquiry-Based Learning \| Centre for Teaching and Learning](https://www.queensu.ca/ctl/teaching-support/instructional-strategies/inquiry-based-learning)
 - [Inquiry-based learning in higher education: Principal forms, educational objectives, and disciplinary variations](https://www.researchgate.net/publication/239800379_Inquiry-based_learning_in_higher_education_Principal_forms_educational_objectives_and_disciplinary_variations)
 - [An Overview Of Cooperative Learning](http://www.co-operation.org/what-is-cooperative-learning)
+
+*Questions to Consider*
+
+:fa-question: What principles and practices resonate with you?
+:fa-question: How do these influence your course design?
