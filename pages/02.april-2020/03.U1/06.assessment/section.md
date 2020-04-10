@@ -14,7 +14,7 @@ For this first unit, please see the Discussion Forum in Unit 1 in Moodle.  Later
 ### Unit 1: Introductions & Questions
 Feel free to answer one or all of the following:
 1. Please introduce yourself! What do you teach, how long have you taught at TWU, what are your interests, what have you learned during this time of self-isolation, etc.? Feel free to share a picture of someone or something that means a lot to you (i.e. your pet, family, favourite movie or book, etc.).
-2. What questions to you have about online learning and teaching?  What are you most concerned about or interested in as you move your course online?
+2. What questions do you have about online learning and teaching?  What are you most concerned about or interested in as you move your course online?
 3. What is your Philosophy of Online Learning?
 
 
