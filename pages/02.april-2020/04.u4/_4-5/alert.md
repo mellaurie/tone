@@ -1,15 +1,15 @@
 ---
-title: 'Activity 3-5'
+title: 'Activity 4-5'
 alert_style: alert-primary
 published: true
 visible: false
 ---
 
-<!-- Title of the toggle goes between quotation marks. -->
-[details="Activity 3.5 - 90 min - Click to Open"]
 
-<!-- Enter content and instructions here. -->
 
-[presentation="anth101/presentations/sample"]
+#### Activity 4.5: Grading with Rubrics
 
-[/details]  
+:fa-book: Select from the following resources
+
+
+-   [Grading with Rubrics](https://teaching.uwo.ca/teaching/assessing/grading-rubrics.html)

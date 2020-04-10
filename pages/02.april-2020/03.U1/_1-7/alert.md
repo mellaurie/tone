@@ -14,3 +14,7 @@ Take a look at Trinity's [Student Learning Outcomes](https://www.twu.ca/academic
 
 :fa-question: How do we promote these outcomes and values?    
 :fa-question: What learning activities, assessments, and teaching methods can facilitate these perspectives and capabilities in our students?  
+
+
+Next, read [Faith Integration in the Higher Education Online Classroom: Perspectives and Practice](https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1199&context=icctej)
+:fa-question: How do we integrate our faith in an online class?
