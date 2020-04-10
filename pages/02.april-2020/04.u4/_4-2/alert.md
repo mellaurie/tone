@@ -1,11 +1,15 @@
 ---
-title: 'Activity 3-2'
+title: 'Blogs / Journals'
 alert_style: alert-primary
 published: true
 visible: false
 ---
 
-#### Activity 4.1: Activities and Assessment
+#### Activity 4.4: Blogs / Journals
+
+
+[plugin:youtube](https://www.youtube.com/watch?v=APxkx46l6gc)
+
 
 :fa-book: Select from the following resources
 
