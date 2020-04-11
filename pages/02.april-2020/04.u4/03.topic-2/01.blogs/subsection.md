@@ -88,6 +88,7 @@ people, openness and trust: students’ willingness to learn is fragile, with pa
 - **learner-generated**: this requires ‘opening up’ the process to empower students to take the lead, solve problems, and work collectively to produce artifacts that they share, discuss, reconfigure, and redeploy
 - **reflective practice**: when students and teachers collaborate in partnerships, it facilitates deeper pedagogical reflection
 - **peer review**: Conole (2014) sees learners as publishers and users of a range of open tools, with peer interactions and critique embedded in the learning experience.
+
 *Source: Hegarty, B. (2015) Attributes of open pedagogy: a model for using open educational resources Educational Technology, July-August* Referenced in section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/) in *Teaching in a Digital Age* by Tony Bates.
 
 ### Learning Activities
