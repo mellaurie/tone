@@ -24,7 +24,7 @@ To add an idea, click the + icon. You can also "like" others' ideas and make com
 
 In the next several pages, we're going to explore 10 common activity/assessment types in online courses.
 
-!! Please note that not all of these activity and assessment types will work for your course!  Focus on what will help students practice and achieve the learning outcomes.
+  - **Please note** that not all of these activity and assessment types will work for your course!  Focus on what will help students practice and achieve the learning outcomes.
 
 A final note before you dive into our activity smorgasbord...
 
