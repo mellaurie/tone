@@ -26,8 +26,10 @@ After completing this unit, you will be able to:
 
 
 ## Activity Checklist
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your week.
 
-TBD
+[plugin:content-inject](_schedule)
+
 
 ## Resources:
 - CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.
