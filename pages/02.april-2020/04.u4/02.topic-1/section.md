@@ -8,12 +8,14 @@ hide_git_sync_repo_link: false
 
 ## Topic 1: Purpose of Assessment
 Think about why assessment is a part of your course.  How does it benefit you and your learners?
+
 Assessment demonstrates whether, and to what degree, the learner has met the learning outcomes for the course. It often lets the instructor know what concepts students struggle with which informs their teaching.  Assessments traditionally come in the form of tests or essays, but there are a number of other ways we can measure students’ understanding. First, let’s focus on what assessment is.
 
 ### Understanding Assessment: Formative & Summative
 Assessment can be *for, of,* and *as* learning.
 
 ![](of-for-as-learning.png)
+
 *Source: UBC's [Assessment as Learning](http://etec.ctlt.ubc.ca/510wiki/Assessment_as_Learning)*
 
 ! **Assessment for Learning**, a type of formative assessment, is utilized by teachers in order to gain an understanding of their students' knowledge and skills in order to guide instruction.
@@ -34,6 +36,7 @@ In our courses, we often think first of the **summative assessments** – the fi
 | Feedback           | Final judgement                                                                      | Return to material                                                    |
 | Frame of Reference | Sometimes normative (comparing each student against all others); sometimes criterion | Always criterion (evaluating students according to the same criteria) |
 
+*Table from [Wikipedia](https://en.wikipedia.org/wiki/Formative_assessment#cite_note-11) citing Charting your course: How to prepare to teach more effectively, Atwood, 2000.*
 
 ### Alignment in Course Design
 An important part of course design is checking that there is alignment between assessments and learning outcomes.  If your learning outcome asks students to compare two theories, for example, how do they show you they can do that?  Often instructors will have their assessments in mind before they write their learning outcomes.  Whatever process you have, make sure that your course learning outcomes are assessed in your assignments.  Try to include these connections in your syllabus, as in the example below:
@@ -47,14 +50,16 @@ Another reason to include learning activities in your online course is so that l
 
 ### Opportunities for Exploration & Transformation
 
-! ‘Can transformative learning theory be put into practice, and if yes, what are some of the differences it makes to the lives of learners?’...‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’ *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*
+! ‘Can transformative learning theory be put into practice, and if yes, what are some of the differences it makes to the lives of learners?’...‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’ *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*.
 
 Watch the following video about Trinity's Inquiry-Based Learning approach.
-[plugin:youtube](https://www.youtube.com/watch?time_continue=61&v=SCa9Nt3X1vU&feature=emb_logo)
+
+[plugin:youtube](https://www.youtube.com/watch?v=SCa9Nt3X1vU)
 
 
 *Questions to Consider:*
-:fa-question:  Before you move on to the learning activity, take a moment to jot down your thoughts on these questions:
+Before you move on to the learning activity, take a moment to jot down your thoughts on these questions:
+
 - Why do we assess?  
 - How do I assess my students?  
 - Are there opportunities for students to practice what they are learning before an assessment?

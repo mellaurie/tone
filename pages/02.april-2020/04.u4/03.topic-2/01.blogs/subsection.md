@@ -27,10 +27,10 @@ Sample 2: **Journal Instructions**
 !!! Note that for this course, you will keep a **Reflective Learning Journal**, which will provide the basis for many of your assignments. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, integrate these new concepts with our prior understanding, and apply to other contexts.
 
 !!! As you read and watch the resources in this unit, consider the following questions:   
-!!! :fa-pencil: In your Reflective Learning Journal, write a **summary sentence** for each major idea/concept that relates to your understanding of what it means to be a transformational leader.     
-!!! :fa-pencil: Choose the concept that most resonates with you and write a **short paragraph summary** of this concept, applied to your professional/personal context.   
-!!! :fa-pencil: Formulate **one question** that emerged from this reading that you will explore and consider in future course readings and assignments.   
-!!! :fa-pencil: As you prepare your assignments, refer to these notes.
+!!! 1. In your Reflective Learning Journal, write a **summary sentence** for each major idea/concept that relates to your understanding of what it means to be a transformational leader.     
+!!! 1. Choose the concept that most resonates with you and write a **short paragraph summary** of this concept, applied to your professional/personal context.   
+!!! 1. Formulate **one question** that emerged from this reading that you will explore and consider in future course readings and assignments.   
+!!! As you prepare your assignments, refer to these notes.
 
 Sample 3: **Journal Instructions**
 ! Answer the following questions in your Reflective Journal:

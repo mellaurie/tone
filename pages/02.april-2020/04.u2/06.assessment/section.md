@@ -12,7 +12,7 @@ We would love for you to participate in the Discussion forums and we build our C
 For this second unit, please see the Discussion Forum in Unit 2 in Moodle.  Later on, we may post discussions in our open [TONE website](http://multi-access.twu.ca/tone/april-2020/overview), but in case you haven't tackled discussion forums in Moodle (like your students have to!) then please head on over to the Discussion forum and give it a try!
 
 
-### Unit 2: Course Design Process Questions
+### Unit 2 Discussion: Course Design Process
 Feel free to answer one or all of the following:
 1. What ideas seem helpful to you as you start to plan and design your course?
 2. What course elements can you include in your design now?  What will you implement later?
