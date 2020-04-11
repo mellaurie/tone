@@ -28,7 +28,7 @@ In the next several pages, we're going to explore 10 common activity/assessment 
 
 A final note before you dive into our activity smorgasbord...
 
-In [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf) Jim Bryson suggest 5 questions when choosing activities/assessments:  
+In [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf), Jim Bryson suggest 5 questions when choosing activities/assessments:  
 
 ! :fa-check: Are the instructions, the purpose and the intended learning outcome(s) for this activity clear enough to be correctly understood by all students?
 

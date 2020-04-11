@@ -45,6 +45,10 @@ One other alignment check that needs to be made in your course design is the con
 
 Another reason to include learning activities in your online course is so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
 
+### Opportunities for Exploration & Transformation
+
+! ‘Can transformative learning theory be put into practice, and if yes, what are some of the differences it makes to the lives of learners?’...‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’ *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*
+
 Watch the following video about Trinity's Inquiry-Based Learning approach.
 [plugin:youtube](https://www.youtube.com/watch?time_continue=61&v=SCa9Nt3X1vU&feature=emb_logo)
 
@@ -55,6 +59,6 @@ Watch the following video about Trinity's Inquiry-Based Learning approach.
 - How do I assess my students?  
 - Are there opportunities for students to practice what they are learning before an assessment?
 - Do I give formative feedback that will help students be more successful in future assignments?
-- How do I design learning experiences that facilitate discovery, exploration, questioning, etc.?  
+- How do I design learning experiences that facilitate discovery, exploration, questioning, transformation, etc.?  
 
 [plugin:content-inject](../_4-1)
