@@ -33,6 +33,6 @@ Below are some examples of part of a blueprint document.  For a current blueprin
 !!! Note in the blueprint that there is a table for 10 units.  This does not apply to all courses!!  If you happen to work with an Instructional Designer in planning out your course, a key question will be how to organize the learning/content.  This may work out to be 10 key units for a 12 week course, but each course is different.
 
 ### Learning Activities
-[plugin:content-inject](../../_2-4)
+[plugin:content-inject](../../_2-3)
 
 Let's move on to the next topic, where will address the next steps in the process, including creating content, activities and assessments.
