@@ -3,6 +3,8 @@ title: 'Activity 2-8'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 2.8: Quality Check for Online Courses

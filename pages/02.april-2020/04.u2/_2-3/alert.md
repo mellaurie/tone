@@ -3,6 +3,8 @@ title: 'Activity 2-3'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 2.3: Starting a Course Blueprint
