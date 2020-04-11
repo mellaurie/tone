@@ -31,4 +31,4 @@ One key way is to emphasize how the activities will help students succeed in the
 There are several engaging learning activities and assessments that we will discuss next week.  For now, consider whether there are clear connections between the outcomes, activities, and assessments in your course.
 
 ### Learning Activities
-[plugin:content-inject](../_2-7)
+[plugin:content-inject](../../_2-7)
