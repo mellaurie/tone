@@ -25,4 +25,5 @@ Here are other optional resources to browse on design principles.
 *Questions to Consider*
 
 :fa-question: What principles and practices resonate with you?
+
 :fa-question: How do these influence your course design?

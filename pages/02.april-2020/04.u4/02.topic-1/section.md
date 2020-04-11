@@ -35,7 +35,7 @@ In our courses, we often think first of the **summative assessments** – the fi
 | Frame of Reference | Sometimes normative (comparing each student against all others); sometimes criterion | Always criterion (evaluating students according to the same criteria) |
 
 
-### Alignment in Course design
+### Alignment in Course Design
 An important part of course design is checking that there is alignment between assessments and learning outcomes.  If your learning outcome asks students to compare two theories, for example, how do they show you they can do that?  Often instructors will have their assessments in mind before they write their learning outcomes.  Whatever process you have, make sure that your course learning outcomes are assessed in your assignments.  Try to include these connections in your syllabus, as in the example below:
 ![](course-assessment.png)
 
@@ -56,6 +56,5 @@ Watch the following video about Trinity's Inquiry-Based Learning approach.
 - Are there opportunities for students to practice what they are learning before an assessment?
 - Do I give formative feedback that will help students be more successful in future assignments?
 - How do I design learning experiences that facilitate discovery, exploration, questioning, etc.?  
-
 
 [plugin:content-inject](../_4-1)
