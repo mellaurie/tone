@@ -74,10 +74,9 @@ Other great resources:
 ---
 
 ### Activities and Assessments
-
-![](Activity-Checklist.png)
-
 In the Overview section we often have an Activity Checklist - some indication of what is required of students in the units.  This could be a brief list of readings/videos, learning activities, and assessments.
+*Sample Activity Checklist*
+![](Activity-Checklist.png)
 
 We will dive more the topics of activities and assessments a bit later.
 
