@@ -5,7 +5,7 @@ published: true
 visible: false
 ---
 
-#### Activity 2.6: Quality Check for Online Courses
+#### Activity 2.8: Quality Check for Online Courses
 
 :fa-book: Select from the following resources:
 - [QM Course Design Rubric Standards](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric)

@@ -7,7 +7,7 @@ visible: false
 
 
 #### Synchronous Sessions
-Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Monday, Wednesday and Friday at 11-12pm PT. See the Course Overview page for session descriptions.
+Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Monday, Wednesday and Thursday at 11-12pm PT. See the Course Overview page for session descriptions.
 
 ---
 
@@ -19,28 +19,28 @@ Please join us this week for our synchronous Zoom sessions!  We will be holding 
 :fa-book: Read the resources on Instructional Design Models.
 
 ---
-#### Activity 2.3  (15 minutes)
+#### Activity 2.3  (20 minutes)
+:fa-book: Read section 12.9 [Step seven: design course structure and learning activities](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/pedagogical-roles-for-text-audio-and-video/) from our course text.  
+
+---
+#### Activity 2.4  (15 minutes)
 :fa-book: Read section 12.8 [Step six: set appropriate learning goals](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-8-step-six-set-appropriate-learning-goals/) in *Teaching in a Digital Age*.
 
 ---
-#### Activity 2.4  (20 minutes)
-:fa-book: Browse the resources in online learning.
-
----
 #### Activity 2.5  (30 minutes)
-:fa-pencil: Read [Chapter 3: Methods of teaching: campus-focused](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-4-methods-of-teaching/) and [Chapter 4: Methods of teaching with an online focus](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-6-models-for-designing-teaching-and-learning/).
+:fa-pencil: Practice writing about a course topic by telling a story about it.
 
 ---
 #### Activity 2.6  (20 minutes)
-:fa-book: Select from the resources on Universal Design for Learning.
+:fa-book: Read about chunking material in section 12.3 [Step One: Decide how you want to teach](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-3-step-one-decide-how-you-want-to-teach/) from our course text.
 
 ---
 #### Activity 2.7  (20 minutes)
-:fa-pencil: Consider what Transformational Learning looks like at TWU.
+:fa-book: Read section 12.9.10 [Designing student activities](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-9-step-seven/) and [50 CATs by Angelo and Cross](http://create.twu.ca/help/online-learning-on-ramp/finishing-well/50-cats)
 
 ---
 #### Activity 2.8  (60 minutes)
-:fa-book: :fa-pencil: View the listed resources and consider your Philosophy of Online Learning
+:fa-book: Select from the resources on quality checks in online learning.
 
 ---
 
