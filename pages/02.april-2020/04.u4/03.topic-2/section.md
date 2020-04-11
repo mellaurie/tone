@@ -26,13 +26,18 @@ In the next several pages, we're going to explore 10 common activity/assessment 
 
 !! Please note that not all of these activity and assessment types will work for your course!  Focus on what will help students practice and achieve the learning outcomes.
 
-A final note...
+A final note before you dive into our activity smorgasbord...
+
 In [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf) Jim Bryson suggest 5 questions when choosing activities/assessments:  
 
-! o Are the instructions, the purpose and the intended learning outcome(s) for this activity clear enough to be correctly understood by all students?
-! o Is this activity fair? Will all students be able to understand and participate in it as a learning exercise? What choices do they have? Is it related to course content and laid out in a logical manner?
-! o Will this activity add to my students' interest in content? Will they find it engaging and motivating? Will it stimulate curiosity and participation?
-! o Is this activity relevant to the intended learning outcomes for the course? Is it relevant to student expectations? To my instructional goals?
-! o Have I provided support for success in terms of information, curriculum content, discussion, interaction, activities and available resources?
+! :fa-check: Are the instructions, the purpose and the intended learning outcome(s) for this activity clear enough to be correctly understood by all students?
+
+! :fa-check: Is this activity fair? Will all students be able to understand and participate in it as a learning exercise? What choices do they have? Is it related to course content and laid out in a logical manner?
+
+! :fa-check: Will this activity add to my students' interest in content? Will they find it engaging and motivating? Will it stimulate curiosity and participation?
+
+! :fa-check: Is this activity relevant to the intended learning outcomes for the course? Is it relevant to student expectations? To my instructional goals?
+
+! :fa-check: Have I provided support for success in terms of information, curriculum content, discussion, interaction, activities and available resources?
 
 As you decide what activities/assessments are appropriate for your course, refer back to these questions.
