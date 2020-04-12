@@ -8,18 +8,23 @@ visible: true
 
 ### Reflective Journals
 
-Have you experienced passive learners?  Those students who may sit in your class, read their texts, hand in assignments, but aren't really engaged in their learning?  Imagine now a more self-directed online course, where those same students get to *choose* whether to study the resources presented; they *choose* whether to listen to your video lectures, engage in online discussion forums, complete ungraded learning activities...how do you motivate these students to become **ACTIVE** learners?
+What is your experience with passive learners?  Those students who may sit in your class, read their texts, hand in assignments, but aren't really engaged in their learning?  Imagine now a more self-directed online course, where those same students get to *choose* whether to study the resources presented; they *choose* whether to listen to your video lectures, engage in online discussion forums, complete ungraded learning activities...how do you motivate these students to become **ACTIVE** learners?
 
 One strategy that helps students become not only active learners, but reflective learners, is to promote **Reflective Learning**.  This can be a part of several assignment types, but for now, let's focus on **Reflective Journals**.  This type of assignment can be structured with specific questions (related to the learning outcomes), or unstructured, allowing the learner to explore and reflect in their own way.  
 
-#### Reflective Journals
+#### Ungraded Reflective Journals
 Reflective Journals are common graded assignments, but they can also be used as ungraded learning activities to promote note-taking, reflection, critical thinking, etc.  
 
 For example, in some of our online courses we often have this note for students when we explain the ungraded learning activities in a unit:
 
 !! Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments. You are encouraged to write your responses in a **Reflective Learning Journal** and refer back to your notes as you complete your assignments.
 
-Here are some other sample instructions we use in our online courses:
+Make the connection to assessment explicit as you encourage learners to engage in the activity, write their notes in a journal, and study these notes to prepare for assignments.
+
+#### Graded Reflective Journals
+As a graded assignment, consider allowing students some flexibility in how they present their learning process.
+
+Here are some sample instructions we use in our online courses:
 
 Sample 1: **Introduction to the Reflective Journal**
 !!!! A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning. Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun.  

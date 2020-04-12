@@ -9,8 +9,10 @@ visible: true
 ### Discussions & Blogs
 
 #### Discussions Forums
-Discussion forums are a popular form of assessment for online courses.  Which means, if students are taking several online courses at once...there is a certain amount of forum fatigue they may experience!  Be sure to craft your discussion questions in a way that meets the unit learning outcomes, but also inspires collaboration, inquiry, and critical thinking.
-In the activity below there are several resources and guides for facilitating discussions. In particular, pay attention to the various activity types you can have in discussion forums.  Here are some sample activities from University of Texas: [Generating and Facilitating Engaging and Effective Online Discussions](https://facultyinnovate.utexas.edu/sites/default/files/Effective-Online-Discussions.pdf)
+Discussion forums are a popular form of assessment for online courses.  Which means, if students are taking several online courses at once...there is a certain amount of *forum fatigue* they may experience!  Be sure to craft your discussion questions in a way that meets the unit learning outcomes, but also inspires collaboration, inquiry, and critical thinking.
+
+In the activity below there are several resources and guides for facilitating discussions. In particular, pay attention to the various activity types you can have in discussion forums.  For example:
+
 1. **Web Field Trips**: Instructor provides a link or a series of links. Students follow the link(s) and report back through an instructor-defined set of questions.
 1. **Brainstorming**: Students set forth a series of ideas on a given topic without evaluation.
 1. **Problem-Solving**: Small groups work out a solution to a problem.
@@ -22,12 +24,18 @@ In the activity below there are several resources and guides for facilitating di
 around assigned readings. Threads may include pre-reading (anticipation) activities, interpretations, evaluations, etc.
 1. **Research Bank**: Students and instructor contribute links and citations to a common area for a classwide research topic.
 
+*Source: [Generating and Facilitating Engaging and Effective Online Discussions](https://facultyinnovate.utexas.edu/sites/default/files/Effective-Online-Discussions.pdf)*
+
 For samples of discussion instructions, see the Journals & Discussions [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
+
+
+### Learning Activities
+[plugin:content-inject](../../_4-3)
 
 #### Blogs
 <a title="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" href="https://flickr.com/photos/gforsythe/6986908720"><img src="https://live.staticflickr.com/8167/6986908720_ea4318d167.jpg" alt="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" /></a><br /><small><a title="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" href="https://flickr.com/photos/gforsythe/6986908720">BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012</a> flickr photo by <a href="https://flickr.com/people/gforsythe">giulia.forsythe</a> shared into the public domain using <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Public Domain Dedication (CC0)</a> </small>
 
-A similar reflective learning tool is a blog.  It may take some courage for some students to post their thoughts online (and for faculty to step out of Moodle), but it can be very effective in helping students demonstrate their learning.
+Another reflective learning tool is a blog.  It may take some courage for some students to post their thoughts online (and for faculty to step out of Moodle), but it can be very effective in helping students demonstrate their learning.
 
 Blogs can be kept private.  Students can share their link with their instructor, or post their link on Moodle so other students can see.  It's important to go over privacy considerations with students, as well as [netiquette guidelines](http://teach.ufl.edu/wp-content/uploads/2012/08/NetiquetteGuideforOnlineCourses.pdf)
 
@@ -54,4 +62,4 @@ people, openness and trust: students’ willingness to learn is fragile, with pa
 *Source: Hegarty, B. (2015) Attributes of open pedagogy: a model for using open educational resources Educational Technology, July-August* Referenced in section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/) in *Teaching in a Digital Age* by Tony Bates.
 
 ### Learning Activities
-[plugin:content-inject](../../_4-3)
+[plugin:content-inject](../../_4-4)
