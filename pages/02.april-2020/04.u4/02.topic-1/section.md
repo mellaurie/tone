@@ -60,24 +60,28 @@ Let's refer back to Unit 1 and our key ideas that Learning should be an Experien
 
 In [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf), Jim Bryson suggest 5 questions to ask yourself when choosing activities/assessments:  
 
-! :fa-check: Are the instructions, the purpose and the intended learning outcome(s) for this activity clear enough to be correctly understood by all students?
-! :fa-check: Is this activity fair? Will all students be able to understand and participate in it as a learning exercise? What choices do they have? Is it related to course content and laid out in a logical manner?
-! :fa-check: Will this activity add to my students' interest in content? Will they find it engaging and motivating? Will it stimulate curiosity and participation?
-! :fa-check: Is this activity relevant to the intended learning outcomes for the course? Is it relevant to student expectations? To my instructional goals?
-! :fa-check: Have I provided support for success in terms of information, curriculum content, discussion, interaction, activities and available resources?
+! 1. Are the instructions, the purpose and the intended learning outcome(s) for this activity clear enough to be correctly understood by all students?
+! 1. Is this activity fair? Will all students be able to understand and participate in it as a learning exercise? What choices do they have? Is it related to course content and laid out in a logical manner?
+! 1. Will this activity add to my students' interest in content? Will they find it engaging and motivating? Will it stimulate curiosity and participation?
+! 1. Is this activity relevant to the intended learning outcomes for the course? Is it relevant to student expectations? To my instructional goals?
+! 1. Have I provided support for success in terms of information, curriculum content, discussion, interaction, activities and available resources?
 
 As you decide what activities/assessments are appropriate for your course, refer back to these questions.
 
 Next, consider the following quote:
-!! ‘Can transformative learning theory be put into practice, and if yes, what are some of the differences it makes to the lives of learners?’...‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’ *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*.
+!! ‘Can transformative learning theory be put into practice, and if yes, what are some of the differences it makes to the lives of learners?’...
+!! ‘Can disorienting dilemmas be triggered by carefully designed exercises, and, if yes, what are the effects on student transformative learning?’
+!! *From [Putting transformative learning theory into practice](https://files.eric.ed.gov/fulltext/EJ1059138.pdf)*.
 
 How do we carfeully design exercises (activities & assessments) that transform learners?  How do we give them opportunities to explore and challenge their thinking?
+
 Watch the following video about Trinity's Inquiry-Based Learning approach.
 
 [plugin:youtube](https://www.youtube.com/watch?v=SCa9Nt3X1vU)
 
 
 *Questions to Consider:*
+
 Before you move on to the learning activity, take a moment to jot down your thoughts on these questions:
 
 - Why do we assess?  
