@@ -1,5 +1,5 @@
 ---
-title: Learning Partners and Pods
+title: Learning Pods
 published: true
 hide_page_title: false
 show_sidebar: true

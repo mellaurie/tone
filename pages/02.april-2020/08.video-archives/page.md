@@ -1,5 +1,5 @@
 ---
-title: Archived Zoom Recordings
+title: Zoom Archive
 published: true
 hide_page_title: false
 show_sidebar: true
