@@ -30,7 +30,7 @@ For samples of discussion instructions, see the Journals & Discussions [Google d
 
 
 ### Learning Activities
-[plugin:content-inject](../../_4-3)
+[plugin:content-inject](../../_3-3)
 
 #### Blogs
 <a title="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" href="https://flickr.com/photos/gforsythe/6986908720"><img src="https://live.staticflickr.com/8167/6986908720_ea4318d167.jpg" alt="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" /></a><br /><small><a title="BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012" href="https://flickr.com/photos/gforsythe/6986908720">BLOGS for Collaborative Learning & Peer Review, @calanthaelsby #tli2012</a> flickr photo by <a href="https://flickr.com/people/gforsythe">giulia.forsythe</a> shared into the public domain using <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Public Domain Dedication (CC0)</a> </small>
@@ -62,4 +62,4 @@ people, openness and trust: students’ willingness to learn is fragile, with pa
 *Source: Hegarty, B. (2015) Attributes of open pedagogy: a model for using open educational resources Educational Technology, July-August* Referenced in section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/) in *Teaching in a Digital Age* by Tony Bates.
 
 ### Learning Activities
-[plugin:content-inject](../../_4-4)
+[plugin:content-inject](../../_3-4)

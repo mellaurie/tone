@@ -52,4 +52,4 @@ Sample 3: **Journal Instructions**
 For more samples of journals used on TWU online courses, see the following [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
 
 ### Learning Activities
-[plugin:content-inject](../../_4-2)
+[plugin:content-inject](../../_3-2)

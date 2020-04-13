@@ -35,4 +35,4 @@ Peer assessment can:
 To this last point, consider as well asking students to self-evaluate their work, acknowledging feedback from peers and/or the instructor and setting goals for improvement.
 
 ### Learning Activities
-[plugin:content-inject](../_4-12)
+[plugin:content-inject](../_3-12)

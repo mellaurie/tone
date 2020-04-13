@@ -13,4 +13,4 @@ Case studies, simulations, and role plays are a great methods to strengthen stud
 Consider having your students write and analyze case studies for an assignment.  Or better yet, contribute to [OPEN CASE STUDIES AT UBC](https://cases.open.ubc.ca/), an interdisciplinary, open educational resource with case studies that can be used by anyone.
 
 ### Learning Activities
-[plugin:content-inject](../../_4-7)
+[plugin:content-inject](../../_3-7)

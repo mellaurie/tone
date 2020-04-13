@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 
 For the non-graded assessment in this unit, please contribute to the **shared chalkboard** and the Discussion forum in Moodle.
 
-### Unit 4 Discussion: Activity & Assessment Ideas
+### Unit 3 Discussion: Activity & Assessment Ideas
 Feel free to answer one or all of the following:
 1. What ideas, questions, or concerns do you have about online assessment?
 2. Please share what's worked well in your courses. Feel free to add a link to a google doc, a screenshot of an assignment, or a description of an activity/assessment.

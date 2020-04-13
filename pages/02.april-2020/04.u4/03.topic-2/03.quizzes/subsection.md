@@ -46,4 +46,4 @@ We've provided some resources below that may help you address some of these ques
 - And lastly...consider what could be assessed in a different assignment format (e.g. video essay, journal response, case study report).
 
 ### Learning Activities
-[plugin:content-inject](../../_4-6)
+[plugin:content-inject](../../_3-6)

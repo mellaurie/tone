@@ -19,7 +19,7 @@ We're going to address a couple of these questions in our synchronous zoom sessi
 
 
 ### Learning Activities
-[plugin:content-inject](../../_4-8)
+[plugin:content-inject](../../_3-8)
 
 
 !! Now some of you might say, "Turnitin is a good tool to prevent cheating"...but this is definitely contested.  In one of our Zoom sessions, we'll discuss this topic in detail and will post the video for asynchronous viewing. Stay tuned!

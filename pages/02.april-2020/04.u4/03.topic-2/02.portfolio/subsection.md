@@ -25,7 +25,7 @@ If you've ever created a portfolio yourself, you know it takes a lot of reflecti
 Skim the resources in the activity below and consider whether portfolios will help your students demonstrate the learning outcomes for your course.
 
 ### Learning Activities
-[plugin:content-inject](../../_4-5)
+[plugin:content-inject](../../_3-5)
 
 
 Have you added your ideas to our **shared chalkboard** yet?  Please consider sharing your experiences or questions about the three assessment types we've addressed so far. To add an idea, click the + icon. You can also "like" others' ideas and make comments, so please make use of this tool!

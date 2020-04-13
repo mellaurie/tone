@@ -4,7 +4,7 @@ hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
-# Unit 4: Engaging Learning Activities & Assessment Strategies
+# Unit 3: Engaging Learning Activities & Assessment Strategies
 ## Overview
 Congratulations!  You're halfway done the course!  So far, *(if you'll follow me on this metaphor)*, we've set the table (foundational ideas of design), you've looked at your menu (process & planning), had the appetizer (building community), and now for the smorgasbord of ideas!  *(Okay, not the best metaphor...but this course writer is currently pregnant, so food is on the brain!)*
 
