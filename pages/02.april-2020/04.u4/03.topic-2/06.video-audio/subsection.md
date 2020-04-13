@@ -8,7 +8,7 @@ visible: true
 
 ### Video & Audio Assignments
 
-How do you currently integrate technology/media into your assignments?  Is there an opportunity for personalization or creativity in the way information is presented?  Let's discuss utilizing media in your assignments, such as video, audio, images, etc..
+How do you currently integrate technology/media into your assignments?  Is there an opportunity for personalization or creativity in the way information is presented?  Let's discuss utilizing media in your assignments, such as video and audio applications.
 
 **Video Assessments**
 

@@ -1,14 +1,13 @@
 ---
-title: 'Activity 4-5'
+title: 'Activity 4-11'
 alert_style: alert-primary
 published: true
 visible: false
 ---
 
 
-
-
-
+#### Activity 4.11: More Assessment Gems!
+:fa-book: Select from the following resources
 
 - [Online Instructional Activities Index](https://www.uis.edu/ion/resources/instructional-activities-index/)
 - [UCF's Teaching Online Pedagogical Repository](https://blended.online.ucf.edu/2011/06/07/teaching-online-pedagogical-repository/)
@@ -19,14 +18,3 @@ visible: false
 - [The miniature guide to critical thinking: Concepts and tools](https://www.criticalthinking.org/files/Concepts_Tools.pdf).
 - [Assessing Student Learning - Eberly Center](https://www.cmu.edu/teaching/assessment/assesslearning/index.html)
 - [Authentic Assessment Strategies for Online Learning](https://teachingcommons.lakeheadu.ca/sites/default/files/inline-files/Assessment%20Strategies%20for%20Online%20Learning.pdf)
-
-
-#### Activity 4.5: Grading with Rubrics
-
-:fa-book: Select from the following resources
-
-
--   [Grading with Rubrics](https://teaching.uwo.ca/teaching/assessing/grading-rubrics.html)
-
-
-- [Podcast Rubric](https://www2.uwstout.edu/content/profdev/rubrics/podcastrubric.html)
