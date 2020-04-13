@@ -15,9 +15,15 @@ In our online courses, we think about the assessments and whether students have 
 
 Here are some examples from our courses:
 
+*Sample 1: [Flashcards](https://h5p.org/flashcards)*
+
 [h5p id="29"]
 
+*Sample 2: [Drag the Words](https://h5p.org/drag-the-words)*
+
 [h5p id="55"]
+
+*Sample 3: [Multiple Choice](https://h5p.org/multichoice)*
 
 [h5p id="36"]
 
@@ -40,4 +46,4 @@ We've provided some resources below that may help you address some of these ques
 - And lastly...consider what could be assessed in a different assignment format (e.g. video essay, journal response, case study report).
 
 ### Learning Activities
-[plugin:content-inject](../_4-6)
+[plugin:content-inject](../../_4-6)
