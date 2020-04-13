@@ -90,4 +90,5 @@ Before you move on to the learning activity, take a moment to jot down your thou
 - Do I give formative feedback that will help students be more successful in future assignments?
 - How do I design learning experiences that facilitate discovery, exploration, questioning, transformation, etc.?  
 
+### Learning Activities
 [plugin:content-inject](../_4-1)

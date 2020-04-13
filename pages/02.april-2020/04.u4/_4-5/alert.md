@@ -6,24 +6,17 @@ visible: false
 ---
 
 
+#### Activity 4.5: Resources on Portfolios
 
+:fa-book: Select from the following resources:
 
+- [Guidelines for ePortfolios in Higher Education](https://www.eduhub.ch/export/sites/default/files/Guidelines_ePortfolio.pdf)
+- [The Learning Portfolio in Higher Education: A Game of Snakes and Ladders](https://www.dcu.ie/sites/default/files/carpe/docs/eportfolioreport.pdf) by Scully, D., O’Leary, M. & Brown, M. (2018).
+- [ePortfolios Explained: Theory and Practice](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/educational-technologies/all/eportfolios)
+- [ePortfolios](https://www.aacu.org/eportfolios) from the Association of American Colleges & Universities.  This has a couple interesting examples of portfolios for learning, assessment, and employment.
 
+*Questions to Consider:*  
 
-- [Online Instructional Activities Index](https://www.uis.edu/ion/resources/instructional-activities-index/)
-- [UCF's Teaching Online Pedagogical Repository](https://blended.online.ucf.edu/2011/06/07/teaching-online-pedagogical-repository/)
-- [Liberating Structures](http://www.liberatingstructures.com/)
-- [Best Practices: Alternative Assessments](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/alternative-assessments.pdf)
-- [50 CATS by Angelo and Cross](https://vcsa.ucsd.edu/_files/assessment/resources/50_cats.pdf)
-- [Teaching Tools and Resources - Faculty Development - Centre for Excellence in Teaching and Learning](http://camosun.ca/about/teaching-learning/instruction/active-learning-cards.html)
-- [The miniature guide to critical thinking: Concepts and tools](https://www.criticalthinking.org/files/Concepts_Tools.pdf).
-- [Assessing Student Learning - Eberly Center](https://www.cmu.edu/teaching/assessment/assesslearning/index.html)
-- [Authentic Assessment Strategies for Online Learning](https://teachingcommons.lakeheadu.ca/sites/default/files/inline-files/Assessment%20Strategies%20for%20Online%20Learning.pdf)
+:fa-question: Do your students need to demonstrate a process of learning, or critically reflect on their work?  Would a portfolio help them achieve those outcomes?
 
-
-#### Activity 4.5: Grading with Rubrics
-
-:fa-book: Select from the following resources
-
-
--   [Grading with Rubrics](https://teaching.uwo.ca/teaching/assessing/grading-rubrics.html)
+:fa-question: What are some questions or concerns you have about ePortfolios?
