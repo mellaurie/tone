@@ -4,26 +4,29 @@ hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
+
 ## Assessment
 
+For the non-graded assessment in this unit, please contribute to the **shared chalkboard** and the Discussion forum in Moodle.
 
-#### Grading Criteria:
-
-
-#### Submission Instructions:
-
-Submit your Reflective Journal to the Moodle dropbox under Assessments.
-
-
-### Forum Introductions
-
-Also remember to introduce yourself to your  TWU instructor by writing a brief introduction in the online Discussion Forum.  Please share about yourself, such as where you live, what you are studying, and the kind of things that interest you. Perhaps some questions you have about this course? Share a picture of someone or something that means a lot to you (i.e. your pet, family, favourite movie or book, etc.).
-
+### Unit 4 Discussion: Activity & Assessment Ideas
+Feel free to answer one or all of the following:
+1. What ideas, questions, or concerns do you have about online assessment?
+2. Please share what's worked well in your courses. Feel free to add a link to a google doc, a screenshot of an assignment, or a description of an activity/assessment.
 
 
 ## Checking Your Learning
 
 Before you move on to the next unit, check that you are able to:  
-[fa=check /] ...   
-[fa=check /] ...  
-[fa=check /] ...   
+
+:fa-check: explain the difference between formative and summative assessment;
+
+:fa-check: align assessments to learning outcomes and learning activities;
+
+:fa-check: design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy;
+
+:fa-check: explore practical assessment strategies that you can implement in your classes;
+
+:fa-check: evaluate the effectiveness of activities, resources and technology to support learning;
+
+:fa-check: create a grading rubric and/or detailed assignment guidelines.

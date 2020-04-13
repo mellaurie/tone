@@ -17,7 +17,7 @@ In this unit, we hope to give you a hearty menu of ideas for learning activities
 ## Topics
 1. Purpose of Assessment
 1. Activity & Assessment Ideas
-1. Feedback & Grading Rubrics
+1. Grading Rubrics & Peer Assessment
 
 
 ## Learning Outcomes
@@ -27,7 +27,7 @@ After completing this unit, you will be able to:
 - design activities that promote skills including: critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy;
 - explore practical assessment strategies that you can implement in your classes;
 - evaluate the effectiveness of activities, resources and technology to support learning;
-- create a grading rubric and/or detailed assignment guidelines. 
+- create a grading rubric and/or detailed assignment guidelines.
 
 
 ## Activity Checklist
