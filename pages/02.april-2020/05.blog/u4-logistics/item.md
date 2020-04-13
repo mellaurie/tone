@@ -1,5 +1,5 @@
 ---
-title: 'Unit 3 Logistics'
+title: 'Unit 4 Logistics'
 published: true
 date: '04-04-2020 00:00'
 hide_page_title: false
@@ -16,7 +16,7 @@ feed:
     skip: true
 ---
 
-### Welcome to Unit 3!
+### Welcome to Unit 4!
 
 You have likely noticed by now that this unit looks a bit different from the previous two units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
 
