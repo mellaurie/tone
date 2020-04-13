@@ -8,7 +8,7 @@ visible: false
 #### Activity 4.4: Resources on Blogs
 :fa-book: Select from the following resources:
 
-- Section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/)
+- Section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/) in *Teaching in a Digital Age*.
 - [Using Blogs in the Classroom](https://lsa.umich.edu/sweetland/instructors/teaching-resources/using-blogs-in-the-classroom.html)
 - [Teaching with Blogs](https://cft.vanderbilt.edu/guides-sub-pages/teaching-with-blogs/)
 

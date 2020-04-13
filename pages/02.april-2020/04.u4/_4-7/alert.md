@@ -10,7 +10,7 @@ visible: false
 
 :fa-book: Select from the following resources:
 
-**Resources for Case Studies:**
+**Case Studies:**
 - [Free cases from the Case Centre](https://www.thecasecentre.org/educators/casemethod/resources/freecasesoverview)
 - [Case Depositories](https://aib.msu.edu/resources/casedepositories.asp)
 - [World’s Best Case Studies](http://worldsbestcasestudies.com/)
@@ -19,7 +19,7 @@ visible: false
 - [Creating Effective Scenarios, Case Studies, and Role Plays](https://www.unb.ca/fredericton/cetl/tls/resources/teaching_tips/tt_instructional_methods/effective_scenarios.html)
 - [Cengage Learning: Case Studies ](http://college.cengage.com/business/resources/casestudies/students/index.html)
 
-**Simulations & Role Play Resources:**
+**Simulations & Role Plays:**
 - [Everest Leadership and Team Simulation from Harvard](http://academic.hbsp.harvard.edu/everestv3)
 - [Role Playing Activities​](https://academictechnologies.it.miami.edu/faculty-engagement/narrative-techniques-study/role-playing-activities/index.html)
 - [Role Playing: lesson and examples](http://www.ion.uillinois.edu/Resources/OTAI/RolePlaying.asp)

@@ -6,6 +6,9 @@ visible: false
 ---
 
 
-#### Activity 4.8: Resources on Essays, Projects, & Interviews
+#### Activity 4.8: Cheating in an Online Course
 
-:fa-book: Select from the following resources:
+:fa-book: Skim the following resources:
+
+- [Strategies to Reduce Cheating in online courses](https://www.uregina.ca/cce/assets/docs/pdf/distance-online/instructional-design/strategies_to_reduce_cheating.pdf)
+- [Student Equity: Discouraging Cheating in Online Courses](https://files.eric.ed.gov/fulltext/EJ1057085.pdf)

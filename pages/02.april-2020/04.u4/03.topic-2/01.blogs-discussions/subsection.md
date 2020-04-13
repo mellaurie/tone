@@ -37,7 +37,7 @@ For samples of discussion instructions, see the Journals & Discussions [Google d
 
 Another reflective learning tool is a blog.  It may take some courage for some students to post their thoughts online (and for faculty to step out of Moodle), but it can be very effective in helping students demonstrate their learning.
 
-Blogs can be kept private.  Students can share their link with their instructor, or post their link on Moodle so other students can see.  It's important to go over privacy considerations with students, as well as [netiquette guidelines](http://teach.ufl.edu/wp-content/uploads/2012/08/NetiquetteGuideforOnlineCourses.pdf)
+It's important to let students know that blogs can be kept private.  Students can share their link with their instructor, or post their link on Moodle so other students can see.  It's important to go over privacy considerations with students, as well as [netiquette guidelines](http://teach.ufl.edu/wp-content/uploads/2012/08/NetiquetteGuideforOnlineCourses.pdf)
 
 Here are some benefits to consider from [How Do Blogs Support Learning?](https://resources.depaul.edu/teaching-commons/teaching-guides/technology/other-teaching-tools/Pages/blogs.aspx)
 - **Blogs help grow learning communities** by allowing students to share their own perspectives and experiences while learning about those of their classmates.

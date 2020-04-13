@@ -8,7 +8,7 @@ visible: true
 
 ### Essays, Projects, & Interviews
 
-Here are a couple other common assessments.  What adjustments do you foresee for an online course?  
+If you use essays, projects, and interviews in your courses, what are some techniques you use to aid students, or some common problems? What adjustments do you foresee for an online course?  
 Here are some questions to consider:
 
 - What does the 'drafting stage' look like for these projects?  Do you give formative feedback to students before they hand in their final project?
@@ -20,3 +20,6 @@ We're going to address a couple of these questions in our synchronous zoom sessi
 
 ### Learning Activities
 [plugin:content-inject](../../_4-8)
+
+
+!! Now some of you might say, "Turnitin is a good tool to prevent cheating"...but this is definitely contested.  In one of our Zoom sessions, we'll discuss this topic in detail and will post the video for asynchronous viewing. Stay tuned!
