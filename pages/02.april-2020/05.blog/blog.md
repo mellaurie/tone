@@ -5,7 +5,7 @@ hide_page_title: true
 show_sidebar: false
 hide_git_sync_repo_link: false
 child_type: item
-visible: false
+visible: true
 content:
     items: '@self.children'
     limit: 10
