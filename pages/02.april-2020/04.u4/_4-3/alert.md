@@ -3,6 +3,8 @@ title: 'Blogs / Journals'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 4.3: Resources on Discussion Forums

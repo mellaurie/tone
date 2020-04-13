@@ -3,6 +3,8 @@ title: 'Activity 4-7'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 

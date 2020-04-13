@@ -3,6 +3,8 @@ title: 'Journals'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 4.2: Resources on Reflective Journals

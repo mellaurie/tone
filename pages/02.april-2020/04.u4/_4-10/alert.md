@@ -3,6 +3,8 @@ title: 'Activity 4-10'
 alert_style: alert-primary
 published: true
 visible: false
+markdown:
+  extra: false
 ---
 
 #### Activity 4.12: Digital Tools for Images & Graphic Organizers
