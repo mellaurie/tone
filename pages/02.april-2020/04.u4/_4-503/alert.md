@@ -27,3 +27,6 @@ visible: false
 
 
 -   [Grading with Rubrics](https://teaching.uwo.ca/teaching/assessing/grading-rubrics.html)
+
+
+- [Podcast Rubric](https://www2.uwstout.edu/content/profdev/rubrics/podcastrubric.html)

@@ -8,7 +8,7 @@ visible: false
 
 #### Activity 4.6: Resources on Quizzes & Tests
 
-:fa-book: Select from the following resources
+:fa-book: Select from the following resources:
 
 **Writing effective test questions:**
 
