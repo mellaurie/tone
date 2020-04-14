@@ -1,8 +1,8 @@
 ---
 title: 'Overview'
-hide_page_title: false
+hide_page_title: true
 show_sidebar: '0'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 ---
 # Unit 4: Engaging Learning Activities & Assessment Strategies
 ## Overview
