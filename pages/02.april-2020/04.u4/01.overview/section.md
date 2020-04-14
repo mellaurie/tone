@@ -4,7 +4,7 @@ hide_page_title: false
 show_sidebar: '0'
 hide_git_sync_repo_link: false
 ---
-# Unit 3: Engaging Learning Activities & Assessment Strategies
+# Unit 4: Engaging Learning Activities & Assessment Strategies
 ## Overview
 Congratulations!  You're halfway done the course!  So far, *(if you'll follow me on this metaphor)*, we've set the table (foundational ideas of design), you've looked at your menu (process & planning), had the appetizer (building community), and now for the smorgasbord of ideas!  *(Okay, not the best metaphor...but this course writer is currently pregnant, so food is on the brain!)*
 
@@ -32,9 +32,7 @@ After completing this unit, you will be able to:
 
 ## Activity Checklist
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your week. *Note that there are numerous resources listed! Please feel free to browse and bookmark pages for a later read!*
-
-[plugin:content-inject](_schedule)
+TBD
 
 ## Resources:
 - CORE TEXT: Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.

@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.11: More Assessment Gems!
+#### Activity 3.11: More Assessment Gems!
 :fa-book: Select from the following resources
 
 - [Online Instructional Activities Index](https://www.uis.edu/ion/resources/instructional-activities-index/)

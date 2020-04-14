@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.8: Cheating in an Online Course
+#### Activity 3.8: Cheating in an Online Course
 
 :fa-book: Skim the following resources:
 

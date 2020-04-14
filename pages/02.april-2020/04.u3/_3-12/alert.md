@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 4.12: Rubrics & Peer Feedback
+#### Activity 3.12: Rubrics & Peer Feedback
 
 :fa-book: Select from the following resources:
 

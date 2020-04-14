@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 4.3: Resources on Discussion Forums
+#### Activity 3.3: Resources on Discussion Forums
 :fa-book: Select from the following resources:
 
 - [Generating and Facilitating Engaging and Effective Online Discussions](https://facultyinnovate.utexas.edu/sites/default/files/Effective-Online-Discussions.pdf)

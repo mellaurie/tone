@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 4.12: Digital Tools for Images & Graphic Organizers
+#### Activity 3.12: Digital Tools for Images & Graphic Organizers
 
 :fa-book: Browse the following resources:
 

@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.9: Resources on Video & Audio Assignments
+#### Activity 3.9: Resources on Video & Audio Assignments
 
 :fa-book: Select from the following resources:
 

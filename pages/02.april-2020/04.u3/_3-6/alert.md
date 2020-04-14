@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.6: Resources on Quizzes & Tests
+#### Activity 3.6: Resources on Quizzes & Tests
 
 :fa-book: Select from the following resources:
 

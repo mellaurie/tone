@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.5: Resources on Portfolios
+#### Activity 3.5: Resources on Portfolios
 
 :fa-book: Select from the following resources:
 

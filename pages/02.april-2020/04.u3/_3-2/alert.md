@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 4.2: Resources on Reflective Journals
+#### Activity 3.2: Resources on Reflective Journals
 :fa-book: Select from the following resources:
 
 ##### Reflective Journals

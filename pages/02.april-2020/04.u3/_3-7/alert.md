@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.7: Resources for Case Studies, Simulations & Role Plays
+#### Activity 3.7: Resources for Case Studies, Simulations & Role Plays
 
 :fa-book: Select from the following resources:
 

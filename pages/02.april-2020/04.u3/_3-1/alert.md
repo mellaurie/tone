@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 4.1: Assessment of Learning
+#### Activity 3.1: Assessment of Learning
 
 :fa-book: Read section 6.8 [Assessment of learning](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/5-8-assessment-of-learning/) from our course text.  
 

@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 4.4: Resources on Blogs
+#### Activity 3.4: Resources on Blogs
 :fa-book: Select from the following resources:
 
 - Section 11.4 [Open pedagogy](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-4-open-pedagogy/) in *Teaching in a Digital Age*.
