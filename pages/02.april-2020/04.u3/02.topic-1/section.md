@@ -15,15 +15,15 @@ First, let’s focus on what assessment is.
 ### Understanding Assessment: Formative & Summative
 Assessment can be *for, of,* and *as* learning.
 
-![](of-for-as-learning.png)
-
-*Source: UBC's [Assessment as Learning](http://etec.ctlt.ubc.ca/510wiki/Assessment_as_Learning)*
+![](FormativeSummativeAssessments.jpg)
 
 ! **Assessment for Learning**, a type of formative assessment, is utilized by teachers in order to gain an understanding of their students' knowledge and skills in order to guide instruction.
 
+!!!! **Assessment of Learning** is a summative assessment used primarily to compare students and report progress.
+
 !!! **Assessment as learning** is also a formative assessment which focuses on teaching students the metacognitive processes to evaluate their own learning and make adjustments.
 
-!!!! **Assessment of Learning** is a summative assessment used primarily to compare students and report progress.
+*Source: UBC's [Assessment as Learning](http://etec.ctlt.ubc.ca/510wiki/Assessment_as_Learning)*
 
 In our courses, we often think first of the **summative assessments** – the final test, unit quiz, essay, etc. that sums of students' knowledge.  These assessments allow students to demonstrate their learning of the course and we give them a final grade.
 
