@@ -6,10 +6,12 @@ hide_git_sync_repo_link: false
 visible: true
 ---
 
-### Images & Graphic Organizers
+#### *Online is...*
 
 ![](online-adjectives.png)
 *Wordcloud of TONE participants answers "What do you think of when we say online?" - made with [WordItOut](https://worditout.com/)*
+
+### Images & Graphic Organizers
 
 Images and graphic organizers can be powerful tools in many types of assignments. Just as we use visuals in our teaching for various reasons, students can include them in assignments to engage the reader, present complex information quickly and clearly, and communicate effectively.
 
