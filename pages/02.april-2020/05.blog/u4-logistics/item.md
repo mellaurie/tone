@@ -18,9 +18,9 @@ feed:
 
 ### Welcome to Unit 4!
 
-You have likely noticed by now that this unit looks a bit different from the previous two units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
+You have likely noticed by now that this unit looks a bit different from the previous three units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
 
-This unit will demonstrate one way to reduce your reliance on web-conferencing (Zoom, BlueJeans, Skype...) when providing direct instruction for learners in your course. As we have all experienced as we finished the Spring 2020 semester, web-conferencing is exhausting! It is not a good replacement for a lecture, it is difficult for instructors, and it is difficult for learners. For some learners (and instructors), it is impossible due to sketchy or limited bandwidth internet connections at home, or to extreme differences in time-zones.
+The remaining units will demonstrate one way to reduce your reliance on web-conferencing (Zoom, BlueJeans, Skype...) when providing direct instruction for learners in your course. As we have all experienced as we finished the Spring 2020 semester, web-conferencing is exhausting! It is not a good replacement for a lecture, it is difficult for instructors, and it is difficult for learners. For some learners (and instructors), it is impossible due to sketchy or limited bandwidth internet connections at home, or to extreme differences in time-zones.
 
 
 Web-conferencing certainly helped get us through March and April, so this is not to denigrate those who needed it, but it is important to recognize that March and April 2020 in higher ed were far less than ideal.
