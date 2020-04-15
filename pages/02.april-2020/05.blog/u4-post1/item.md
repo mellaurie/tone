@@ -1,7 +1,7 @@
 ---
-title: 'Unit 4 - Technology and Learning'
-published: false
-date: '04-04-2020 00:00'
+title: 'Unit 4 - Digital Community'
+published: true
+date: '15-04-2020 00:00'
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Black computer on a black surface'
@@ -46,3 +46,5 @@ I hope it is obvious to you that not all teaching and learning environments are 
 Here is my bold and provocative statement for this post...
 
 ! Face-to-face interaction, whether mediated through the web or not, is neither necessary nor sufficient for the development and growth of transformative communities of inquiry.
+
+[plugin:content-inject](_a-4-1)

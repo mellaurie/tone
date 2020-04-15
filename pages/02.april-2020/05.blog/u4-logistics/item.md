@@ -29,4 +29,6 @@ So for this week, we are going to focus on a primarily asynchronous, low-bandwid
 
 Below this post, you will see what is called a 'feed' which is essentially a subscription to a blog. Each time I publish a post (Monday, Wednesday, and Friday mornings), that post will show up at the top of the feed. Each post will outline some new content and resources for that topic.
 
+Although I am using a blog to keep you all up-to-date, you can do the same thing with a list of emails.
+
 !!!! If you have your own blog and would like to respond to the reflection prompts for this week on your own blog, send me the URL and I will create another feed of participant posts.
