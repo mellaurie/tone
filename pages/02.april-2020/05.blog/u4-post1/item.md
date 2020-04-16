@@ -12,6 +12,8 @@ summary:
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
+feed:
+    limit: 10
 ---
 
 [plugin:content-inject](_key-questions)
@@ -20,7 +22,7 @@ There are a wide variety of possible learning environments in both F2F and onlin
 
 ### Ferris Bueller's Economics teacher
 
-[plugin:youtube](https://www.youtube.com/watch?v=uhiCFdWeQfA)
+[plugin:youtube](https://www.youtube.com/watch?v=NkQ58I53mjk)
 
 Or, perhaps, you are familiar with this scene from the 1950s, which might be analogous to some teachers who simply throw everything at their learners in a way that is far too fast for their learners to process. Some people also call this method 'drinking from a fire hose'.
 
