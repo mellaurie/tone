@@ -26,7 +26,7 @@ Or, perhaps, you are familiar with this scene from the 1950s, which might be ana
 
 ### Lucy and Ethel at the Chocolate Factory
 
-[plugin:youtube](https://www.youtube.com/watch?v=8NPzLBSBzPI)
+[plugin:youtube](https://www.youtube.com/watch?v=NkQ58I53mjk)
 
 ### Predicting school in Y2K.
 
