@@ -10,8 +10,8 @@ feed:
 
 ## Key Questions
 :fa-question: ...[what do YOU want to know?]  
-- What does an online community of inquiry look like?  
-- How can I build a sense of community in a remote course?  
+:fa-question: What does an online community of inquiry look like?  
+:fa-question: How can I build a sense of community in a remote course?  
 
 ## Provocations
 :fa-info: Face-to-face interaction, whether mediated through the web or not, is neither necessary nor sufficient for the development and growth of transformative communities of inquiry
