@@ -18,7 +18,7 @@ feed:
 
 [plugin:content-inject](_key-questions)
 
-There are a wide variety of possible learning environments in both F2F and online contexts. You might be familiar with Ferris Bueller's economics teacher in the 1986 movie where the dull, dry, monotone delivery of a lecture is portrayed.
+There are a wide variety of possible learning environments in both F2F and online contexts. You might be familiar with Ferris Bueller's economics teacher in the 1986 movie *Ferris Bueller's Day Off*.
 
 ### Ferris Bueller's Economics teacher
 
