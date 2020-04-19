@@ -1,7 +1,7 @@
 ---
 title: 'Unit 4 Logistics'
 published: true
-date: '15-04-2020 00:00'
+date: '19-04-2020 00:00'
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Person typing on a computer'
@@ -27,7 +27,7 @@ Web-conferencing certainly helped get us through March and April, so this is not
 
 So for this week, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
 
-Below this post, you will see what is called a 'feed' which is essentially a subscription to a blog. Each time I publish a post (Monday, Wednesday, and Friday mornings), that post will show up at the top of the feed. Each post will outline some new content and resources for that topic.
+Below this post, you will see what is called a 'feed' which is essentially a subscription to a blog. Each time I publish a post (Monday, Wednesday, and Friday mornings), that post will show up at the top of the feed. Each post will outline some new content and resources for that topic. You will also notice posts from the Library and other faculty at TWU.
 
 Although I am using a blog to keep you all up-to-date, you can do the same thing with a list of emails.
 
