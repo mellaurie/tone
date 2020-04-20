@@ -9,4 +9,4 @@ feed:
 ---
 
 ## Important Reminders
-Unit 4 begins Wednesday, April 15 , 2020.
+Unit 4 begins Monday, April 20 , 2020.
