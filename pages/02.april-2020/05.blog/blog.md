@@ -28,5 +28,5 @@ modular_content:
     items: '@self.modular'
     order:
         by: folder
-        dir: dsc
+        dir: desc
 ---
