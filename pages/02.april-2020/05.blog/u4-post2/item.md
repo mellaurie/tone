@@ -22,6 +22,8 @@ feed:
 
 It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'.
 
+===
+
 The essential argument is that *kids these days* have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
 
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
