@@ -9,7 +9,7 @@ header_image_credit: 'Photo by Raphael Mittendorfer on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/Y_vSeD-C7BQ'
 summary:
     enabled: '1'
-hide_from_post_list: true
+hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
