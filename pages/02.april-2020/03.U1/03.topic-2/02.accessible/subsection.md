@@ -12,7 +12,7 @@ We talked a bit about multi-access in the previous topic, but I want to focus on
 - confusing technology (pwpt, Moodle, etc.)
 - lack of motivation
 - lack of support
-- course is difficult to navigate
+- difficult navigation in course (e.g. hard to find assessment info, dropboxes, etc.)
 - language/cultural barriers
 
 What other concerns have you heard from students, or that you have felt yourself as you encounter a new learning tool?
