@@ -12,6 +12,8 @@ summary:
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
+feed:
+    limit: 10
 ---
 
 [plugin:content-inject](_key-questions)
