@@ -26,8 +26,7 @@ It is likely that you have encountered and may believe that there is a distincti
 
 The essential argument is that *kids these days* have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
 
-<a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[Digital Natives on Wikipedia](https://en.wikipedia.org/wiki/Digital_native)"
 
 Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but that does not mean that those people are more able to learn technology than older people or that they have an innate ability to do so. Have you ever asked a 1st-year university student to create a spreadsheet to create a budget or a gradebook with embedded formulae? It is more likely than not, that you will encounter a distinct lack of skill in completing this task.
 
