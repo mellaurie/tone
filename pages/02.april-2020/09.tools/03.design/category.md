@@ -1,5 +1,5 @@
 ---
-title: 'How to Make More Strategic Design Decisions?'
+title: 'Design'
 visible: false
 published: true
 ---
