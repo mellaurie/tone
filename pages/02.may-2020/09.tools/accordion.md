@@ -12,3 +12,4 @@ content:
         dir: asc
     limit: 0
 ---
+[plugin:page-inject](../../april-2020/tools/chromeless:true)
