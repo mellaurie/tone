@@ -1,5 +1,5 @@
 ---
 title: "How to Understand and Communicate People's Needs and Behaviors?"
 visible: false
-published: false
+published: true
 ---

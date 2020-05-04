@@ -25,5 +25,3 @@ One of the common complaints about remote learning is that both learners and fac
 
 <a class="embedly-card" data-card-controls="0" href="http://bit.ly/tonepods">Sandstorm</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-[plugin:content-inject](/pages/april-2020/tools)
