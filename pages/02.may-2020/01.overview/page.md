@@ -14,7 +14,7 @@ markdown:
 ## Welcome to Teaching Online Effectively (TOnE)!
 
 ### Course Description
-For the next three weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
+For the next four weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
 
 Another key focus of our time together is to build a *Community of Inquiry* - a forum where we can share resources, experiences, and ideas about course design.
 
@@ -36,18 +36,29 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 ### Course Topics
 This mini-course is organized into 6 units:
 
-##### :fa-calendar: *Week 1: April 6-10 - Course Planning*
-  1. Online Course Design Principles
-  2. Course Design Process & Elements
+Tues May 19 -
+Mon May 25 - Activities and Assessments
+Mon June 01 - Building Community and Learning Pods
+Mon June 08 - Emergent Session
 
-##### :fa-calendar: *Week 2: April 13-17 - Learning Activities & Assessment*
-  3. Engaging Learning Activities & Assessment Strategies
-  4. Teaching Online & Building Community
+May 22 - Moodle Set Up and Gradebook
+May 29 - Zoom and Microsoft Stream
+June 5 - Web-based Learning Activities
+June 12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resources
 
-##### :fa-calendar: *Week 3: April 20-24 - Digitally Mediated Teaching and Learning*
- 5. Technology and Learning / Learning Technology
- 6. Digital Tools and Resources (e.g. Moodle, WordPress, Zoom)
+##### :fa-calendar: *Week 1: May 19-22 - Design Principles and Learner Contexts*
+1. Online Course Design Principles
+2. Course Design Process & Elements
 
+##### :fa-calendar: *Week 2: May 25-29 - Learning Activities & Assessments*
+3. Engaging Learning Activities & Assessment Strategies
+4. Teaching Online & Building Community
+
+##### :fa-calendar: *Week 3: June 1-5 - Digitally Mediated Building Community and Learning Pods*
+5. Technology and Learning / Learning Technology
+6. Digital Tools and Resources (e.g. Moodle, WordPress, PressBooks, Zoom)
+
+##### :fa-calendar: *Week 4: June 8-12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resources*
 
 [plugin:content-inject](../schedule/_calendar)
 

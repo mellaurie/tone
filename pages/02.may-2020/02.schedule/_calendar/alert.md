@@ -8,19 +8,20 @@ visible: false
 ### Synchronous Zoom Sessions
 Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
 
-! Zoom sessions are scheduled for 60 minutes.
+! Monday/Tuesday sessions are scheduled for 60 minutes.
+! Friday sessions are scheduled for 30 minutes.
 
 | Date| Time   | Description | Facilitators |
 |---|----|---|---|
-| Mon Apr 6| 11:00 am PDT| Introduction to Course; Navigation; Moodle set-up; Design Principles | Colin & Scott |
-| Wed Apr 8  | 11:00 am PDT     |   Course Design Process    | Kelly |
-| ***Thu Apr 9*** | 11:00 am PDT| Open Session - Q & A    | Colin, Scott, & Kelly |
-| ***Tue Apr 14***| 11:00 am PDT|  Learning Activities  | Kelly |
-| Wed Apr 15  | 11:00 am PDT| Assessments     | Kelly|
-| Fri Apr 17    | 11:00 am PDT| Open Session - Q & A     | Colin & Scott |
-| Mon Apr 20     | 11:00 am PDT| Technology     | Colin, Scott & Kelly |
-| Wed Apr 22 | 11:00 am PDT| Tech Tools     | Colin & Scott |
-| Fri Apr 24   | 11:00 am PDT| Wrap Up and Sharing Session| Colin, Scott, & Kelly |
+| Tuesday, May 19| 11:00 am | Course Design Process  and Elements | Kelly, Colin, & Scott |
+|Friday, May 22   | 11:00 am   | Moodle Set up and Gradebook  | Colin   |
+| Monday, May 25  | 11:00 am      |   Learning Activities and Assessments   | Kelly |
+|Friday, May 29   | 11:00 am  | Zoom and MS Stream  | Colin & Scott  |
+| Monday, June 1 | 11:00 am | Building Community Online  | Colin, Scott, & Kelly |
+|Friday, June 5   | 11:00 am  | Web-based learning activities  | Colin, Scott, & Kelly  |
+| Monday, June 8| 11:00 am |  Library Resources | Duncan, Bill , & Qinqin  |
+|Friday, June 12   | 11:00 am  | Wrap-up | All  |
+
 
 **Zoom link:**
 Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
