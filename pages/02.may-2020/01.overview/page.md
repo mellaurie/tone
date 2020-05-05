@@ -14,7 +14,7 @@ markdown:
 ## Welcome to Teaching Online Effectively (TOnE)!
 
 ### Course Description
-For the next four weeks, we'll dive into some key ideas to help you design your course.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
+For the next four weeks, we'll dive into some key ideas to help you design your course with multi-access learning in mind.  Whether you need to put your full course online this summer/fall, or you want to include more online elements in your campus course, we hope that this mini-course provides the information and resources you need.
 
 Another key focus of our time together is to build a *Community of Inquiry* - a forum where we can share resources, experiences, and ideas about course design.
 
@@ -36,22 +36,21 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 ### Course Topics
 This mini-course is organized into 4 weeks:
 
-
 ##### :fa-calendar: *Week 1: May 19-22 - Design Principles and Learner Contexts*
-1. Online Course Design Principles
-2. Course Design Process & Elements
+- Multi-Access Course Design Principles
+- Course Design Process & Elements
 
 ##### :fa-calendar: *Week 2: May 25-29 - Learning Activities & Assessments*
-3. Engaging Learning Activities & Assessment Strategies
-4. Teaching Online & Building Community
+- Engaging Learning Activities & Assessment Strategies
+- Teaching Online & Building Community
 
 ##### :fa-calendar: *Week 3: June 1-5 - Digitally Mediated Building Community and Learning Pods*
-5. Technology and Learning / Learning Technology
-6. Digital Tools and Resources (e.g. Moodle, WordPress, PressBooks, Zoom)
+- Technology and Learning / Learning Technology
+- Digital Tools and Resources (e.g. Moodle, WordPress, PressBooks, Zoom)
 
 ##### :fa-calendar: *Week 4: June 8-12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resources*
-7. Using the Curriculum Builder in Moodle to share your reading list.
-8. Overview of digitally connected resources for labs and research.
+- Using the Curriculum Builder in Moodle to share your reading list.
+- Overview of digitally connected resources for labs and research.
 
 ---
 
