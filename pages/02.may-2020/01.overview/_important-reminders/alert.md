@@ -5,5 +5,5 @@ published: true
 visible: false
 ---
 
-## Important Reminders
+## New Cohort!
 * This course is scheduled to begin Tuesday, May 19, 2020.
