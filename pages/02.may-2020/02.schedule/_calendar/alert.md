@@ -8,7 +8,7 @@ visible: false
 ### Synchronous Zoom Sessions
 Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
 
-! Monday/Tuesday sessions are scheduled for 60 minutes.
+! Monday/Tuesday sessions are scheduled for 60 minutes.  
 ! Friday sessions are scheduled for 30 minutes.
 
 | Date| Time   | Description | Facilitators |
