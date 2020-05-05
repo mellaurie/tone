@@ -34,17 +34,8 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 ---
 
 ### Course Topics
-This mini-course is organized into 6 units:
+This mini-course is organized into 4 weeks:
 
-Tues May 19 -
-Mon May 25 - Activities and Assessments
-Mon June 01 - Building Community and Learning Pods
-Mon June 08 - Emergent Session
-
-May 22 - Moodle Set Up and Gradebook
-May 29 - Zoom and Microsoft Stream
-June 5 - Web-based Learning Activities
-June 12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resources
 
 ##### :fa-calendar: *Week 1: May 19-22 - Design Principles and Learner Contexts*
 1. Online Course Design Principles
@@ -59,6 +50,10 @@ June 12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resou
 6. Digital Tools and Resources (e.g. Moodle, WordPress, PressBooks, Zoom)
 
 ##### :fa-calendar: *Week 4: June 8-12 - Library Resources: Curriculum Builder, Virtual Labs and Research Resources*
+7. Using the Curriculum Builder in Moodle to share your reading list.
+8. Overview of digitally connected resources for labs and research.
+
+---
 
 [plugin:content-inject](../schedule/_calendar)
 
