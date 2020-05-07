@@ -7,7 +7,7 @@ visible: false
 
 
 #### Synchronous Sessions
-Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Tuesday, Wednesday and Friday at 11-12pm PT. See the Course Overview page for session descriptions.
+Please join us this week for our synchronous Zoom sessions!  See the Course Overview page for session descriptions.
 
 ---
 
