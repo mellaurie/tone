@@ -20,9 +20,12 @@ One trend that is gaining traction is **Multi-Access Learning**. Read the follow
 
 ! **Multi-access learning, however, has the learner at the center, with the ability to choose how he/she wants to access the course**. The core principle of the multi-access framework is one of enabling student choice in terms of the combination of course delivery methods through which the learning environment is accessed; that is, each individual learner decides how he/she wishes to take the course (e.g., face-to-face or online) and can then participate with other students and the instructor – each of whom have their own modality preferences – at the same time" (Irvine, Code & Richards, 2013).
 
-![](irvine_fig1.jpg)
-
 *Source: Tiers of the multi-access framework (Irvine, Code & Richards, 2013).*
+
+With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system.  This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.  View the following video that explains multi-access learning:
+
+<iframe src="https://player.vimeo.com/video/412934070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/412934070">Multi Access</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
@@ -49,12 +52,11 @@ The outermost tier of the model is for open participation from non-credit learne
 
 ---
 
-With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system.  This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.  View the following video that explains multi-access learning:
-
-<iframe src="https://player.vimeo.com/video/412934070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/412934070">Multi Access</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 So what does this look like in a course?  Here is one example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/)
+
+Let's take another example of a common learning activity in a course: Class Discussions.  What does this look like in your face-to-face course?  How about in a fully online course - one with synchronous zoom sessions?  What happens if a student cannot attend these synchronous sessions?
+
+As you think about your courses, consider designing learning activities for these different modalities / access points.  Students can participate in class discussions, synchronous zoom sessions, and asynchronous discussion forums - all while demonstrating their learning of the course and practicing skills of collaboration and critical thinking.
 
 
 ### Learning Activities
