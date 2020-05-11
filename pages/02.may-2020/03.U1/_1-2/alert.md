@@ -22,4 +22,5 @@ markdown:
 
 :fa-question: What ideas surround multi-access learning, according to the image?  
 :fa-question: What is your definition of multi-access learning?  
-:fa-question: If you were asked to provide multi-access learning for your course, what initial questions would you have?  
+:fa-question: What initial questions or concerns do you have about multi-access learning.  
+:fa-question: If you needed to design a multi-access course, where would you start? What changes would you make to sharing course content (e.g. lectures), learning activities, and assessments?  
