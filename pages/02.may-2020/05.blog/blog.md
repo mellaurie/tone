@@ -1,5 +1,5 @@
 ---
-menu: 'Week 4'
+menu: 'Unit 4'
 title: Blog
 published: true
 hide_page_title: true
