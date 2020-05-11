@@ -7,7 +7,7 @@ visible: false
 
 
 #### Synchronous Sessions
-Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Tuesday, Wednesday and Friday at 11-12pm PT. See the Course Overview page for session descriptions.
+Please join us this week for our synchronous Zoom sessions!  See the Course Overview page for session descriptions.
 
 ---
 
@@ -19,5 +19,5 @@ Please join us this week for our synchronous Zoom sessions!  We will be holding 
 :fa-book: Choose from the numerous resources on activity and assessment types.  Be sure to contribute to our **shared chalkboard**.
 
 ---
-#### **Unit 4 Discussion**
+#### **Unit 3 Discussion**
 :fa-pencil: Post your response to the questions provided in the Unit 3 Discussion forum in Moodle.

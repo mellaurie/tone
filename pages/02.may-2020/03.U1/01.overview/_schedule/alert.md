@@ -7,7 +7,7 @@ visible: false
 
 
 #### Synchronous Sessions
-Please join us this week for our synchronous Zoom sessions!  We will be holding sessions on Monday, Wednesday and Friday at 11-12pm PT. See the Course Overview page for session descriptions.
+Please join us this week for our synchronous Zoom sessions! See the Course Introduction page for session descriptions and times.
 
 ---
 
@@ -16,7 +16,7 @@ Please join us this week for our synchronous Zoom sessions!  We will be holding 
 
 ---
 #### Activity 1.2 (10 minutes)
-:fa-book: Skim [Chapter 1: Fundamental Change in Education](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/) of Tony Bates book, Teaching in a digital age.
+:fa-book: Skim [Chapter 1: Fundamental Change in Education](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/) of Tony Bates book, *Teaching in a Digital Age.*
 
 ---
 #### Activity 1.3  (15 minutes)
