@@ -42,9 +42,10 @@ This mini-course is organized into 4 weeks:
 
 ##### :fa-calendar: *Week 2: May 25-29 - Learning Activities & Assessments*
 - Engaging Learning Activities & Assessment Strategies
-- Teaching Online & Building Community
 
-##### :fa-calendar: *Week 3: June 1-5 - Digitally Mediated Building Community and Learning Pods*
+
+##### :fa-calendar: *Week 3: June 1-5 - Digitally Mediated Community-Building and Learning Pods*
+- Teaching Online & Building Community
 - Technology and Learning / Learning Technology
 - Digital Tools and Resources (e.g. Moodle, WordPress, PressBooks, Zoom)
 
