@@ -2,6 +2,9 @@
 title: 'Unit 4 Logistics'
 published: true
 date: '19-04-2020 00:00'
+taxonomy:
+    category:
+        - unit4
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Person typing on a computer'
@@ -13,6 +16,7 @@ hide_from_post_list: true
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
+    limit: 10
     skip: true
 ---
 
