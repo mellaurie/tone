@@ -12,12 +12,11 @@ header_image_credit: 'Photo by Kaitlyn Baker on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@kaitlynbaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'
 summary:
     enabled: '0'
-hide_from_post_list: true
+hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
     limit: 10
-    skip: true
 ---
 
 ### Welcome to Unit 4!
