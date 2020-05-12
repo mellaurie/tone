@@ -2,6 +2,11 @@
 title: 'Unit 4 - Digital Community'
 published: true
 date: '19-04-2020 00:00'
+taxonomy:
+    category:
+        - unit4
+    tag:
+        - unit4
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Black computer on a black surface'
