@@ -11,13 +11,14 @@ We would love for you to participate in the Discussion forums and we build our C
 For this first unit, please see the Discussion Forum in Unit 1 in Moodle.  Later on, we may post discussions in our open [TONE website](http://multi-access.twu.ca/tone/april-2020/overview), but in case you haven't tackled discussion forums in Moodle (like your students have to!) then please head on over to the [TONE Moodle site](https://learn.twu.ca/course/view.php?id=13628&section=1) and give it a try!
 
 
-### Unit 1: Introductions & Questions
+### Unit 1 Discussion: Introductions & Questions
 Feel free to answer one or all of the following:
 1. Please introduce yourself! What do you teach, how long have you taught at TWU, what are your interests, what have you learned during this time of self-isolation, etc.? Feel free to share a picture of someone or something that means a lot to you (i.e. your pet, family, favourite movie or book, etc.).
 2. What questions do you have about online learning and teaching?  What are you most concerned about or interested in as you move your course online?
 3. What is your Philosophy of Online Learning?
+4. What have you learned from the sessions this week? (e.g. synchronous group session, Learning Pod session, Tech Talk)
 
-
+!!! To write your discussion post, see the Forum at the bottom of the page.
 
 ## Checking Your Learning
 
