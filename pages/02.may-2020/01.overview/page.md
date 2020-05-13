@@ -37,11 +37,11 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 This mini-course is organized into 4 units:
 
 ##### :fa-calendar: *Unit 1: May 19-22 - Design Principles and Learner Contexts*
-- Multi-Access Course Design Principles
-- Course Design Process & Elements
+- Multi-Access Course Design Principles (Unit 1)
+- Course Design Process & Elements (Unit 2)
 
 ##### :fa-calendar: *Unit 2: May 25-29 - Learning Activities & Assessments*
-- Engaging Learning Activities & Assessment Strategies
+- Engaging Learning Activities & Assessment Strategies (Unit 3)
 
 
 ##### :fa-calendar: *Unit 3: June 1-5 - Digitally Mediated Community-Building and Learning Pods*

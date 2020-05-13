@@ -25,7 +25,7 @@ This mini-course is organized into 6 units:
 [plugin:content-inject](_calendar)
 
 **Zoom link:**
-Please join us at: [https://twu.zoom.us/j/385049508](https://twu.zoom.us/j/385049508)
- Meeting ID: 385 049 508
+Please join us at: [https://twu.zoom.us/s/91185777366](https://twu.zoom.us/s/91185777366)
+ Meeting ID: 911 8577 7366
 
 Before each session, you may want to look at the week's topics and the Unit's Activity Checklist.
