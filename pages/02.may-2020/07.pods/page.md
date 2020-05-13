@@ -8,6 +8,8 @@ markdown:
   extra: false
 ---
 
+## Developing Community in a Multi-Access Course
+
 In order to build a Community of Reflection and Practice (the TOnE CORP), we encourage you to connect with a partner/group where you can support each other, discuss course design ideas, and collaborate. Here is a structure we will use in this course and which you are encouraged to replicate in your own courses.
 
 #### Learning Partners
