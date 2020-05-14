@@ -18,7 +18,7 @@ Feel free to answer one or all of the following:
 3. What is your Philosophy of Online Learning?
 4. What have you learned from the sessions this week? (e.g. synchronous group session, Learning Pod session, Tech Talk)
 
-!!! To write your discussion post, see the Forum at the bottom of the page.
+!!! To write your discussion post, see the Discussions tab in Moodle and click on the Unit 1 Discussion Forum.
 
 ## Checking Your Learning
 

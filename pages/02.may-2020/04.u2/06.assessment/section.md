@@ -18,7 +18,7 @@ Feel free to answer one or all of the following:
 2. What course elements can you include in your design now?  What will you implement later?
 3. What key questions to you have about online course design?
 
-
+!!! To write your discussion post, see the Discussions tab in Moodle and click on the Unit 2 Discussion Forum.
 
 ## Checking Your Learning
 

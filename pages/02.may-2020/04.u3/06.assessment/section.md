@@ -14,6 +14,7 @@ Feel free to answer one or all of the following:
 1. What ideas, questions, or concerns do you have about online assessment?
 2. Please share what's worked well in your courses. Feel free to add a link to a google doc, a screenshot of an assignment, or a description of an activity/assessment.
 
+!!! To write your discussion post, see the Discussions tab in Moodle and click on the Unit 3 Discussion Forum.
 
 ## Checking Your Learning
 
