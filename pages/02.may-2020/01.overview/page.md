@@ -34,14 +34,14 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 ---
 
 ### Course Topics
-This mini-course is organized into 4 units:
+This mini-course will take place over 4 weeks and is organized into 5 units.  Please see the topics and schedule below:
 
 ##### :fa-calendar: *Week 1: May 19-22 - Design Principles and Learner Contexts*
-- Multi-Access Course Design Principles (Unit 1)
-- Course Design Process & Elements (Unit 2)
+- Multi-Access Course Design Principles (**Unit 1**)
+- Course Design Process & Elements (**Unit 2**)
 
 ##### :fa-calendar: *Week 2: May 25-29 - Learning Activities & Assessments*
-- Engaging Learning Activities & Assessment Strategies (Unit 3)
+- Engaging Learning Activities & Assessment Strategies (**Unit 3**)
 
 
 ##### :fa-calendar: *Week 3: June 1-5 Library Resources: Curriculum Builder, Virtual Labs and Research Resources*
@@ -50,8 +50,8 @@ This mini-course is organized into 4 units:
 
 
 ##### :fa-calendar: *Week 4: June 8-12 - Digitally Mediated Community-Building and Learning Pods*
-- Teaching Online & Building Community
-- Technology and Learning
+- Teaching Online & Building Community (**Unit 4**)
+- Technology and Learning (**Unit 5**)
 
 
 ---
