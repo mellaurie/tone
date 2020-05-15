@@ -20,15 +20,15 @@ Another key focus of our time together is to build a *Community of Inquiry* - a 
 
 ##### Welcome Video from Kelly Marjanovic (sign in to MS Stream using your TWU Pass credentials)
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/95ac917f-fe42-4ec6-8da8-0732937e650c?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ---
 [details="Can't see the video above? Click here."]
 
-<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp%3Bshowinfo=false">Microsoft Stream</a>
+<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/95ac917f-fe42-4ec6-8da8-0732937e650c?autoplay=false&amp%3Bshowinfo=false">Microsoft Stream</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-[Welcome video](https://web.microsoftstream.com/embed/video/93de64ca-3c4d-4f93-b1b3-2b30880ec72e?autoplay=false&amp;showinfo=false)
+[Welcome video](https://web.microsoftstream.com/embed/video/95ac917f-fe42-4ec6-8da8-0732937e650c?autoplay=false&amp;showinfo=false)
 [/details]
 
 ---
@@ -92,10 +92,10 @@ After successfully completing the course, you will be able to:
 ---
 [details="Can't see the video above? Click here."]
 
-<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/657e1605-b115-4521-bd1d-0d21c94ee04a?autoplay=false&amp;showinfo=false">Microsoft Stream</a>
+<a class="embedly-card" data-card-controls="0" href="https://web.microsoftstream.com/embed/video/aeabd412-a84f-4b6c-ba8f-d55b658d41ed?autoplay=false&amp;showinfo=false">Microsoft Stream</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-[Kelly's Self-introduction Video](https://web.microsoftstream.com/embed/video/657e1605-b115-4521-bd1d-0d21c94ee04a?autoplay=false&amp;showinfo=false)
+[Kelly's Self-introduction Video](https://web.microsoftstream.com/embed/video/aeabd412-a84f-4b6c-ba8f-d55b658d41ed?autoplay=false&amp;showinfo=false)
 [/details]
 
 ---
