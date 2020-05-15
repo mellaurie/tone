@@ -85,8 +85,10 @@ After successfully completing the course, you will be able to:
 ### Facilitator Introductions
 
 ##### Kelly Marjanovic, Instructional Designer
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/657e1605-b115-4521-bd1d-0d21c94ee04a?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/aeabd412-a84f-4b6c-ba8f-d55b658d41ed?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/aeabd412-a84f-4b6c-ba8f-d55b658d41ed?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 ---
 [details="Can't see the video above? Click here."]
 
