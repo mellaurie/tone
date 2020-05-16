@@ -16,7 +16,7 @@ For this second unit, please see the Discussion Forum in Unit 2 in Moodle.  Late
 Feel free to answer one or all of the following:
 1. What ideas seem helpful to you as you start to plan and design your course?
 2. What course elements can you include in your design now?  What will you implement later?
-3. What key questions to you have about online course design?
+3. What key questions do you have about online course design?
 
 !!! To write your discussion post, see the Discussions tab in Moodle and click on the Unit 2 Discussion Forum.
 
