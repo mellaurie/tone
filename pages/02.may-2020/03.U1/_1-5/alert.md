@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-### Activity 1.5: Philosophy, Principles and Practices of Teaching
+#### Activity 1.5: Philosophy, Principles and Practices of Teaching
 
 :fa-book: Skim [Engaging Adult Learners: Philosophy, Principles and Practices](http://northernc.on.ca/leid/docs/engagingadultlearners.pdf) by Jim Bryson
 
