@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-9'
+title: 'Activity 1-10'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.9: Design Principles Brainstorm!
+#### Activity 1.10: Design Principles Brainstorm!
 
 Now that you've had a chance to review some key design principles, let's brainstorm together!
 

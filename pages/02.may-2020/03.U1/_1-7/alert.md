@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-8'
+title: 'Activity 1-9'
 alert_style: alert-primary
 published: true
 visible: false
@@ -8,7 +8,7 @@ markdown:
 ---
 
 
-#### Activity 1.8: What Does Transformational Learning Look Like at TWU?
+#### Activity 1.9: What Does Transformational Learning Look Like at TWU?
 
 Take a look at Trinity's [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes).  Look also at the [MA Leadership Competency Model](https://www.twu.ca/leadership-ma/competency-model).  
 
