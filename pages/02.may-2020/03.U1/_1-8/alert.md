@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-9'
+title: 'Activity 1-11'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.9: My Philosophy of Online Learning
+#### Activity 1.11: My Philosophy of Online Learning
 
 What is your "Philosophy of Online Learning?"  Do you design your courses with *experience*, *accessibility*, and *transformation* in mind?
 

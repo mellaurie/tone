@@ -14,3 +14,7 @@ cache_enable: false
 
 #### :fa-user: Kelly Marjanovic  
 [safe-email autolink="true"]kelly.marjanovic@twu.ca[/safe-email]  
+
+
+## Questions? Tech support needs?
+Please email [safe-email autolink="true"]elearning@twu.ca[/safe-email] 

@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-4'
+title: 'Activity 1-5'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.4: Resources in Online Models of learning
+#### Activity 1.5: Resources in Online Models of learning
 
 If you are interested in learning more about online models of learning, feel free browse through the following resources;
 

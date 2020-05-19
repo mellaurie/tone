@@ -1,5 +1,5 @@
 ---
-title: 'Activity 1-6'
+title: 'Activity 1-7'
 alert_style: alert-primary
 published: true
 visible: false
@@ -7,7 +7,7 @@ markdown:
   extra: false
 ---
 
-#### Activity 1.6: Methods of Teaching (Online & F2F)
+#### Activity 1.7: Methods of Teaching (Online & F2F)
 
 Now that we've had a very quick overview of some key design principles, how does this relate to online and face-to-face classrooms?
 

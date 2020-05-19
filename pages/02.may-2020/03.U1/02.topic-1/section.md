@@ -55,22 +55,14 @@ The outermost tier of the model is for open participation from non-credit learne
 
 ---
 
-So what does this look like in a course?  
-
-Here is one example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).
-
-Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
-
-<iframe src="https://player.vimeo.com/video/416526075" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/416526075">Multi Access Conversation with Mark Halvorson</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-
-Let's take another example of a common learning activity in a course: Class Discussions.  What does this look like in your face-to-face course?  How about in a fully online course - one with synchronous zoom sessions?  What happens if a student cannot attend these synchronous sessions?
+So what does this look like in a course?  The activity below provides some examples, but let's first take a look at a common learning activity in a course: **Class Discussions**.  What does this look like in your face-to-face course?  How about in a fully online course - one with synchronous zoom sessions?  What happens if a student cannot attend these synchronous sessions?
 
 As you think about your courses, consider designing learning activities for these different modalities / access points.  Students can participate in class discussions, synchronous zoom sessions, and asynchronous discussion forums - all while demonstrating their learning of the course learning outcomes and practicing skills of collaboration and critical thinking.
 
 
 ### Learning Activities
+[plugin:content-inject](../_1-20)
+
 [plugin:content-inject](../_1-2)
 
 So how does this Multi-Access model of learning compare to what you have experienced as an instructor?  You may teach online, on campus, or have a blended approach in your courses.  What are the key differences between these approaches and modalities?

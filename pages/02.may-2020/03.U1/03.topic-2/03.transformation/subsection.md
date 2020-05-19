@@ -13,3 +13,5 @@ In many of our courses, a common goal is transformational learning, but how do w
 
 ### Learning Activities
 [plugin:content-inject](../../_1-7)
+
+[plugin:content-inject](../../_1-500)
