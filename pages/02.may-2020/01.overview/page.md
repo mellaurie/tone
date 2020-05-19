@@ -133,3 +133,19 @@ The following Zotero Group Library is open and will be updated regularly.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.zotero.org/groups/2479174/twu_tone_library">TWU TOnE Library</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+---
+## Course Facilitators
+#### :fa-user: Scott Macklin  
+[safe-email autolink="true"]scott.macklin@twu.ca[/safe-email]  
+
+#### :fa-user: Colin Madland  
+[safe-email autolink="true"]colin.madland@twu.ca[/safe-email]  
+
+#### :fa-user: Kelly Marjanovic  
+[safe-email autolink="true"]kelly.marjanovic@twu.ca[/safe-email]  
+
+
+## Questions? Tech support needs?
+Please email [safe-email autolink="true"]elearning@twu.ca[/safe-email]
