@@ -14,7 +14,7 @@ Please join us this week for our synchronous Zoom sessions! See the Course Intro
 :fa-book: Skim [Chapter 1: Fundamental Change in Education](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/) of Tony Bates book, *Teaching in a Digital Age.*
 
 ---
-#### Activity 1.2  (10 minutes)
+#### Activity 1.2  (35 minutes)
 :fa-book: View examples of Multi-Access Learning.
 
 ---
