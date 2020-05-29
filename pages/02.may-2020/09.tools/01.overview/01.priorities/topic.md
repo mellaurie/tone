@@ -1,8 +1,9 @@
 ---
-title: 'Priorities'
+title: Priorities
 hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
+child_type: topic
 ---
 
 Before recommending any specific apps for use in your courses, it is worthwhile to outline some priorities that we maintain with respect to our recommendations.
