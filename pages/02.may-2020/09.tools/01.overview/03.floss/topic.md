@@ -1,7 +1,6 @@
 ---
 title: 'FLOSS'
 ---
-
 ### Our priorities
 
 ##### FLOSS

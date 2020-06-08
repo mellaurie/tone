@@ -1,10 +1,8 @@
 ---
 title: Priorities
-hide_page_title: false
-show_sidebar: true
-hide_git_sync_repo_link: false
-child_type: topic
 ---
+
+### Priorities
 
 Before recommending any specific apps for use in your courses, it is worthwhile to outline some priorities that we maintain with respect to our recommendations.
 
@@ -14,17 +12,17 @@ Tony Bates describes the SECTIONS Model for choosing technology or media in Teac
 
 The acronym stands for different considerations that come into play:
 
-> - Students
-> - Ease of use
-> - Cost
-> - Teaching functions, including pedagogical affordances of media
-> - Interaction
-> - Organizational Issues
-> - Networking
-> - Security and privacy
+- Students
+- Ease of use
+- Cost
+- Teaching functions, including pedagogical affordances of media
+- Interaction
+- Organizational Issues
+- Networking
+- Security and privacy
 
 
-The SECTIONS model is useful for thinking about technology at a macro level, but it may not be terribly practical in an instructor's everyday practice.
+The SECTIONS model is useful for thinking about technology at a macro level, but taken as a whole, it may not be terribly practical in an instructor's everyday practice.
 
 If you would like, you can read more at the link below.
 

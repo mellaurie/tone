@@ -9,3 +9,4 @@ feed:
 ---
 
 ## Important Reminders
+Please check back here regularly this week for updates!
