@@ -1,6 +1,6 @@
 ---
 title: 'Unit 4 - Digital Community'
-published: false
+published: true
 date: '08-06-2020 09:00'
 taxonomy:
     category:
