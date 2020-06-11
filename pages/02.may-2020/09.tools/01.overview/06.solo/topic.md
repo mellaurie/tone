@@ -23,4 +23,4 @@ For a 'B', here is what learners need to do:
 
 ### Ummm...I'm here for the tools...
 
-We're getting there. How do the tools you use
+We're getting there. First, though, it is important to think about what affordances are provided by a particular tool that lead to learner progress towards outcomes. Does the tool

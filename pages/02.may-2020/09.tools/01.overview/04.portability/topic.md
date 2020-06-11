@@ -23,4 +23,3 @@ The second is from less than 5 years after the NPR article.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.insidehighered.com/blogs/just-visiting/knewton-gone-larger-threat-remains?utm_source=Academica+Top+Ten&utm_campaign=62fac2c01a-EMAIL_CAMPAIGN_2019_05_07_04_40&utm_medium=email&utm_term=0_b4928536cf-62fac2c01a-51939269">Knewton Is Gone. The Larger Threat Remains | Just Visiting</a>
 
-Not only is there a risk of small companies going out of business and leaving users stranded (this has happened at TWU), but there is also the issue of using proprietary tools that only produce files in their own proprietary formats.
