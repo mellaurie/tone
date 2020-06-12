@@ -23,4 +23,12 @@ For a 'B', here is what learners need to do:
 
 ### Ummm...I'm here for the tools...
 
-We're getting there. First, though, it is important to think about what affordances are provided by a particular tool that lead to learner progress towards outcomes. Does the tool
+Here is a good place to start...not with particular tools, but with particular activities.
+
+<a class="embedly-card" data-card-controls="0" href="https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/">IDDblog: Instructional Design Tips, Advice, & Trends for Online & Distance Learning | Educational Technology and Online Course Design Help</a>
+
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Stanford's matrix is getting plenty of traction in this time when so many are relying on Zoom to deliver content.
+
+![alt-text](https://www.iddblog.org/wp-content/uploads/2020/03/bandwidth-immediacy-matrix-by-Daniel-Stanford.png "Bandwidth Immediacy Matrix by Daniel Stanford")

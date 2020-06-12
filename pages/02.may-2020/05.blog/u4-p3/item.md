@@ -1,5 +1,5 @@
 ---
-title: 'Unit 5 - Visitors and Residents'
+title: 'Thinking'
 published: false
 date: '22-04-2020 00:00'
 hide_page_title: false
