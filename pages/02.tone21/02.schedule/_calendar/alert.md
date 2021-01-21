@@ -5,8 +5,8 @@ published: true
 visible: false
 ---
 
-### Synchronous Zoom Sessions
-Here is an overview of the synchronous sessions we'll be facilitating during this mini-course:
+### Course Schedule
+Here is an overview of the synchronous sessions we'll be facilitating during this mini-course. Each meeting will be a preview of the following 2-weeks of course content and activities.
 
 | Date| Time   | Description |
 |---|----|---|
