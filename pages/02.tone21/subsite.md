@@ -1,5 +1,5 @@
 ---
-title: 'May 2020'
+title: TOnE21
 subsite_list_description: 'Welcome to TOnE - Teaching ONline Effectively'
 hide_from_subsite_list: true
 subsite_home: overview
@@ -12,3 +12,4 @@ hide_from_course_list: false
 page-inject:
     processed_content: true
 ---
+
