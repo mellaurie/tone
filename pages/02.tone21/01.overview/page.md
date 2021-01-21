@@ -25,7 +25,7 @@ We have spread out the interactions in the course over eight weeks instead of fo
 ---
 
 ### Course Topics
-This mini-course will take place over 4 weeks and is organized into 5 units.  Please see the topics and schedule below:
+This mini-course will take place over eight weeks and is organized into 4 units.  Please see the topics and tentative schedule below:
 
 ##### :fa-calendar: *Week 1: May 19-22 - Design Principles and Learner Contexts*
 - Multi-Access Course Design Principles (**Unit 1**)
