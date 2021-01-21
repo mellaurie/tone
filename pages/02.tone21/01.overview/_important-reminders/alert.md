@@ -6,4 +6,4 @@ visible: false
 ---
 
 ## New Cohort!
-* This course is scheduled to begin Tuesday, May 19, 2020.
+* This course is scheduled to begin Friday, February 12, 2021.
