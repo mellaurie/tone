@@ -1,5 +1,5 @@
 ---
-menu: 'Unit 4'
+menu: 'Course Updates'
 title: Blog
 published: true
 hide_page_title: true
