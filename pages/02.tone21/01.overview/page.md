@@ -43,23 +43,6 @@ The following Zotero Group Library is open and will be updated regularly.
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
----
-## Course Contributors
-
-#### :fa-user: Jessica David  
-[safe-email autolink="true"]jessica.david@twu.ca[/safe-email]
-
-#### :fa-user: Melanie Laurie  
-[safe-email autolink="true"]melanie.laurie@twu.ca[/safe-email]  
-
-#### :fa-user: Scott Macklin  
-[safe-email autolink="true"]scott.macklin@twu.ca[/safe-email]  
-
-#### :fa-user: Colin Madland  
-[safe-email autolink="true"]colin.madland@twu.ca[/safe-email]  
-
-#### :fa-user: Karen Roeck  
-[safe-email autolink="true"]karen.roeck@twu.ca[/safe-email]  
 
 
 ## Questions? Tech support needs?
