@@ -1,6 +1,6 @@
 ---
 title: 'When to resist EdTech'
-published: true
+published: false
 date: '12-06-2020 00:00'
 hide_page_title: false
 show_sidebar: true
