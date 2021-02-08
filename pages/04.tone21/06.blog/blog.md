@@ -18,7 +18,7 @@ hero_scroll: false
 hide_post_summary: false
 post_icon: calendar-o
 hide_post_date: false
-hide_post_taxonomy: true
+hide_post_taxonomy: false
 continue_link_as_button: true
 feed:
     limit: 10
