@@ -1,7 +1,7 @@
 ---
-title: 'hi'
+title: 'Welcome'
 published: true
-date: '12-02-2021 01:00'
+date: '07-02-2021 01:00'
 taxonomy:
     category:
         - unit1
@@ -19,7 +19,13 @@ feed:
     limit: 10
 ---
 
-### Welcome to Unit 4!
+### Welcome to TOnE21!
+
+We trust you are finding balance in your work as we are in the thick of Spring 2021 semester. We know that this year has been challenging for many people and for many different reasons, not least of which is the ongoing COVID-19 pandemic and the resulting impacts on higher ed.
+
+The intent of this iteration of the TOnE course is to equip you to prepare for Summer and Fall '21, as it appears that 'normal' has changed in higher ed.
+
+Many learned last year that trying to replicate a face-to-face classroom experience in an online environment is challenging. Zoom is not a classroom. Timezones are a thing. Many people (instructors and learners alike) have inadequate internet bandwidth to support video-conferencing.
 
 You have likely noticed by now that this unit looks a bit different from the previous three units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
 
