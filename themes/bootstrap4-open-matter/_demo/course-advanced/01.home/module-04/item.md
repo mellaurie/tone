@@ -26,11 +26,11 @@ header_image_alt_text: 'Paper-based prototype'
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-[plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
+[youtube]https://www.youtube.com/watch?v=MwidSAlbEB8[/youtube]  
 
 ### Handouts
 [4-UP BROWSERS + GRID]((https://canvas.sfu.ca/courses/55288/files)  
 [4-UP MOBILES + GRID]((https://canvas.sfu.ca/courses/55288/files)  
 
 ### Required Reading  
-[embedly url="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/"]
+[embedly]https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/[/embedly]
