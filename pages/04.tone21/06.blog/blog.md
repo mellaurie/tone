@@ -4,7 +4,7 @@ title: Blog
 published: true
 hide_page_title: true
 show_sidebar: false
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 child_type: item
 visible: true
 content:
@@ -30,3 +30,4 @@ modular_content:
         by: folder
         dir: desc
 ---
+
