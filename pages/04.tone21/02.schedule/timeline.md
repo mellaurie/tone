@@ -1,5 +1,5 @@
 ---
-title: 'Course Timeline'
+title: 'Schedule'
 order:
     by: date
     dir: asc
