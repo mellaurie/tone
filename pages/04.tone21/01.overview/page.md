@@ -23,7 +23,7 @@ Our focus this time around will be on giving you some tools and competencies you
 We have spread out the interactions in the course over eight weeks instead of four to provide you with a little more thinking space and time to consider what we offer. We will also reduce the emphasis on 'content' distribution in our synchronous meetings and instead share that asynchronously via our course blog at [multi-access.twu.ca/tone21](https://multi-access.twu.ca/tone21).
 
 
-[plugin:content-inject](../schedule/_calendar)
+[plugin:content-inject](../timeline)
 
 
 
