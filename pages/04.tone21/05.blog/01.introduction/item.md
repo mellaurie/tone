@@ -25,13 +25,7 @@ We trust you are finding balance in your work as we are in the thick of Spring 2
 
 The intent of this iteration of the TOnE course is to equip you to prepare for Summer and Fall '21, as it appears that 'normal' has changed in higher ed.
 
-Many learned last year that trying to replicate a face-to-face classroom experience in an online environment is challenging. Zoom is not a classroom. Timezones are a thing. Many people (instructors and learners alike) have inadequate internet bandwidth to support video-conferencing.
-
-You have likely noticed by now that this unit looks a bit different from the previous three units, and that is by design. Our intent in shifting to a different format is to show you different formats and course structures in multi-access learning environments.
-
-The remaining units will demonstrate one way to reduce your reliance on web-conferencing (Zoom, BlueJeans, Skype...) when providing direct instruction for learners in your course. As we have all experienced as we finished the Spring 2020 semester, web-conferencing is exhausting! It is not a good replacement for a lecture, it is difficult for instructors, and it is difficult for learners. For some learners (and instructors), it is impossible due to sketchy or limited bandwidth internet connections at home, or to extreme differences in time-zones.
-
-Web-conferencing certainly helped get us through March and April, so this is not to denigrate those who needed it, but it is important to recognize that March and April 2020 in higher ed were far less than ideal.
+Many learned last year that trying to replicate a face-to-face classroom experience in an online environment is challenging. Zoom is not a classroom. Timezones are a thing. Some people (instructors and learners alike) have inadequate internet bandwidth to support video-conferencing.
 
 So for this week, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
 
