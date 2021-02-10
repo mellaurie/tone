@@ -1,11 +1,11 @@
 ---
-title: Learning Pods
+title: 'Learning Pods'
 published: true
 hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
 markdown:
-  extra: false
+    extra: false
 ---
 
 ## Developing Community in a Multi-Access Course

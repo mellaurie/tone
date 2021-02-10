@@ -3,8 +3,7 @@ title: Schedule
 published: true
 visible: false
 markdown:
-  extra: false
+    extra: false
 ---
-
 
 [plugin:content-inject](_calendar)
