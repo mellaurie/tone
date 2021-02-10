@@ -31,7 +31,18 @@ We have spread out the interactions in the course over eight weeks instead of fo
 For information on how to navigate through this course on Moodle, see [here](http://create.twu.ca/help/moodle).
 
 
-### Learning Outcomes
+### Essential Questions
+
+Here are some questions we hope to answer over the next 8 weeks. Keep in mind this isn't a list of *your* questions, so let us know if we are missing anything!
+
+1. What are some key differences between face-to-face and online modalities?
+2. How can someone build an online course?
+3. How is learning assessed in the online modality?
+4. How do connections form between learners and instructors online?
+5. How does community form online?
+6. What technology tools should be used in online learning?
+
+
 
 
 
