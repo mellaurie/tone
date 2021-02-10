@@ -1,6 +1,6 @@
 ---
-title: 'Unit 1'
-date: '12-02-2021 11:00'
+title: 'Celebration of Learning'
+date: '09-04-2021 11:00'
 date_format: 'd F'
 locale: en
 hide_page_title: false
@@ -9,4 +9,4 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
-Course Design Process and Elements
+Planning for Assessment
