@@ -9,4 +9,4 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
-Planning for Assessment
+Looking back and forward!
