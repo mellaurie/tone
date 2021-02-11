@@ -1,7 +1,7 @@
 ---
 title: TOnE21
-subsite_list_description: 'Welcome to TOnE - Teaching ONline Effectively'
-hide_from_subsite_list: true
+subsite_list_description: 'Welcome to TOnE21 - Teaching ONline Effectively'
+hide_from_subsite_list: false
 subsite_home: overview
 published: true
 hide_page_title: false
@@ -12,4 +12,3 @@ hide_from_course_list: false
 page-inject:
     processed_content: true
 ---
-
