@@ -24,3 +24,5 @@ Each set of learning partners will also connect with another set of learning par
 
 #### Rationale
 One of the common complaints about remote learning is that both learners and faculty feel very isolated and alone. It is important to provide some structure to encourage learner-learner interactions. Faculty who have used this strategy report that comments show up in end of course 'evaluations' that learners, for the first time in their degree, made a friend because of this course structure. Social connections are critical for many learners. Furthermore, encouraging learners to review each others' work is a cognitive task that encourages deep approaches to learning.
+
+!!!! Click the link to the 'Learning Pod Place' (a OneNote binder) below to access a sign-up sheet and collaborative workspace.
