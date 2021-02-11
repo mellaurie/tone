@@ -37,8 +37,11 @@ Here are some questions we hope to answer over the next 8 weeks. Keep in mind th
 5. How does community form online?
 6. What technology tools should be used in online learning?
 
+### Learning Activities
 
+We have included several learning activities throughout the course and you are welcome to complete these activities and discuss them with your learning pod. They are not required and will not be formally assessed. It is likely that there are more activities available than you will have time to complete.
 
+One way to engage with each other is to post your responses to and reflections about the learning activities on one of the unit forums in Moodle. Alternately, you are welcome to create a blog at [our TWU WordPress site](https://create.twu.ca) and we would be happy to syndicate your posts to the course site.
 
 
 ### Useful Resources
