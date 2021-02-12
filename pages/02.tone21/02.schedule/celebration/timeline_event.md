@@ -10,5 +10,4 @@ type: Event
 ---
 
 **Friday, April 9 ~**  
-
 Looking back and forward!

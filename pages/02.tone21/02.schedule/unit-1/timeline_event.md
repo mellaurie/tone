@@ -10,5 +10,4 @@ type: Event
 ---
 
 **Friday, February 12 - Friday, February 26**  
-
 Course Design Process and Elements
