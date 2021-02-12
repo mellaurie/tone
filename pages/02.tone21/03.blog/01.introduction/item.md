@@ -1,7 +1,7 @@
 ---
 title: 'Welcome'
 published: true
-date: '07-02-2021 01:00'
+date: '12-02-2021 01:00'
 taxonomy:
     category:
         - unit1
@@ -27,7 +27,7 @@ The intent of this iteration of the TOnE course is to equip you to prepare for S
 
 Many learned last year that trying to replicate a face-to-face classroom experience in an online environment is challenging. Zoom is not a classroom. Timezones are a thing. Some people (instructors and learners alike) have inadequate internet bandwidth to support video-conferencing.
 
-So for this week, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
+So for this iteration of the TOnE course, we are going to focus on a primarily asynchronous, low-bandwidth mode of communication supplemented with more casual and unstructured synchronous meetings.
 
 Below this post, you will see what is called a 'feed' which is essentially a subscription to a blog. Each time I publish a post, that post will show up at the top of the feed. Each post will outline some new content and resources for that topic. You will also notice posts from the Library and other faculty at TWU.
 
