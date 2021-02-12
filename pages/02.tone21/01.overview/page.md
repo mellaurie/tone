@@ -8,7 +8,7 @@ markdown:
   extra: false
 ---
 
-![](rsz_tone.jpg)
+![](Tone21_Logo.png)
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Teaching Online Effectively (TOnE)!
