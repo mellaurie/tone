@@ -9,6 +9,7 @@ markdown:
 ---
 
 ![](Tone21_Logo.png)
+
 [plugin:content-inject](_important-reminders)
 
 ## Welcome to Teaching Online Effectively21 (TOnE21)!
@@ -56,4 +57,5 @@ The following Zotero Group Library is open and will be updated regularly.
 
 ## Questions? Tech support needs?
 Please email [safe-email autolink="true"]elearning@twu.ca[/safe-email]
-.
+
+!!!! The TOnE21 logo was created by Jeff Snider.
