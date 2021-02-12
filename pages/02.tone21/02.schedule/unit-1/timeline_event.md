@@ -9,4 +9,6 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
+**Friday, February 12 - Friday, February 26**  
+
 Course Design Process and Elements

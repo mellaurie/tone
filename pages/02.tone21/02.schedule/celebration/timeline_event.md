@@ -9,4 +9,6 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
+**Friday, April 9 ~**  
+
 Looking back and forward!

@@ -9,5 +9,5 @@ hide_git_sync_repo_link: false
 type: Event
 ---
 
-**:fa-book: Friday, March 26 - Friday, April 9**  
+**Friday, March 26 - Friday, April 9**  
 Creating and Sustaining Communities of Inquiry
