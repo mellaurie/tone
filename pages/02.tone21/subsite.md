@@ -1,6 +1,6 @@
 ---
 title: TOnE21
-subsite_list_description: 'Welcome to TOnE21 - Teaching ONline Effectively'
+subsite_list_description: 'Friday, February 12 - Friday, April 9, 2021'
 hide_from_subsite_list: false
 subsite_home: overview
 published: true
