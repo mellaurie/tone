@@ -31,10 +31,10 @@ header_image_alt_text: 'Information architecture'
 [Product Reaction Cards]((https://canvas.sfu.ca/courses/55288/files)  
 
 ### Quick Quiz
-[h5p id="213956"]
+[h5p]https://h5p.org/h5p/embed/214115[/h5p]
 
 ### Assignments
 [Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments)  
 
 ### Recommended Reading  
-[embedly url="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b"]
+[embedly]https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b[/embedly]
