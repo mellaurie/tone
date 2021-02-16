@@ -41,7 +41,7 @@ TWU, in looking forward to emerging from the COVID-19 pandemic, is recommending 
 
 The place to begin is undoubtedly representative of a significant lift in terms of workload, but the short-term cost will lead to many long-term benefits, regardless of the modality. We recommend that your starting place should be to prepare your entire course so that it could be delivered asynchronously, likely in a primarily text format. For many, this may mean editing and revising transcripts from recorded Zoom sessions from 2020, or it may mean exporting your slide decks to an outline in a word processor and then filling in details with commentary like the posts in TOnE21.
 
-[ui-accordion independent=true]
+[ui-accordion independent=true open=none]
 [ui-accordion-item title="An aside about slide decks..."]
 
 Whether you use PowerPoint, Keynote, Prezi, or another slide generating tool, your slide decks are less helpful than you realize. Most often, slide decks must be downloaded from the web, opened in another program, and then navigated through one slide at a time. This creates unnecessary barriers to interacting with your content, limiting accessiblity for those who use screenreaders. It is much easier for learners to navigate through a well-structured webpage with heading levels replacing bullets on a slide.
