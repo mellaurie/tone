@@ -50,11 +50,10 @@ In fact, Edward Tufte (2006) argues that the overuse of Powerpoint led to the de
 
 > As information gets passed up an organization hierarchy, from people who do analysis to mid-level managers to high-level leadership, *key explanations and supporting information are filtered out*. In this context, it is easy to understand how a senior manager might read this PowerPoint slide and not realize that it addresses a life-threatening situation.
 
-At many points during its investigation, the Board was surprised to receive similar presentation slides from NASA officials in place of technical reports. The Board views the endemic use of PowerPoint briefing slides instead of technical papers as an illustration of the problematic methods of technical communication at NASA." (emphasis added)
+> At many points during its investigation, the Board was surprised to receive similar presentation slides from NASA officials in place of technical reports. The Board views the endemic use of PowerPoint briefing slides instead of technical papers as an illustration of the problematic methods of technical communication at NASA." (emphasis added)
 
 Ultimately, slide decks are designed to support live verbal presentations, not web-based reading. TWU GLOBAL Online instructional designers try to avoid slide decks whenever possible.
 
-The following posts and units will provide some structure for you to think through and implement the revisioning of your courses for our new realities.
 [/ui-accordion-item]
 [/ui-accordion]
 
