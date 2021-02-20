@@ -1,15 +1,15 @@
 ---
 title: 'Flipping the Script'
-published: false
-date: '16-02-2021 08:00'
+published: true
+date: '18-02-2021 08:00'
 taxonomy:
     category:
         - unit1
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: 'Skid-steer on a rock with a rock'
-header_image_credit: 'Photo by Ivan Diaz on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/gcynzrxSPCE'
+header_image_alt_text: 'Open Laptop on a Wooden Surface'
+header_image_credit: 'Photo by Bram Naus on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/n8Qb1ZAkK88'
 summary:
     enabled: '0'
 hide_from_post_list: false
@@ -33,7 +33,7 @@ In an online environment, students study material asynchronously, and then apply
 
 The “flipped” approach therefore encourages inquiry-based and cooperative learning, while simultaneously allowing students to explore concepts in greater depth. From the instructor’s perspective, this approach can provide opportunities to address students’ misconceptions and act as an immediate feedback tool.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f976ec43-7275-4376-a6a9-2bae966b328b/chart(JessD).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f976ec43-7275-4376-a6a9-2bae966b328b/chart(JessD).png)
+![alt-text](chart-JessD.png "Student Centred Learning")
 
 *Image Credit: Jessica David*
 
@@ -51,7 +51,7 @@ One of the primary challenges associated with developing resources for the flipp
 
 Utilizing material already available on YouTube and using Open Educational Resources can mitigate prep time. Resources from the Khan Academy, TED Talks (see the "Flip this Lesson" feature from TED-Ed), and using written prompts where students can “pause” to reflect on their learning will help students grasp important material. As students will be studying this material independently, the key is finding and creating content that has a stepwise progression.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93665121-9726-4dd7-b63d-6068a57f0772/bram-naus-n8Qb1ZAkK88-unsplash.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93665121-9726-4dd7-b63d-6068a57f0772/bram-naus-n8Qb1ZAkK88-unsplash.jpg)
+![alt-text](bram-naus-n8Qb1ZAkK88-unsplash.jpg "Open laptop on a wood surface")
 
 *Image Credit: Bram Naus on Unsplash*
 
@@ -67,17 +67,10 @@ In an online format, repurposing class time into workshops can create rich learn
 
 Since these workshops rely heavily on student participation, you are encouraged to develop activities which allow learners to draw from authentic experience. In this manner, information becomes more personalized, meaningful, and more likely content that students will remember.
 
-- **Learning Activity**
+### Suggested Activities for Discussion and Reflection
 
-    Watch the video below, and consider how you might apply this approach to a topic in your class
-
-[embedly url="https://vimeo.com/70893101"]
-
-    [https://vimeo.com/70893101](https://vimeo.com/70893101)
-
-- **Learning Activity**
-
-After carefully considering how the content will be structured to create a meaningful, learner-centered experience, we can now turn our attention to design!
+!!!! :fa-film: Watch the video below, and consider how you might apply this approach to a topic in your class.  
+!!!! [embedly url="https://vimeo.com/70893101"]
 
 _____________________
 
