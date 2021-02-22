@@ -11,7 +11,7 @@ header_image_alt_text: 'Open Laptop on a Wooden Surface'
 header_image_credit: 'Photo by Bram Naus on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/n8Qb1ZAkK88'
 summary:
-    enabled: '0'
+    enabled: '1'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true

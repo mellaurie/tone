@@ -11,7 +11,7 @@ header_image_alt_text: 'Paper cranes on a table'
 header_image_credit: 'Photo by Dev Benjamin on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@dev_irl?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'
 summary:
-    enabled: '0'
+    enabled: '1'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
