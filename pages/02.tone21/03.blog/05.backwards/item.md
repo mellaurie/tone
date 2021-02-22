@@ -56,7 +56,7 @@ Again, notice the order.  We're not starting with what content or textbook or ac
 !!! :fa-question: What learning from my course will endure for my students?  
 !!! :fa-question: Where is the easiest place for me to start design backwards?
 
-### **Resources**:
+### Resources
 
 Chapter 1: Surfacing Backwards Design (pp. 5-26) in "Small Teaching Online" (Darby & Lang, 2017) (Remember this is the book Dr. Husbands gifted to faculty)
 
@@ -74,6 +74,8 @@ Chapter 1: Surfacing Backwards Design (pp. 5-26) in "Small Teaching Online" (Dar
 
 This component of the design process is incredibly important as it helps use develop a "map" of the course. In our next section, we will introduce a resource that you can use to help "map" out your ideas as you work through the backwards design framework.
 
-###References
+### References
+
+Darby, F., & Lang, J. M. (2019). *Small teaching online: Applying learning science in online classes (First edition)*. Jossey-Bass.
 
 Wiggins, G., & McTighe, J. (1998). Backward Design. In G. Wiggins & J. McTighe, *Understanding by Design* (pp. 13-34). ASCD.
