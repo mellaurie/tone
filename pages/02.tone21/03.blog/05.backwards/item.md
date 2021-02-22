@@ -60,16 +60,20 @@ Again, notice the order.  We're not starting with what content or textbook or ac
 
 Chapter 1: Surfacing Backwards Design (pp. 5-26) in "Small Teaching Online" (Darby & Lang, 2017) (Remember this is the book Dr. Husbands gifted to faculty)
 
-[embedly url="https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/#template"]
+[columns="2"]
+[embedly url="https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"]
 
 [embedly url="https://www.cultofpedagogy.com/backward-design-basics/"]
+[/columns]
 
+[columns="2"]
 [plugin:youtube](https://youtu.be/mLKHaNo98Ts)
 
 [plugin:youtube](https://youtu.be/d8F1SnWaIfE)
+[/columns]
 
 This component of the design process is incredibly important as it helps use develop a "map" of the course. In our next section, we will introduce a resource that you can use to help "map" out your ideas as you work through the backwards design framework.
 
-References:
+###References
 
 Wiggins, G., & McTighe, J. (1998). Backward Design. In G. Wiggins & J. McTighe, *Understanding by Design* (pp. 13-34). ASCD.
