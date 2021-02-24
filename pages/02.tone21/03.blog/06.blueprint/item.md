@@ -62,8 +62,7 @@ Before starting your own blueprint creation process, take some time to explore t
 [/columns]
 
 !!! **Learning Activity: Starting Your Course Blueprint**  
-!!! :fa-download: [**Download** the TWU Course Blueprint Template.](https://mytwu.sharepoint.com/:w:/s/IDTeam/EfPUSAGXQ05AlQiXHYzAY0ABKkjLVbceKklhFjdk14gYDA?e=2oTJnH) Using what you learned in this unit plus additional information in the template, begin the process of designing the blueprint for your course.    
-!!! [TWU Course Blueprint Template.docx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1ea33fb-8635-4017-a245-d9b65c53aafc/TWU_Course_Blueprint_Template.docx)   
+!!! :fa-download: [Download the TWU Course Blueprint Template.](https://mytwu.sharepoint.com/:w:/s/IDTeam/EfPUSAGXQ05AlQiXHYzAY0ABKkjLVbceKklhFjdk14gYDA?e=2oTJnH) Using what you learned in this unit plus additional information in the template, begin the process of designing the blueprint for your course.    
 !!! :fa-google: [Click here](https://docs.google.com/document/d/1FWQxlxuVxyWw8RKloyIkJRf3rPfhz2mQ3_clZPpesQQ/copy) for a Google Doc
 
 ### References
