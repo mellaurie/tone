@@ -1,13 +1,13 @@
 ---
 title: 'Blueprint'
 published: true
-date: '23-02-2021 08:00'
+date: '23-02-2021 16:00'
 taxonomy:
     category:
         - unit1
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: 'wireframe diagrams'
+header_image_alt_text: 'engineer and blueprints'
 header_image_credit: 'Photo by RF._.studio from Pexels'
 header_image_creditlink: 'https://www.pexels.com/photo/faceless-engineer-adding-details-to-sketch-of-aircraft-3825574/'
 summary:
@@ -51,29 +51,22 @@ In the book of Matthew, Jesus tells the parable of the wise and foolish builders
 
 When we focus our initial course design efforts on creating a purposefully planned blueprint, we equip ourselves to offer TWU students an authentic, supported, and connected learning experience. In turn, students will be better prepared to weather the inevitable storms they will face as they form connections between course material and the outside world, develop their leadership skills, and strive to have a transformational impact on culture.
 
-!!! **Learning Activity: Reviewing Supplemental Material**
-!!! Before starting your own blueprint creation process, take some time to explore these additional resources:
-!!! :fa-check:[embedly url="https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-9-step-seven/") (Bates, 2019)
-- Conquering the Content: A Blueprint for Online Course Design and Development (2nd ed.), by Robin M. Smith (Rogers-Estable, 2015)
+### Resources
+Before starting your own blueprint creation process, take some time to explore these additional resources:  
+[columns]
+[embedly url="https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/11-9-step-seven/"]
+[embedly url="https://www.wiley.com/en-ca/Conquering+the+Content:+A+Blueprint+for+Online+Course+Design+and+Development,+2nd+Edition-p-9781118717080"] or [For a book review...](https://web-a-ebscohost-com.ezproxy.student.twu.ca/ehost/detail/detail?vid=3&sid=e569567f-1357-4f71-bfca-ab29bf89827f%40sessionmgr4008&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=114746039&db=asn)
+[/columns]
+[columns]  
+[embedly url="https://www.tandfonline.com/doi/full/10.1080/02602938.2017.1412396"]  
+[/columns]
 
-    [Rogers-Estable, 2015.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03e708c5-f814-43d7-9daa-71e0c712562a/Rogers-Estable_2015.pdf)
+!!! **Learning Activity: Starting Your Course Blueprint**  
+!!! :fa-download: [**Download** the TWU Course Blueprint Template.](https://mytwu.sharepoint.com/:w:/s/IDTeam/EfPUSAGXQ05AlQiXHYzAY0ABKkjLVbceKklhFjdk14gYDA?e=2oTJnH) Using what you learned in this unit plus additional information in the template, begin the process of designing the blueprint for your course.    
+!!! [TWU Course Blueprint Template.docx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1ea33fb-8635-4017-a245-d9b65c53aafc/TWU_Course_Blueprint_Template.docx)   
+!!! :fa-google: [Click here](https://docs.google.com/document/d/1FWQxlxuVxyWw8RKloyIkJRf3rPfhz2mQ3_clZPpesQQ/copy) for a Google Doc
 
-    - *Note: You can find more information [here](https://www.wiley.com/en-ca/Conquering+the+Content:+A+Blueprint+for+Online+Course+Design+and+Development,+2nd+Edition-p-9781118717080) if you are interested in reading Smith's full book.*
-- Authentic Assessment: Creating a Blueprint for Course Design (Villarroel et al., 2018)
-
-    [Villarroel et al., 2018.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/842ec789-a1a7-44d6-81ce-f6a9937990e6/Villarroel_et_al._2017.pdf)
-
-### **Learning Activity: Starting Your Course Blueprint**
-
-Download the TWU Course Blueprint Template. Using what you learned in this unit plus additional information in the template, begin the process of designing the blueprint for your course.
-
-- Word document:
-
-    [TWU Course Blueprint Template.docx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1ea33fb-8635-4017-a245-d9b65c53aafc/TWU_Course_Blueprint_Template.docx)
-
-- [Click here](https://docs.google.com/document/d/1FWQxlxuVxyWw8RKloyIkJRf3rPfhz2mQ3_clZPpesQQ/copy) for a Google Doc
-
-**References:**
+### References
 
 Bates, A. W. (2019). *Teaching in a digital age: Guidelines for designing teaching and learning* (2nd edition). Tony Bates Associates Ltd.
 
