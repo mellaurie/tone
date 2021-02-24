@@ -19,8 +19,7 @@ feed:
     limit: 10
 ---
 
-### Topic 4
-[plugin:content-inject](_important-reminders)
+!!!! :fa-calendar: Reminder of our bi-weekly Zoom meeting for TOnE21 coming up this Friday, February 26 at 11:00 AM. [Check Moodle for the Zoom link.](https://learn.twu.ca)  
 
 So far, we have explored some important ideas to consider as you think about how to structure your course. We have also considered the process of designing the course. Now that we have an understanding of these two components of course design, we can get started on the *actual* design of the course.
 
