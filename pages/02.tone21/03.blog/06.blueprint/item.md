@@ -19,6 +19,7 @@ feed:
     limit: 10
 ---
 
+### Topic 4
 [plugin:content-inject](_important-reminders)
 
 So far, we have explored some important ideas to consider as you think about how to structure your course. We have also considered the process of designing the course. Now that we have an understanding of these two components of course design, we can get started on the *actual* design of the course.
