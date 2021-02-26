@@ -41,4 +41,4 @@ In addition to developing intuitive content, the role of the instructor also inc
 
 Ultimately the goal is to ensure that the "story" of our content is easy to follow, engaging and relevant to learners in our class.
 
-[https://www.youtube.com/watch?v=XoyZmu0IOKc](https://www.youtube.com/watch?v=XoyZmu0IOKc)
+[plugin:youtube](https://www.youtube.com/watch?v=XoyZmu0IOKc)
