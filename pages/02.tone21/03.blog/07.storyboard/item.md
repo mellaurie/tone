@@ -19,6 +19,9 @@ feed:
     limit: 10
 ---
 
+!!!! Twitter thread of Twitter threads on learning design...  
+!!!! [embedly url="https://twitter.com/anda19/status/1316695443045265410?s=12"]
+
 Finally, we arrive at the final component of course design. Each section of this unit has added a sequential layer of detail that requires consideration as you go about the development of your course - structural decisions will guide design decisions which will, ultimately, influence how you go about planning out the course (the blueprint!).
 
 The final *layer* we need to add helps bring the content to life. It is important to think about how the content in each section of a course is sequenced as the focus should be on creating an intuitive experience for learners. A student should be focused on learning - not expending energy on trying to figure out how the pieces of content "fit" together. To achieve this, it is helpful to utilize a design technique called storyboarding.
