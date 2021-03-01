@@ -8,7 +8,7 @@ taxonomy:
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Keyboard with the word Create'
-header_image_credit: 'Image by www_slon_pics from Pixabay'
+header_image_credit: 'www_slon_pics from Pixabay'
 header_image_creditlink: 'https://pixabay.com/photos/create-creation-creativity-laptop-3026190/'
 summary:
     enabled: '1'
