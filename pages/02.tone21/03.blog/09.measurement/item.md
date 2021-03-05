@@ -7,7 +7,6 @@ taxonomy:
         - unit2
 hide_page_title: false
 show_sidebar: true
-header_image: true
 header_image_file: /tone21/blog/measurement/1william-warby-WahfNoqbYnM-unsplash.jpg
 header_image_alt_text: 'Assorted Rulers'
 header_image_credit: 'William Warby on Unsplash'
@@ -21,7 +20,7 @@ feed:
     limit: 10
 ---
 
-🌊 What is the mass of gram of water?
+🌊 What is the mass of a cubic centimetre of water?
 
 📏 How many kilometres are there between TWU Langley and TWU Richmond?
 
