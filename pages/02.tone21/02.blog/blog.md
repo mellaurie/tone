@@ -10,7 +10,7 @@ content:
     limit: 10
     order:
         by: default
-        dir: asc
+        dir: desc
     pagination: '1'
 hero_scroll: false
 hide_post_summary: false
