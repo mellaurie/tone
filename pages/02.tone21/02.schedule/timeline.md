@@ -1,5 +1,5 @@
 ---
-title: 'Schedule'
+title: Schedule
 order:
     by: date
     dir: asc
