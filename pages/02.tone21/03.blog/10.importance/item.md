@@ -42,7 +42,7 @@ Stiggins et al. define the WHY of assessment as "gather[ing] evidence of student
 
 ! Integrating feedback loops into our assessment practices aligns with First Peoples Principles of Learning: "Learning is holistic, reflexive, reflective, experiential, and relational (focused on connectedness, on reciprocal relationships, and a sense of place) (FNESC, n.d.).
 
-### **Assessment involves subjective interpretation, not just objective measurement.**
+### Assessment involves subjective interpretation, not just objective measurement.
 
 The learning process is a highly personal and vulnerable journey towards self-discovery. We all experience learning on a continuum where some approach a learning goal with confidence and zeal and others need time and scaffolded support to practice a new skill (White, 2017). As instructors, we should provide multiple learning opportunities by engaging with our students in an ongoing dialogue through formative feedback and inviting their input on assessment criteria, particularly with digital assessments (Bayne et al., 2020). Artifacts of learning serve a wider purpose than solely meeting course learning outcome requirements. Bayne et al. offer several examples of student-nominated criteria for digital assignments (2020, p. 69):
 
@@ -69,7 +69,7 @@ One of our TWU Core Values is for students to have a transformational impact on 
 !!! 📝 You may wish to create a table or grid with a list of your assessments and each of the alignment categories.  
 !!! 🤔 Consider how your existing assessments align with the assessment WHYs discussed in this blog post. What adjustments could you make to better meet the needs of your learners? To invite student voice? To equip your students to have a transformational impact on culture?  
 
-**References:**
+### References
 
 Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). *The manifesto for teaching online.* Massachusetts Institute of Technology.
 
