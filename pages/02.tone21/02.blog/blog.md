@@ -10,7 +10,7 @@ content:
     limit: 10
     order:
         by: date
-        dir: desc
+        dir: asc
     pagination: '1'
 hero_scroll: false
 hide_post_summary: false
@@ -21,3 +21,4 @@ feed:
     limit: 10
     title: TOnE21
 ---
+
