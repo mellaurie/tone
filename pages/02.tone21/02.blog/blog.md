@@ -9,7 +9,7 @@ content:
     items: '@self.children'
     limit: 10
     order:
-        by: date
+        by: default
         dir: asc
     pagination: '1'
 hero_scroll: false
