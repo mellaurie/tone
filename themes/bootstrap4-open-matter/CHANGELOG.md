@@ -1,3 +1,97 @@
+# v3.7.1
+## 03/08/2021
+
+1. [](#bugfix)
+    * Included loading of v4.6 bootstrap.min.js by default
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.7.0
+## 03/02/2021
+
+1. [](#improved)
+    * Updated example CSS customizations for Canvas LMS
+
+# v3.6.9
+## 03/01/2021
+
+1. [](#bugfix)
+    * Fixed incorrect appearance of hover and focus on some elements
+
+# v3.6.8
+## 03/01/2021
+
+1. [](#improved)
+    * Removed Breadcrumbs plugin as dependency
+
+# v3.6.7
+## 03/01/2021
+
+1. [](#improved)
+    * Removed Feed plugin as dependency
+
+# v3.6.6
+## 02/28/2021
+
+1. [](#bugfix)
+    * Removed unneeded dependencies of Archives, TaxonomyList and SimpleSearch plugins
+
+# v3.6.5
+## 02/28/2021
+
+1. [](#improved)
+    * Updated Bootstrap to v4.6
+    * Updated Bootswatch to v4.6
+
+# v3.6.4
+## 02/28/2021
+
+1. [](#improved)
+    * Reduced plugin dependencies, thanks to the new Grav Skeleton build process
+
+# v3.6.3
+## 02/18/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.6.2
+## 02/18/2021
+
+1. [](#improved)
+    * Changed default sort order for Course Subsites List
+
+# v3.6.1
+## 02/18/2021
+
+1. [](#improved)
+    * Changed default for Course Subsites List to 2 cards per row
+
+# v3.6.0
+## 02/17/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.9
+## 02/17/2021
+
+1. [](#bugfix)
+    * Fixed several display format issues with iFrame template and blueprint
+    * Fixed incorrect variable name in iFrame template
+
+# v3.5.8
+## 02/16/2021
+
+1. [](#improved)
+    * Updated Default Editor PDF and H5P shortcode syntax to be compatible with NextGen shortcode previews
+
+# v3.5.7
+## 02/15/2021
+
+1. [](#improved)
+    * Updated GoogleSlides shortcode formatting to use Bootstrap responsive embed class
+
 # v3.5.6
 ## 02/03/2021
 
