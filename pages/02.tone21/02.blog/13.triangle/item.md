@@ -26,7 +26,7 @@ In this unit, however, we hope to equip you with some ideas and strategies for d
 
 To begin, let's think about the components of a well-considered assessment plan. The National Research Council (2001) writes about the idea of an *assessment triangle* comprised of three equal and interdependent parts: *cognition,* or a model of the construct to be learned; *observation*, a performance assessment of some sort, and; an *interpretation*, or *inference* based on the data gathered in the performance.
 
-![alt-text](assessment-triangle.png "The Assessment Triangle showing the three components of cognition, observation, and interpretation.")
+![alt-text](z-assessment-triangle.png "The Assessment Triangle showing the three components of cognition, observation, and interpretation.")
 
 Assessment Triangle (National Research Council, 2001)
 
