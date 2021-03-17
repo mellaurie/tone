@@ -47,7 +47,7 @@ The term “big ideas” comes from  *[Understanding By Design](https://www.asc
 4. They require “uncoverage” because its meaning or value is rarely obvious to the learner, is counterintuitive or prone to misunderstanding
 5. They have great transfer value; applying to many other inquiries and issues over time — “horizontally” (across subjects) and “vertically” (through the years in later courses) in the curriculum and out of school
 
-*~Understanding by Design, p. 68.*
+*(Wiggins and McTighe, 2005, p. 68.)*
 
 Just as the big ideas of your discipline drive your passion and your student's inquiry, they also help direct the choices you make as an instructor. These big ideas serve as the cohesive "glue" that allows students to find meaning and connection between the diverse and complex elements of your area of study. It may be helpful to think of your big ideas as thesis statements that frame and organize your course content for students, with the intention of lending meaning and purpose to "real-world" contexts and applications.
 
