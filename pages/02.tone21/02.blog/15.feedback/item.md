@@ -1,16 +1,16 @@
 ---
 title: 'Purposeful Feedback'
 published: true
-date: '23-03-2021 08:00'
+date: '24-03-2021 08:00'
 taxonomy:
     category:
        - unit3
 hide_page_title: false
 show_sidebar: true
-header_image_file: 'laura-gilchrist-gGoKPJlkRb0-unsplash.jpg'
-header_image_alt_text: 'Very Large Light bulb'
-header_image_credit: 'Laura Gilchrist on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/gGoKPJlkRb0'
+header_image_file: 'jason-rosewell-ASKeuOZqhYU-unsplash.jpg'
+header_image_alt_text: 'Boy singing into a microphone'
+header_image_credit: 'Jason Rosewell on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/ASKeuOZqhYU'
 summary:
     enabled: '1'
 hide_from_post_list: false
@@ -44,17 +44,23 @@ This is not to suggest that feedback should focus more on the individual instead
 
 Take a moment to watch the video in the following learning activity and consider how you might apply it to your own feedback approach.
 
-!!! **Learning Activity**
-!!! In the following video, cognitive psychologist LeeAnn Renniger lists four specific strategies for giving effective feedback. (5 minutes)
-!!! [plugin:youtube](https://www.youtube.com/watch?v=wtl5UrrgU8c)
-!!! Reflect on the following questions:
-!!! 1. What do you think about the “pacing tool” Renniger mentions as a method for getting students ready to receive feedback? Would this step work better while giving video/audio feedback (for instance, through the Poodll plugin?), or can we incorporate it into written comments as well?
-!!! Renniger states, “Great feedback givers wrap their message in a question…[the] conversation is no longer a monologue, but rather joint problem-solving.”
-!!! 2. Consider the assessments in your course. Are there ample opportunities for learners to answer the questions posed in your feedback? Can they apply the feedback you’ve given them in subsequent formative and summative assessments?
+!!! **Learning Activity**  
+!!! In the following video, cognitive psychologist LeeAnn Renniger lists four specific strategies for giving effective feedback. (5 minutes).  
+[plugin:youtube](https://www.youtube.com/watch?v=wtl5UrrgU8c)
+!!! Reflect on the following questions:  
+!!! 1. What do you think about the “pacing tool” Renniger mentions as a method for getting students ready to receive feedback? Would this step work better while giving video/audio feedback (for instance, through the Poodll plugin?), or can we incorporate it into written comments as well?  
+!!! Renniger states,   
+!!! > “Great feedback givers wrap their message in a question…[the] conversation is no longer a monologue, but rather joint problem-solving.”  
+!!! 2. Consider the assessments in your course. Are there ample opportunities for learners to answer the questions posed in your feedback? Can they apply the feedback you’ve given them in subsequent formative and summative assessments?  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd03858a-2c9b-4314-b458-d8a289f766df/feedback_image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd03858a-2c9b-4314-b458-d8a289f766df/feedback_image.jpg)
+---
 
-![https://www.sheffield.ac.uk/staff/elevate/essentials/assessment-feedback-4](https://www.sheffield.ac.uk/staff/elevate/essentials/assessment-feedback-4)
+!!! **Learning Activity**  
+!!! The University of Sheffield has published the following list of expectations for feedback to enhance learning:  
+!!! ![alt-text](principles_of_feedback2.jpg)  
+!!! [Image Source](https://www.sheffield.ac.uk/staff/elevate/essentials/assessment-feedback-4)  
+!!! What do you notice?   
+!!! What do you wonder?
 
 Feedback that is both timely and consists of ongoing dialogue with students might sound like a lot, especially if you are teaching multiple classes. Instructor burnout is real, and we should address it. In her book, *Small Teaching Online* (2019), Flower Darby discusses “the power of multistep engagement throughout an assessment in helping students find it meaningful” (p.31). I would argue that multistep *feedback* is inherent in this approach.
 
@@ -62,14 +68,13 @@ Brief and informal feedback is an effective way to address misconceptions early.
 
 The evaluative language that characterizes much of the feedback we give, coupled with the looming presence of the grade itself can be intimidating for many students. Frequent opportunities for participation in the feedback process allows students to shape their own learning. It invites them to be apart of classroom culture and engage with the language surrounding assessment.
 
-_ _ _
 
-References:
+## References
 
-Buckingham, M., & Goodall, A. (2019). The Feedback Fallacy. *Harvard Business Review.* https://hbr.org/2019/03/the-feedback-fallacy%20and%20https://www.youtube.com/watch?v=w-HYZv6HzAs
+Buckingham, M., & Goodall, A. (2019). [The Feedback Fallacy.](https://hbr.org/2019/03/the-feedback-fallacy%20and%20) *Harvard Business Review.*
 
 Darby, F., & Lang, J. M. (2019). *Small Teaching Online: Applying Learning Science in Online Classes.* Jossey-Bass.
 
-Freishtat, R. (2014). How to Instruct and Motivate Through Feedback: A Top 1 List. *Berkley Center for Teaching & Learning*. https://teaching.berkeley.edu/news/how-instruct-and-motivate-through-feedback-top-1-list
+Freishtat, R. (2014). [How to Instruct and Motivate Through Feedback: A Top 1 List.](https://teaching.berkeley.edu/news/how-instruct-and-motivate-through-feedback-top-1-list) *Berkley Center for Teaching & Learning*.
 
-Nicol, D.J. & Macfarlane-Dick, D. (2006) Formative assessment and self‐regulated learning: a model and seven principles of good feedback practice. *Studies in Higher Education* 31(2): 2-19.
+Nicol, D.J. & Macfarlane-Dick, D. (2006) Formative assessment and self‐regulated learning: a model and seven principles of good feedback practice. *Studies in Higher Education* 31(2): 2-19. [![DOI:10.1080/03075070600572090](https://zenodo.org/badge/DOI/10.1080/03075070600572090.svg)](https://doi.org/10.1080/03075070600572090)
