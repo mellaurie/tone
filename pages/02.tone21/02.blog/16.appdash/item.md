@@ -7,10 +7,10 @@ taxonomy:
        - unit3
 hide_page_title: false
 show_sidebar: true
-header_image_file: 'appdash_logo-01.png'
-header_image_alt_text: 'AppDash Logo'
-header_image_credit: 'Jeff Snider'
-header_image_creditlink: ''
+header_image_file: 'edgar-castrejon-1CsaVdwfIew-unsplash.jpg'
+header_image_alt_text: 'All the citrus'
+header_image_credit: 'Edgar Castrejon on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/1CsaVdwfIew'
 summary:
     enabled: '1'
 hide_from_post_list: false
