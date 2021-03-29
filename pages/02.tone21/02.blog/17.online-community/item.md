@@ -1,16 +1,16 @@
 ---
-title: 'Formative Learning Activities'
+title: 'Situating Yourself Online'
 published: true
-date: '26-03-2021 08:00'
+date: '29-03-2021 08:00'
 taxonomy:
     category:
-       - unit3
+       - unit4
 hide_page_title: false
 show_sidebar: true
-header_image_file: 'edgar-castrejon-1CsaVdwfIew-unsplash.jpg'
-header_image_alt_text: 'All the citrus'
-header_image_credit: 'Edgar Castrejon on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/1CsaVdwfIew'
+header_image_file: 'twu.jpg'
+header_image_alt_text: 'TWU students'
+header_image_credit: 'TWU Staff Photographer'
+header_image_creditlink: 'https://www.twu.ca/news-events/news/international-student-enrolment-spikes'
 summary:
     enabled: '1'
 hide_from_post_list: false
@@ -20,15 +20,14 @@ feed:
     limit: 10
 ---
 
-[ui-accordion independent=true open=none]
-[ui-accordion-item title="Topic 1 - Visitors and Residents"]
-<br>
+For the last couple weeks of TOnE21, we are going to explore various aspects of building community online. It is likely apparent to you that TWU has for most of its history, been focussed on a residential, or on-campus undergraduate model. The primary mode of experiencing TWU has been on the Langley campus, with some satellite campuses in Richmond, Ottawa, and Bellingham. As a result, there has been a significant emphasis on creating and nurturing a sense of community and belonging in physical classrooms, dorms, athletics, recreation, service clubs, and ministry. The pandemic has forced our hand in thinking about what it meams to build this vital component of the TWU experience.
+
 It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'.
 
 ---
 
 [details="Note"]
-[Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
+[Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term is problematic when used to talk about people.
 [/details]
 
 ---
@@ -69,11 +68,10 @@ One of the people I look up to as an educator published a blog post which I beli
 
 <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-[/ui-accordion-item]
 
 
-[ui-accordion-item title="- Learning Activity"]
-<br>
+
+
 If you would like, take some time to engage in the following optional activity.
 
 [plugin:content-inject](_optional-activity)
