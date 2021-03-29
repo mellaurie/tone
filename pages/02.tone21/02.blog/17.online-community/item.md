@@ -77,6 +77,3 @@ One of the people I look up to as an educator published a blog post which I beli
 If you would like, take some time to engage in the following optional activity.
 
 [plugin:content-inject](_optional-activity)
-
-[/ui-accordion-item]
-[/ui-accordion]
