@@ -1,5 +1,5 @@
 ---
-title: 'Course Planning an Time Management'
+title: 'Course Planning and Time Management'
 published: true
 date: '07-04-2021 08:00'
 taxonomy:
@@ -20,25 +20,21 @@ feed:
     limit: 10
 ---
 
-![alt-text](eric-rothermel-FoKO4DpXamQ-unsplash.jpg "Open desk calendar")
-
-*[Image Credit: Eric Rothermel at Unsplash](https://unsplash.com/photos/FoKO4DpXamQ)*
-
 The TOnE sessions aim to promote a sense of community where we learn from each other and engage in rich dialogue. An abundance of digital resources and innovative ideas have emerged from our discussions. Looking ahead to the summer and fall terms, you might be wondering how to organize it all and what ideas to implement given a busy schedule. Let’s begin by discussing the planning stage of your course.
 
 **Deciding on Your Classroom Management Style**
 
 How will you set the stage for your class? How will you navigate through common teaching challenges? These questions lay the groundwork for classroom management. For instance, in an online class, how will you set policies for late assignments or a family crisis? Thinking about procedures, expectations, and policies early on helps to define and shape your teaching presence. While teaching online, your role as an instructor has undoubtedly changed and become more complex.
 
+![alt-text](eric-rothermel-FoKO4DpXamQ-unsplash.jpg "Open desk calendar")
+
+*[Image Credit: Eric Rothermel at Unsplash](https://unsplash.com/photos/FoKO4DpXamQ)*
+
 “The instructor’s role in online learning is contested and varied…It is made up of many sometimes contradictory practices, including digital environments, course design, learner assumptions and expectations, the teacher’s educational philosophies, habits, and communication styles, and institutional politics…It is, in a word, messy” (Veletsianos, 2016, p.22).
 
 Remember that students are also navigating through a new context, and their position as learners has evolved as a result. It is therefore essential to set norms and expectations, especially in collaborative spaces. Draft guidelines and norms for contributing to wikis and shared documents (e.g., netiquette). Provide tips for successful group- and teamwork.
 
 Consider creating a short video that takes students on a tour of your online course. Setting up a brief quiz of the syllabus at the beginning of your course can act as a quick check on whether students have reviewed the expectations. In a large class, adding a FAQs section on Moodle based on common questions and concerns (especially around major assignments), can reduce a potential influx of emails. When grading, it can also be beneficial to create a rubric in Moodle itself. Lastly, before incorporating new tools and activities, think about the demand on your time, and set healthy limits.
-
-![alt-text](emma-matthews-digital-content-production-8K62atzbulQ-unsplash.jpg "weekly desk calendar and notebook resting on a computer keyboard with a green plant in the top left corner")
-
-*[Image Credit: Emma Matthews Digital Content Production at Unsplash](https://unsplash.com/photos/8K62atzbulQ)*
 
 In her book, *Small Teaching Online* (2019), Flower Darby points out that “all of us have been conditioned to technologies that provide instance responses” (p.114). She suggests being “intentional in how we set due dates and communicate expected turnaround times so that our students know not to panic if they don’t receive an instance response” (p.115). In an online environment, you might consider a variation of open office hours. Live Q&A sessions based on specific topics and/or assignments would allow students to attend sessions more suited to their particular concerns. Frequent check-ins with students can also clarify misconceptions earlier and redirect end of the term questions. Asking learners to describe their Clearest Point/Muddiest Point at the end of each lecture or unit is a simple way to touch base and reinforce learning. This technique can be employed asynchronously (i.e. via MS Forms) or synchronously.
 
@@ -55,10 +51,10 @@ How we present ourselves through different types of technologies can vary. To th
 Consider your capacity to incorporate new tools into your course design. Bear in mind that embracing the “messiness” of emerging digital practices is part of the course design process.
 
 !!! ### Learning Activity:
-!!! As you look ahead and plan your course, reflect on the following:
-!!! 1. How has your role and “teaching presence” evolved thus far?
-!!! 2. What is one effective strategy or “rule-of-thumb” that has helped you to manage your time?
-!!! 3. What is one tool or resource you have found to be effective in building community?
+!!! As you look ahead and plan your course, reflect on the following:  
+!!! :fa-question: How has your role and “teaching presence” evolved thus far?  
+!!! :fa-question:  What is one effective strategy or “rule-of-thumb” that has helped you to manage your time?  
+!!! :fa-question:  What is one tool or resource you have found to be effective in building community?  
 
 
 ### References
