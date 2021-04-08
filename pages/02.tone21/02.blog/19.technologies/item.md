@@ -57,6 +57,7 @@ One place to start is to become familiar with the tools offered at TWU. By inves
 !!! ### Learning Activity  
 !!! ##### Using Discussion Forums  
 !!! Many instructors wonder how to use online discussion forums to engage students both synchronously and asynchronously throughout the semester. Moodle has several options to offer students the opportunity to collaborate and discuss course content using forums. [This informative page](https://docs.moodle.org/35/en/Forum_activity) demonstrates the variety of forum options available to you in Moodle.  
+!!!
 !!! Additional reading from the [Western Centre for Teaching and Learning](https://teaching.uwo.ca/):  
 !!! - [How do I use online discussion forums to create a community of inquiry?](http://www.teachology.ca/knowledgebase/how-do-i-use-online-discussion-forums-to-create-a-community-of-inquiry/)  
 !!! - [How do I use discussion forums to create an engaging online learning community?](http://www.teachology.ca/knowledgebase/how-do-i-use-discussion-forums-to-create-an-engaging-online-learning-community/)  
@@ -75,30 +76,50 @@ Take a moment to consider ways you currently incorporate ARE into your teaching 
 
 Read one, two, or all of the listed articles to deepen your understanding and reflective practice on using technologies for connection. Consider keeping a journal with point-form notes and questions for further reflection. Feel free to bookmark these links for a later time.
 
-- [6 Classroom-Tested Ways to Build Community For Online Learners](https://elearningindustry.com/classroom-tested-ways-to-build-online-learning-community-for-online-learners) (Liu, 2020)
+---
 
-    *This article was written based on an interview with the TWU Online Team and discusses how learning pods for educators and students can bring a human-centered approach to online teaching and learning.*
+[columns]
+[embedly]https://elearningindustry.com/classroom-tested-ways-to-build-online-learning-community-for-online-learners[/embedly]
 
-- [7 Ways to Solve the Problem of Loneliness in Online Learning](https://elearningindustry.com/ways-solve-problem-loneliness-in-online-learning) (Liu, 2020)
+☝🏾*This article was written based on an interview with the TWU Online Team and discusses how learning pods for educators and students can bring a human-centered approach to online teaching and learning.*
 
-    *This article was written based on an interview with the TWU Online Team and emphasizes the need for human connection in online education.*
+---
 
-- [Reflecting on Teaching Through the Screen](https://www.seanmichaelmorris.com/reflections-on-teaching-through-the-screen/) (Morris, 2021)
+[embedly]https://elearningindustry.com/ways-solve-problem-loneliness-in-online-learning[/embedly]
 
-    *Morris discusses his journey of developing critical consciousness about his work as an educator during COVID-19 and observations of creative colleagues who successfully built a digital pedagogy community.*
+☝🏾*This article was written based on an interview with the TWU Online Team and emphasizes the need for human connection in online education.*
 
-- [Students Talk to Me About Webcams](https://blog.mahabali.me/educational-technology-2/students-talk-to-me-about-webcams/) (Bali, 2021)
+---
 
-    *An interesting article discussing the hotly debated topic of cameras on vs cameras off from the perspective of students.*
 
-- [Three Active Learning Techniques to Try in Zoom (and How)](https://learninginnovation.duke.edu/blog/2021/03/three-active-learning-techniques-to-try-in-zoom-and-how/) (Rogers, 2021)
+[embedly]https://www.seanmichaelmorris.com/reflections-on-teaching-through-the-screen/[/embedly]
 
-    *In her short article, Rogers uses clearly written text instructions and visuals to share three practical suggestions for building community and engaging students when teaching in Zoom.*
+☝🏾*Morris discusses his journey of developing critical consciousness about his work as an educator during COVID-19 and observations of creative colleagues who successfully built a digital pedagogy community.*
 
-- [Zooming With Confidence!](https://bccampus.ca/2021/02/09/zooming-with-confidence/) (Caldwell, 2021)
 
-    *A quick read with five planning tips you can implement in your virtual classroom today!*
 
+[embedly]https://blog.mahabali.me/educational-technology-2/students-talk-to-me-about-webcams/[/embedly]
+
+☝🏾*An interesting article discussing the hotly debated topic of cameras on vs cameras off from the perspective of students.*
+
+---
+
+
+[embedly]https://learninginnovation.duke.edu/blog/2021/03/three-active-learning-techniques-to-try-in-zoom-and-how/[/embedly]
+
+☝🏾*In her short article, Rogers uses clearly written text instructions and visuals to share three practical suggestions for building community and engaging students when teaching in Zoom.*
+
+---
+
+
+[embedly]https://bccampus.ca/2021/02/09/zooming-with-confidence/[/embedly]
+
+☝🏾*A quick read with five planning tips you can implement in your virtual classroom today!*
+
+
+[/columns]
+
+---
 ### References
 
 Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., & Norman, M. K. (2010). *How learning works: 7 research-based principles for smart teaching.* Jossey-Bass.
