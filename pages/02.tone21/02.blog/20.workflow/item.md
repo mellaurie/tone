@@ -7,10 +7,10 @@ taxonomy:
        - unit4
 hide_page_title: false
 show_sidebar: true
-header_image_file: 'chris-montgomery-smgTvepind4-unsplash.jpg'
-header_image_alt_text: 'mug on a wooden table in front of a screen with several people engaged in a web conversation on a computer monitor'
-header_image_credit: 'Chris Montgomery on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/smgTvepind4'
+header_image_file: 'cat-han-ubm4FSs-jt0-unsplash.jpg'
+header_image_alt_text: 'curvy building'
+header_image_credit: 'Cat Han on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/ubm4FSs-jt0'
 summary:
     enabled: '1'
 hide_from_post_list: false
