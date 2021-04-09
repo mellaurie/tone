@@ -22,7 +22,7 @@ feed:
 
 ## Using Liberating Structures to Create and Sustain Communities of Inquiry
 
-[](ls1.jpg)
+![](ls1.jpg)
 
 ## One Another Relationships & Collaborative Community Building
 
@@ -38,11 +38,11 @@ One question for us educators is, “How can the modern classroom or learning sp
 
 One way to start answering this question is to take its opposite to the extreme. How can we completely guarantee we have disengaged students with “bodies present but minds absent” (McCandless & Lipmanowicz 2014). Here are a few options:
 
-- Use lots of PowerPoints and default to lecture 90% of the time (Presentation mode)
-- Save any engagement until the last few minutes, ask if anyone has any questions and wait for the most extroverted students to respond (Open Discussion).
-- Leave any brainstorm discussion open ended with no expectation of participation, time limits or processing time before discussion (The brainstorm).
-- Put maximum control of content in the hands of one or few people.
-- Only engage a small number of participants in actual discussion.
+:fa-check: Use lots of PowerPoints and default to lecture 90% of the time (Presentation mode)  
+:fa-check: Save any engagement until the last few minutes, ask if anyone has any questions and wait for the most extroverted students to respond (Open Discussion).  
+:fa-check: Leave any brainstorm discussion open ended with no expectation of participation, time limits or processing time before discussion (The brainstorm).  
+:fa-check: Put maximum control of content in the hands of one or few people.  
+:fa-check: Only engage a small number of participants in actual discussion.  
 
 The next thought exercise is to consider if anything on this list is something you are actually doing right now, whether to a greater or lesser extent. What could you stop doing to make space for more engagement?
 
@@ -56,7 +56,7 @@ That fear and desire for control I finally realized was limiting group insights,
 
 Keith McCandless and Henri Lipmanowicz posit that engagements happen along a continuum from centralized to distributed control, and from having one person to everyone actively and fully engaged (see diagram).
 
-![](https://lh3.googleusercontent.com/6C1Z-t8SkzHp1aCCBi_zg5n3i3vnnR7_-okhro2wKbhUw7mN8dyzJHMGJn1ln70Dy6KvoqimGRATH3BBxFi3ZwSwNvpYpeL1DnW-B-GrNL1GpeCGZ6upc_vfSMKJ1Hh-QZlmDKOK)
+![](ls2.jpg)
 
 In this diagram, conventional microstructures (presentation, managed and open discussions, status reports, etc) “perpetuate long running traditions” and limits fully engaged participation. Instead we fall into the trap of resorting to these “tried-and-true” methods of engagement while failing to notice what is really happening in the room and how our unconscious decisions directly impact the level of engagement in the room (McCandless & Lipmanowicz, 2014, p. 20).
 
@@ -83,7 +83,7 @@ Here is where the importance of structured group facilitation comes in, and Libe
 
 The diagram below shows what happens from an interaction point of view within the 1-2-4-All activity. All you have to do is count the number of lines between the dots to see how rich the engagement opportunity is with this structured activity, allowing everyone to participate. The depth of thinking that emerges is surprisingly rich!
 
-[https://lh6.googleusercontent.com/owVEuyRMdUKyZS31ZHoPaXhsCXLTMuAZ6ioG7f27ogot5MRbWOBc4aWzYVYfe0kAOzurq6g4qwIbUlbUjmpoOv1iRPqh5vPi4mqlXQP2GN1WSVKVy5WW_3A-Jwfxgr_4yytcpdv1](https://lh6.googleusercontent.com/owVEuyRMdUKyZS31ZHoPaXhsCXLTMuAZ6ioG7f27ogot5MRbWOBc4aWzYVYfe0kAOzurq6g4qwIbUlbUjmpoOv1iRPqh5vPi4mqlXQP2GN1WSVKVy5WW_3A-Jwfxgr_4yytcpdv1)
+![](1-2-4-All.png)
 
 ## Democratizing & decolonizing the classroom
 
@@ -134,29 +134,28 @@ These are just a few examples. The important thing is to “fail forward” in t
 
 What can this wonderful, collaborative approach to engaging everyone look like in an online synchronous environment (aka Zoom, Teams or other video conferencing software)?
 
-**Synchronous LS:**
+#### Synchronous LS
 
 - Mostly all LS activities in a series of timed breakout rooms with each group as needed accessing collaborative documents (Google Docs, MS Word 365, etc)
 - A combination of main room discussion (e.g. [User Experience Fishbowl](https://www.liberatingstructures.com/18-users-experience-fishbowl/)) and chat participation ([Mad Tea](https://www.liberatingstructures.com/mad-tea) is great for this).
 
-**Asynchronous LS :**
+#### Asynchronous LS
 
 - Allow students to self-form groups, timing, logistics leveraging technologies like collaborative documents and scheduling tools (Doodle, Calendly).
 - Students find their own time to meet and complete a structured activity in their synchronous time.
 - If due to time zone issues, it could be fully asynchronous through use of discussion forums, chat or texting platforms (Whatsapp, FB Messenger), but with firm parameters around response times and equal level of interaction by all members that could have some form of accountability metrics via user activity analytics (this brings us into an emerging field of learning analytics and learning engineering, but we won’t go there today)
 
-## Learning Activity: Your 15% Solution
-
-As a final reflection, take a moment to reflect on your takeaways from this article. “What is your 15 percent? Where do you have discretion and freedom to act? What can you do without more resources or authority to move one step forward in any of the following areas:
-
-- Engaging every one of your students in articulating their grapes of the learning
-- In helping provide a one-another communal space for listening and gathering insight
-- In disrupting old and out-dated ways to controlling dialogue and participation
-- In decolonizing and democratizing the untapped resources in the room
+!!! ### Learning Activity: Your 15% Solution
+!!!As a final reflection, take a moment to reflect on your takeaways from this article. “What is your 15 percent? Where do you have discretion and freedom to act? What can you do without more resources or authority to move one step forward in any of the following areas:
+!!!
+!!! :fa-check: Engaging every one of your students in articulating their grapes of the learning  
+!!! :fa-check: In helping provide a one-another communal space for listening and gathering insight  
+!!! :fa-check: In disrupting old and out-dated ways to controlling dialogue and participation  
+!!! :fa-check: In decolonizing and democratizing the untapped resources in the room  
 
 Anything else? What is possible now? What is emerging? What would happen if everyone was fully engaged?
 
-References:
+### References
 
 Begay, Jade. “Decolonizing Community Care in Response to COVID-19”. 2020. Available at: [https://ndncollective.org/indigenizing-and-decolonizing-community-care-in-response-to-covid-19/](https://ndncollective.org/indigenizing-and-decolonizing-community-care-in-response-to-covid-19/)
 
