@@ -7,10 +7,10 @@ taxonomy:
        - unit4
 hide_page_title: false
 show_sidebar: true
-header_image_file: 'chris-montgomery-smgTvepind4-unsplash.jpg'
-header_image_alt_text: 'mug on a wooden table in front of a screen with several people engaged in a web conversation on a computer monitor'
-header_image_credit: 'Chris Montgomery on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/smgTvepind4'
+header_image_file: 'ls1.jpg'
+header_image_alt_text: 'liberating structures'
+header_image_credit: 'Liberating Structures'
+header_image_creditlink: 'https://liberatingstructures.com'
 summary:
     enabled: '1'
 hide_from_post_list: false
@@ -22,9 +22,9 @@ feed:
 
 ## Using Liberating Structures to Create and Sustain Communities of Inquiry
 
-![](ls1.jpg)
 
-## One Another Relationships & Collaborative Community Building
+
+### One Another Relationships & Collaborative Community Building
 
 One insight into community building in the early church comes from 1 Corinthians 12:24-26:
 
