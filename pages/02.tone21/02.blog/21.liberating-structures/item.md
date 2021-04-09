@@ -22,7 +22,7 @@ feed:
 
 ## Using Liberating Structures to Create and Sustain Communities of Inquiry
 
-[https://lh6.googleusercontent.com/a2U4L-2ab283p46bZTj9ALTO3y7rysyMIxdloHsjwaeGZWt3emLyg-ekPM82fzC2zgcVVxl-Mz9LYl7MvsS3V8aAOymqAg8yccorYr9RfxypDl4S20q6nihHxnJ_3KfwmEld6DYp](https://lh6.googleusercontent.com/a2U4L-2ab283p46bZTj9ALTO3y7rysyMIxdloHsjwaeGZWt3emLyg-ekPM82fzC2zgcVVxl-Mz9LYl7MvsS3V8aAOymqAg8yccorYr9RfxypDl4S20q6nihHxnJ_3KfwmEld6DYp)
+[](ls1.jpg)
 
 ## One Another Relationships & Collaborative Community Building
 
@@ -56,7 +56,7 @@ That fear and desire for control I finally realized was limiting group insights,
 
 Keith McCandless and Henri Lipmanowicz posit that engagements happen along a continuum from centralized to distributed control, and from having one person to everyone actively and fully engaged (see diagram).
 
-[https://lh3.googleusercontent.com/6C1Z-t8SkzHp1aCCBi_zg5n3i3vnnR7_-okhro2wKbhUw7mN8dyzJHMGJn1ln70Dy6KvoqimGRATH3BBxFi3ZwSwNvpYpeL1DnW-B-GrNL1GpeCGZ6upc_vfSMKJ1Hh-QZlmDKOK](https://lh3.googleusercontent.com/6C1Z-t8SkzHp1aCCBi_zg5n3i3vnnR7_-okhro2wKbhUw7mN8dyzJHMGJn1ln70Dy6KvoqimGRATH3BBxFi3ZwSwNvpYpeL1DnW-B-GrNL1GpeCGZ6upc_vfSMKJ1Hh-QZlmDKOK)
+![](https://lh3.googleusercontent.com/6C1Z-t8SkzHp1aCCBi_zg5n3i3vnnR7_-okhro2wKbhUw7mN8dyzJHMGJn1ln70Dy6KvoqimGRATH3BBxFi3ZwSwNvpYpeL1DnW-B-GrNL1GpeCGZ6upc_vfSMKJ1Hh-QZlmDKOK)
 
 In this diagram, conventional microstructures (presentation, managed and open discussions, status reports, etc) “perpetuate long running traditions” and limits fully engaged participation. Instead we fall into the trap of resorting to these “tried-and-true” methods of engagement while failing to notice what is really happening in the room and how our unconscious decisions directly impact the level of engagement in the room (McCandless & Lipmanowicz, 2014, p. 20).
 
