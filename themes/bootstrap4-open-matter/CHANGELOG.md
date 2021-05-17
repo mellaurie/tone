@@ -1,3 +1,27 @@
+# v3.7.6
+## 04/29/2021
+
+1. [](#new)
+    * Added initial support for NextGen Editor custom media embeds
+
+# v3.7.5
+## 03/23/2021
+
+1. [](#improved)
+    * Better handling of breadcrumbs for MultiCourse Hub pages
+
+# v3.7.4
+## 03/20/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.7.3
+## 03/19/2021
+
+1. [](#improved)
+    * Removed display of Anchors Plugin link icons on Topics pages
+
 # v3.7.2
 ## 03/10/2021
 
